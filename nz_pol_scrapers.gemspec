@@ -1,6 +1,7 @@
 Gem::Specification.new do |s|
   s.name              = 'nz_pol_scrapers'
   s.version           = '0.1.0'
+  s.date              = '2014-03-18'
   s.summary           = 'Wikipedia scrapers which parse information about NZ politics'
   s.description       = 'Wikipedia scrapers which parse information about NZ politics'
   s.author            = 'Giles Thompson'
