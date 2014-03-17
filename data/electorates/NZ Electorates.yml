@@ -1,0 +1,193 @@
+---
+:Auckland Central:
+  :name: Auckland Central
+  :url: http://en.wikipedia.org/wiki/Auckland_Central_(New_Zealand_electorate)
+:Bay of Plenty:
+  :name: Bay of Plenty
+  :url: http://en.wikipedia.org/wiki/Bay_of_Plenty_(New_Zealand_electorate)
+:Botany:
+  :name: Botany
+  :url: http://en.wikipedia.org/wiki/Botany_(New_Zealand_electorate)
+:Christchurch Central:
+  :name: Christchurch Central
+  :url: http://en.wikipedia.org/wiki/Christchurch_Central
+:Christchurch East:
+  :name: Christchurch East
+  :url: http://en.wikipedia.org/wiki/Christchurch_East
+:Clutha-Southland:
+  :name: Clutha-Southland
+  :url: http://en.wikipedia.org/wiki/Clutha-Southland
+:Coromandel:
+  :name: Coromandel
+  :url: http://en.wikipedia.org/wiki/Coromandel_(New_Zealand_electorate)
+:Dunedin North:
+  :name: Dunedin North
+  :url: http://en.wikipedia.org/wiki/Dunedin_North_(New_Zealand_electorate)
+:Dunedin South:
+  :name: Dunedin South
+  :url: http://en.wikipedia.org/wiki/Dunedin_South
+:East Coast:
+  :name: East Coast
+  :url: http://en.wikipedia.org/wiki/East_Coast_(New_Zealand_electorate)
+:East Coast Bays:
+  :name: East Coast Bays
+  :url: http://en.wikipedia.org/wiki/East_Coast_Bays_(New_Zealand_electorate)
+:Epsom:
+  :name: Epsom
+  :url: http://en.wikipedia.org/wiki/Epsom_(New_Zealand_electorate)
+:Hamilton East:
+  :name: Hamilton East
+  :url: http://en.wikipedia.org/wiki/Hamilton_East_(New_Zealand_electorate)
+:Hamilton West:
+  :name: Hamilton West
+  :url: http://en.wikipedia.org/wiki/Hamilton_West_(New_Zealand_electorate)
+:Helensville:
+  :name: Helensville
+  :url: http://en.wikipedia.org/wiki/Helensville_(New_Zealand_electorate)
+:Hunua:
+  :name: Hunua
+  :url: http://en.wikipedia.org/wiki/Hunua
+:Hutt South:
+  :name: Hutt South
+  :url: http://en.wikipedia.org/wiki/Hutt_South
+:Ilam:
+  :name: Ilam
+  :url: http://en.wikipedia.org/wiki/Ilam_(New_Zealand_electorate)
+:Invercargill:
+  :name: Invercargill
+  :url: http://en.wikipedia.org/wiki/Invercargill_(New_Zealand_electorate)
+:Kaikōura:
+  :name: Kaikōura
+  :url: http://en.wikipedia.org/wiki/Kaik%C5%8Dura_(New_Zealand_electorate)
+:Kelston:
+  :name: Kelston
+  :url: http://en.wikipedia.org/wiki/Kelston_(New_Zealand_electorate)
+:Mana:
+  :name: Mana
+  :url: http://en.wikipedia.org/wiki/Mana_(New_Zealand_electorate)
+:Māngere:
+  :name: Māngere
+  :url: http://en.wikipedia.org/wiki/M%C4%81ngere_(New_Zealand_electorate)
+:Manukau East:
+  :name: Manukau East
+  :url: http://en.wikipedia.org/wiki/Manukau_East
+:Manurewa:
+  :name: Manurewa
+  :url: http://en.wikipedia.org/wiki/Manurewa_(New_Zealand_electorate)
+:Maungakiekie:
+  :name: Maungakiekie
+  :url: http://en.wikipedia.org/wiki/Maungakiekie_(New_Zealand_electorate)
+:Mount Albert:
+  :name: Mount Albert
+  :url: http://en.wikipedia.org/wiki/Mount_Albert_(New_Zealand_electorate)
+:Mount Roskill:
+  :name: Mount Roskill
+  :url: http://en.wikipedia.org/wiki/Mount_Roskill_(New_Zealand_electorate)
+:Napier:
+  :name: Napier
+  :url: http://en.wikipedia.org/wiki/Napier_(New_Zealand_electorate)
+:Nelson:
+  :name: Nelson
+  :url: http://en.wikipedia.org/wiki/Nelson_(New_Zealand_electorate)
+:New Lynn:
+  :name: New Lynn
+  :url: http://en.wikipedia.org/wiki/New_Lynn_(New_Zealand_electorate)
+:New Plymouth:
+  :name: New Plymouth
+  :url: http://en.wikipedia.org/wiki/New_Plymouth_(New_Zealand_electorate)
+:North Shore:
+  :name: North Shore
+  :url: http://en.wikipedia.org/wiki/North_Shore_(New_Zealand_electorate)
+:Northcote:
+  :name: Northcote
+  :url: http://en.wikipedia.org/wiki/Northcote_(New_Zealand_electorate)
+:Northland:
+  :name: Northland
+  :url: http://en.wikipedia.org/wiki/Northland_(New_Zealand_electorate)
+:Ōhariu:
+  :name: "Ōhariu"
+  :url: http://en.wikipedia.org/wiki/%C5%8Chariu
+:Ōtaki:
+  :name: "Ōtaki"
+  :url: http://en.wikipedia.org/wiki/%C5%8Ctaki_(New_Zealand_electorate)
+:Pakuranga:
+  :name: Pakuranga
+  :url: http://en.wikipedia.org/wiki/Pakuranga_(New_Zealand_electorate)
+:Palmerston North:
+  :name: Palmerston North
+  :url: http://en.wikipedia.org/wiki/Palmerston_North_(New_Zealand_electorate)
+:Port Hills:
+  :name: Port Hills
+  :url: http://en.wikipedia.org/wiki/Port_Hills_(New_Zealand_electorate)
+:Rangitata:
+  :name: Rangitata
+  :url: http://en.wikipedia.org/wiki/Rangitata_(New_Zealand_electorate)
+:Rangitīkei:
+  :name: Rangitīkei
+  :url: http://en.wikipedia.org/wiki/Rangit%C4%ABkei_(New_Zealand_electorate)
+:Rimutaka:
+  :name: Rimutaka
+  :url: http://en.wikipedia.org/wiki/Rimutaka_(New_Zealand_electorate)
+:Rodney:
+  :name: Rodney
+  :url: http://en.wikipedia.org/wiki/Rodney_(New_Zealand_electorate)
+:Rongotai:
+  :name: Rongotai
+  :url: http://en.wikipedia.org/wiki/Rongotai_(New_Zealand_electorate)
+:Rotorua:
+  :name: Rotorua
+  :url: http://en.wikipedia.org/wiki/Rotorua_(New_Zealand_electorate)
+:Selwyn:
+  :name: Selwyn
+  :url: http://en.wikipedia.org/wiki/Selwyn_(New_Zealand_electorate)
+:Tāmaki:
+  :name: Tāmaki
+  :url: http://en.wikipedia.org/wiki/T%C4%81maki_(New_Zealand_electorate)
+:Taranaki-King Country:
+  :name: Taranaki-King Country
+  :url: http://en.wikipedia.org/wiki/Taranaki-King_Country
+:Taupō:
+  :name: Taupō
+  :url: http://en.wikipedia.org/wiki/Taup%C5%8D_(New_Zealand_electorate)
+:Tauranga:
+  :name: Tauranga
+  :url: http://en.wikipedia.org/wiki/Tauranga_(New_Zealand_electorate)
+:Te Atatū:
+  :name: Te Atatū
+  :url: http://en.wikipedia.org/wiki/Te_Atat%C5%AB_(New_Zealand_electorate)
+:Tukituki:
+  :name: Tukituki
+  :url: http://en.wikipedia.org/wiki/Tukituki_(New_Zealand_electorate)
+:Upper Harbour:
+  :name: Upper Harbour
+  :url: http://en.wikipedia.org/wiki/Upper_Harbour_(New_Zealand_electorate)
+:Waikato:
+  :name: Waikato
+  :url: http://en.wikipedia.org/wiki/Waikato_(New_Zealand_electorate)
+:Waimakariri:
+  :name: Waimakariri
+  :url: http://en.wikipedia.org/wiki/Waimakariri_(New_Zealand_electorate)
+:Wairarapa:
+  :name: Wairarapa
+  :url: http://en.wikipedia.org/wiki/Wairarapa_(New_Zealand_electorate)
+:Waitakere:
+  :name: Waitakere
+  :url: http://en.wikipedia.org/wiki/Waitakere_(New_Zealand_electorate)
+:Waitaki:
+  :name: Waitaki
+  :url: http://en.wikipedia.org/wiki/Waitaki_(New_Zealand_electorate)
+:Wellington Central:
+  :name: Wellington Central
+  :url: http://en.wikipedia.org/wiki/Wellington_Central_(New_Zealand_electorate)
+:West Coast-Tasman:
+  :name: West Coast-Tasman
+  :url: http://en.wikipedia.org/wiki/West_Coast-Tasman
+:Whanganui:
+  :name: Whanganui
+  :url: http://en.wikipedia.org/wiki/Whanganui_(New_Zealand_electorate)
+:Whangarei:
+  :name: Whangarei
+  :url: http://en.wikipedia.org/wiki/Whangarei_(New_Zealand_electorate)
+:Wigram:
+  :name: Wigram
+  :url: http://en.wikipedia.org/wiki/Wigram_(New_Zealand_electorate)

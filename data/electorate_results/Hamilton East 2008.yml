@@ -1,0 +1,267 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: David Bennett
+    :last_name: Bennett
+    :first_name: David
+  :candidacy:
+    :votes: 19441
+    :percent: 58.58
+    :electorate: Hamilton East
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Sue Moroney
+    :last_name: Moroney
+    :first_name: Sue
+  :candidacy:
+    :votes: 10621
+    :percent: 32.0
+    :electorate: Hamilton East
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Linda Persson
+    :last_name: Persson
+    :first_name: Linda
+  :candidacy:
+    :votes: 1433
+    :percent: 4.32
+    :electorate: Hamilton East
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Doug Woolerton
+    :last_name: Woolerton
+    :first_name: Doug
+  :candidacy:
+    :votes: 830
+    :percent: 2.5
+    :electorate: Hamilton East
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Garry B Mallett
+    :last_name: Mallett
+    :first_name: Garry B
+  :candidacy:
+    :votes: 420
+    :percent: 1.27
+    :electorate: Hamilton East
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#363096"
+    :name: The Kiwi Party
+    :short_name: Kiwi
+  :candidate:
+    :name: Robyn Jackson
+    :last_name: Jackson
+    :first_name: Robyn
+  :candidacy:
+    :votes: 180
+    :percent: 0.54
+    :electorate: Hamilton East
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future New Zealand
+    :short_name: United Future
+  :candidate:
+    :name: Rochelle White
+    :last_name: White
+    :first_name: Rochelle
+  :candidacy:
+    :votes: 168
+    :percent: 0.51
+    :electorate: Hamilton East
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: Carolyn McKenzie
+    :last_name: McKenzie
+    :first_name: Carolyn
+  :candidacy:
+    :votes: 54
+    :percent: 0.16
+    :electorate: Hamilton East
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#84C6C6"
+    :name: The Republic of New Zealand Party
+    :short_name: RONZ
+  :candidate:
+    :name: Jack Gielen
+    :last_name: Gielen
+    :first_name: Jack
+  :candidacy:
+    :votes: 41
+    :percent: 0.12
+    :electorate: Hamilton East
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 323
+    :percent: 0.95
+    :electorate: Hamilton East
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#186E23"
+    :name: Bill and Ben Party
+    :short_name: Bill and Ben
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 243
+    :percent: 0.72
+    :electorate: Hamilton East
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: New Zealand Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 190
+    :percent: 0.56
+    :electorate: Hamilton East
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 129
+    :percent: 0.38
+    :electorate: Hamilton East
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FFEB33"
+    :name: The Family Party
+    :short_name: Family Party
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 90
+    :percent: 0.27
+    :electorate: Hamilton East
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 21
+    :percent: 0.06
+    :electorate: Hamilton East
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 17
+    :percent: 0.05
+    :electorate: Hamilton East
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FF0066"
+    :name: Workers Party of New Zealand
+    :short_name: Workers Party
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 15
+    :percent: 0.04
+    :electorate: Hamilton East
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#531E8A"
+    :name: New Zealand Pacific Party
+    :short_name: Pacific
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 13
+    :percent: 0.04
+    :electorate: Hamilton East
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#467CFA"
+    :name: Residents Action Movement
+    :short_name: RAM
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 2
+    :percent: 0.01
+    :electorate: Hamilton East
+    :year: '2008'
+    :election_type: general

@@ -1,0 +1,183 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Lianne Dalziel
+    :last_name: Dalziel
+    :first_name: Lianne
+  :candidacy:
+    :votes: 15559
+    :percent: 55.54
+    :electorate: Christchurch East
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Aaron Gilmore
+    :last_name: Gilmore
+    :first_name: Aaron
+  :candidacy:
+    :votes: 10225
+    :percent: 36.5
+    :electorate: Christchurch East
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Mojo Mathers
+    :last_name: Mathers
+    :first_name: Mojo
+  :candidacy:
+    :votes: 1347
+    :percent: 4.81
+    :electorate: Christchurch East
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: Leighton Baker
+    :last_name: Baker
+    :first_name: Leighton
+  :candidacy:
+    :votes: 522
+    :percent: 1.86
+    :electorate: Christchurch East
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: Michael Britnell
+    :last_name: Britnell
+    :first_name: Michael
+  :candidacy:
+    :votes: 254
+    :percent: 0.91
+    :electorate: Christchurch East
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Johnny Miller
+    :last_name: Miller
+    :first_name: Johnny
+  :candidacy:
+    :votes: 108
+    :percent: 0.39
+    :electorate: Christchurch East
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1801
+    :percent: 6.26
+    :electorate: Christchurch East
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 101
+    :percent: 0.35
+    :electorate: Christchurch East
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 84
+    :percent: 0.29
+    :electorate: Christchurch East
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 63
+    :percent: 0.22
+    :electorate: Christchurch East
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 28
+    :percent: 0.1
+    :electorate: Christchurch East
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party for Social Credit
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 22
+    :percent: 0.08
+    :electorate: Christchurch East
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 17
+    :percent: 0.06
+    :electorate: Christchurch East
+    :year: '2011'
+    :election_type: general

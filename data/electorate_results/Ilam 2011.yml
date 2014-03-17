@@ -1,0 +1,183 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Gerry Brownlee
+    :last_name: Brownlee
+    :first_name: Gerry
+  :candidacy:
+    :votes: 20070
+    :percent: 60.5
+    :electorate: Ilam
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: John Parsons
+    :last_name: Parsons
+    :first_name: John
+  :candidacy:
+    :votes: 6758
+    :percent: 20.34
+    :electorate: Ilam
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Kennedy Graham
+    :last_name: Graham
+    :first_name: Kennedy
+  :candidacy:
+    :votes: 5099
+    :percent: 15.35
+    :electorate: Ilam
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: Roger Larkins
+    :last_name: Larkins
+    :first_name: Roger
+  :candidacy:
+    :votes: 767
+    :percent: 2.31
+    :electorate: Ilam
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future New Zealand
+    :short_name: United Future
+  :candidate:
+    :name: Vanessa Roberts
+    :last_name: Roberts
+    :first_name: Vanessa
+  :candidacy:
+    :votes: 280
+    :percent: 0.84
+    :electorate: Ilam
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Gareth Veale
+    :last_name: Veale
+    :first_name: Gareth
+  :candidacy:
+    :votes: 252
+    :percent: 0.76
+    :electorate: Ilam
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1350
+    :percent: 3.95
+    :electorate: Ilam
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 171
+    :percent: 0.5
+    :electorate: Ilam
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 106
+    :percent: 0.31
+    :electorate: Ilam
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 53
+    :percent: 0.16
+    :electorate: Ilam
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 29
+    :percent: 0.08
+    :electorate: Ilam
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 17
+    :percent: 0.05
+    :electorate: Ilam
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party for Social Credit
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 16
+    :percent: 0.05
+    :electorate: Ilam
+    :year: '2011'
+    :election_type: general

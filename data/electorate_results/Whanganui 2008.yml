@@ -1,0 +1,267 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Chester Borrows
+    :last_name: Borrows
+    :first_name: Chester
+  :candidacy:
+    :votes: 19072
+    :percent: 56.3
+    :electorate: Whanganui
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Hamish McDouall
+    :last_name: McDouall
+    :first_name: Hamish
+  :candidacy:
+    :votes: 12739
+    :percent: 37.61
+    :electorate: Whanganui
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: John Milnes
+    :last_name: Milnes
+    :first_name: John
+  :candidacy:
+    :votes: 1503
+    :percent: 4.44
+    :electorate: Whanganui
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Alan Davidson
+    :last_name: Davidson
+    :first_name: Alan
+  :candidacy:
+    :votes: 336
+    :percent: 0.99
+    :electorate: Whanganui
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: Heather Marion Smith
+    :last_name: Smith
+    :first_name: Heather Marion
+  :candidacy:
+    :votes: 225
+    :percent: 0.66
+    :electorate: Whanganui
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1761
+    :percent: 5.14
+    :electorate: Whanganui
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 342
+    :percent: 1.0
+    :electorate: Whanganui
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: New Zealand Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 253
+    :percent: 0.74
+    :electorate: Whanganui
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#186E23"
+    :name: Bill and Ben Party
+    :short_name: Bill and Ben
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 249
+    :percent: 0.73
+    :electorate: Whanganui
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 224
+    :percent: 0.65
+    :electorate: Whanganui
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#363096"
+    :name: The Kiwi Party
+    :short_name: Kiwi
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 186
+    :percent: 0.54
+    :electorate: Whanganui
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 116
+    :percent: 0.34
+    :electorate: Whanganui
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FFEB33"
+    :name: The Family Party
+    :short_name: Family Party
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 91
+    :percent: 0.27
+    :electorate: Whanganui
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 28
+    :percent: 0.08
+    :electorate: Whanganui
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 18
+    :percent: 0.05
+    :electorate: Whanganui
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FF0066"
+    :name: Workers Party of New Zealand
+    :short_name: Workers Party
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 16
+    :percent: 0.05
+    :electorate: Whanganui
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#531E8A"
+    :name: New Zealand Pacific Party
+    :short_name: Pacific
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 10
+    :percent: 0.03
+    :electorate: Whanganui
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#84C6C6"
+    :name: The Republic of New Zealand Party
+    :short_name: RONZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 3
+    :percent: 0.01
+    :electorate: Whanganui
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#467CFA"
+    :name: Residents Action Movement
+    :short_name: RAM
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 2
+    :percent: 0.01
+    :electorate: Whanganui
+    :year: '2008'
+    :election_type: general

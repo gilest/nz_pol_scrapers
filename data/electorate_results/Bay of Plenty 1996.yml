@@ -1,0 +1,211 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Tony Ryall
+    :last_name: Ryall
+    :first_name: Tony
+  :candidacy:
+    :votes: 13923
+    :percent: 42.63
+    :electorate: Bay of Plenty
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Peter Brown
+    :last_name: Brown
+    :first_name: Peter
+  :candidacy:
+    :votes: 8770
+    :percent: 26.85
+    :electorate: Bay of Plenty
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Julie Tucker
+    :last_name: Tucker
+    :first_name: Julie
+  :candidacy:
+    :votes: 5354
+    :percent: 16.39
+    :electorate: Bay of Plenty
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Jim Bennett
+    :last_name: Bennett
+    :first_name: Jim
+  :candidacy:
+    :votes: 2609
+    :percent: 7.99
+    :electorate: Bay of Plenty
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Coalition
+    :short_name: Christian Coalition
+  :candidate:
+    :name: Judy Turner
+    :last_name: Turner
+    :first_name: Judy
+  :candidacy:
+    :votes: 1253
+    :percent: 3.84
+    :electorate: Bay of Plenty
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Reg Turner
+    :last_name: Turner
+    :first_name: Reg
+  :candidacy:
+    :votes: 359
+    :percent: 1.1
+    :electorate: Bay of Plenty
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: McGillicuddy Serious Party
+    :short_name: McGillicuddy Serious
+  :candidate:
+    :name: Mark Servian
+    :last_name: Servian
+    :first_name: Mark
+  :candidacy:
+    :votes: 225
+    :percent: 0.69
+    :electorate: Bay of Plenty
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#C96"
+    :name: Te Tawharau
+    :short_name: Te Tawharau
+  :candidate:
+    :name: Rangitukehu David Paul
+    :last_name: Paul
+    :first_name: Rangitukehu David
+  :candidacy:
+    :votes: 78
+    :percent: 0.24
+    :electorate: Bay of Plenty
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#333366"
+    :name: Natural Law Party of New Zealand
+    :short_name: Natural Law
+  :candidate:
+    :name: Lew Cormack
+    :last_name: Cormack
+    :first_name: Lew
+  :candidacy:
+    :votes: 67
+    :percent: 0.21
+    :electorate: Bay of Plenty
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#399"
+    :name: Progressive Green Party
+    :short_name: Progressive Greens
+  :candidate:
+    :name: Graeme Leech
+    :last_name: Leech
+    :first_name: Graeme
+  :candidacy:
+    :votes: 24
+    :percent: 0.07
+    :electorate: Bay of Plenty
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 446
+    :percent: 1.36
+    :electorate: Bay of Plenty
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#663377"
+    :name: United New Zealand
+    :short_name: United NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 169
+    :percent: 0.52
+    :electorate: Bay of Plenty
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Animals First
+    :short_name: Animals First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 51
+    :percent: 0.16
+    :electorate: Bay of Plenty
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 19
+    :percent: 0.06
+    :electorate: Bay of Plenty
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 10
+    :percent: 0.03
+    :electorate: Bay of Plenty
+    :year: '1996'
+    :election_type: general

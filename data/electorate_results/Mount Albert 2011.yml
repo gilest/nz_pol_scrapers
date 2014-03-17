@@ -1,0 +1,183 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: David Shearer
+    :last_name: Shearer
+    :first_name: David
+  :candidacy:
+    :votes: 18716
+    :percent: 59.19
+    :electorate: Mount Albert
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Melissa Lee
+    :last_name: Lee
+    :first_name: Melissa
+  :candidacy:
+    :votes: 8695
+    :percent: 27.5
+    :electorate: Mount Albert
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: David Clendon
+    :last_name: Clendon
+    :first_name: David
+  :candidacy:
+    :votes: 3000
+    :percent: 9.49
+    :electorate: Mount Albert
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: Frank Poching
+    :last_name: Poching
+    :first_name: Frank
+  :candidacy:
+    :votes: 786
+    :percent: 2.49
+    :electorate: Mount Albert
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Stephen Boyle
+    :last_name: Boyle
+    :first_name: Stephen
+  :candidacy:
+    :votes: 425
+    :percent: 1.34
+    :electorate: Mount Albert
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1494
+    :percent: 4.53
+    :electorate: Mount Albert
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 191
+    :percent: 0.58
+    :electorate: Mount Albert
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 172
+    :percent: 0.52
+    :electorate: Mount Albert
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 135
+    :percent: 0.41
+    :electorate: Mount Albert
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future New Zealand
+    :short_name: United Future
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 114
+    :percent: 0.35
+    :electorate: Mount Albert
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 29
+    :percent: 0.09
+    :electorate: Mount Albert
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 21
+    :percent: 0.06
+    :electorate: Mount Albert
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 5
+    :percent: 0.02
+    :electorate: Mount Albert
+    :year: '2011'
+    :election_type: general

@@ -1,0 +1,197 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Georgina Beyer
+    :last_name: Beyer
+    :first_name: Georgina
+  :candidacy:
+    :votes: 13572
+    :percent: 0.0
+    :electorate: Wairarapa
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Ian Buchanan
+    :last_name: Buchanan
+    :first_name: Ian
+  :candidacy:
+    :votes: 7200
+    :percent: 0.0
+    :electorate: Wairarapa
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage Party of New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: Merepeka Raukawa-Tait
+    :last_name: Raukawa-Tait
+    :first_name: Merepeka
+  :candidacy:
+    :votes: 5852
+    :percent: 0.0
+    :electorate: Wairarapa
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Edwin Perry
+    :last_name: Perry
+    :first_name: Edwin
+  :candidacy:
+    :votes: 1552
+    :percent: 0.0
+    :electorate: Wairarapa
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Sarah Millington
+    :last_name: Millington
+    :first_name: Sarah
+  :candidacy:
+    :votes: 861
+    :percent: 0.0
+    :electorate: Wairarapa
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Ian MacFarlane
+    :last_name: MacFarlane
+    :first_name: Ian
+  :candidacy:
+    :votes: 625
+    :percent: 0.0
+    :electorate: Wairarapa
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Frank Owen
+    :last_name: Owen
+    :first_name: Frank
+  :candidacy:
+    :votes: 617
+    :percent: 0.0
+    :electorate: Wairarapa
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: Jim Anderton's Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: Bill Henderson
+    :last_name: Henderson
+    :first_name: Bill
+  :candidacy:
+    :votes: 223
+    :percent: 0.0
+    :electorate: Wairarapa
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Gerald Tait
+    :last_name: Tait
+    :first_name: Gerald
+  :candidacy:
+    :votes: 159
+    :percent: 0.0
+    :electorate: Wairarapa
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#666666"
+    :name: Outdoor Recreation New Zealand
+    :short_name: ORNZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 525
+    :percent: 0.0
+    :electorate: Wairarapa
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 178
+    :percent: 0.0
+    :electorate: Wairarapa
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 32
+    :percent: 0.0
+    :electorate: Wairarapa
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 5
+    :percent: 0.0
+    :electorate: Wairarapa
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#FFFFC0"
+    :name: NMP
+    :short_name: NMP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 3
+    :percent: 0.0
+    :electorate: Wairarapa
+    :year: '2002'
+    :election_type: general

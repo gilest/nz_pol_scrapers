@@ -1,0 +1,197 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Bill English
+    :last_name: English
+    :first_name: Bill
+  :candidacy:
+    :votes: 21375
+    :percent: 68.83
+    :electorate: Clutha-Southland
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Tat Loo
+    :last_name: Loo
+    :first_name: Tat
+  :candidacy:
+    :votes: 5207
+    :percent: 16.77
+    :electorate: Clutha-Southland
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Rachael Goldsmith
+    :last_name: Goldsmith
+    :first_name: Rachael
+  :candidacy:
+    :votes: 2633
+    :percent: 8.48
+    :electorate: Clutha-Southland
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Don Nicolson
+    :last_name: Nicolson
+    :first_name: Don
+  :candidacy:
+    :votes: 796
+    :percent: 2.56
+    :electorate: Clutha-Southland
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: Ross Calverley
+    :last_name: Calverley
+    :first_name: Ross
+  :candidacy:
+    :votes: 787
+    :percent: 2.53
+    :electorate: Clutha-Southland
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#E2AB20"
+    :name: New Zealand Sovereignty Party
+    :short_name: Sovereignty Party
+  :candidate:
+    :name: Tony Corbett
+    :last_name: Corbett
+    :first_name: Tony
+  :candidacy:
+    :votes: 130
+    :percent: 0.42
+    :electorate: Clutha-Southland
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: Robert Mills
+    :last_name: Mills
+    :first_name: Robert
+  :candidacy:
+    :votes: 128
+    :percent: 0.41
+    :electorate: Clutha-Southland
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1556
+    :percent: 4.89
+    :electorate: Clutha-Southland
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future New Zealand
+    :short_name: United Future
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 259
+    :percent: 0.81
+    :electorate: Clutha-Southland
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 210
+    :percent: 0.66
+    :electorate: Clutha-Southland
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 136
+    :percent: 0.43
+    :electorate: Clutha-Southland
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 48
+    :percent: 0.15
+    :electorate: Clutha-Southland
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 24
+    :percent: 0.08
+    :electorate: Clutha-Southland
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 17
+    :percent: 0.05
+    :electorate: Clutha-Southland
+    :year: '2011'
+    :election_type: general

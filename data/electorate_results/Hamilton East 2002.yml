@@ -1,0 +1,197 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Dianne Yates
+    :last_name: Yates
+    :first_name: Dianne
+  :candidacy:
+    :votes: 12827
+    :percent: 40.59
+    :electorate: Hamilton East
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Tony Steel
+    :last_name: Steel
+    :first_name: Tony
+  :candidacy:
+    :votes: 12213
+    :percent: 38.65
+    :electorate: Hamilton East
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Doug Woolerton
+    :last_name: Woolerton
+    :first_name: Doug
+  :candidacy:
+    :votes: 2099
+    :percent: 6.64
+    :electorate: Hamilton East
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Cathy Olsen
+    :last_name: Olsen
+    :first_name: Cathy
+  :candidacy:
+    :votes: 1665
+    :percent: 5.27
+    :electorate: Hamilton East
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future New Zealand
+    :short_name: United Future
+  :candidate:
+    :name: Richard Carter
+    :last_name: Carter
+    :first_name: Richard
+  :candidacy:
+    :votes: 1101
+    :percent: 3.48
+    :electorate: Hamilton East
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Brian George Dawson
+    :last_name: Dawson
+    :first_name: Brian George
+  :candidacy:
+    :votes: 751
+    :percent: 2.38
+    :electorate: Hamilton East
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage Party of New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: Gavin Denby
+    :last_name: Denby
+    :first_name: Gavin
+  :candidacy:
+    :votes: 307
+    :percent: 0.97
+    :electorate: Hamilton East
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Ravaani D K Ghaemmaghamy
+    :last_name: Ghaemmaghamy
+    :first_name: Ravaani D K
+  :candidacy:
+    :votes: 177
+    :percent: 0.56
+    :electorate: Hamilton East
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: New Zealand Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: Jim Medland
+    :last_name: Medland
+    :first_name: Jim
+  :candidacy:
+    :votes: 177
+    :percent: 0.56
+    :electorate: Hamilton East
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#666666"
+    :name: Outdoor Recreation New Zealand
+    :short_name: ORNZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 255
+    :percent: 0.8
+    :electorate: Hamilton East
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 157
+    :percent: 0.49
+    :electorate: Hamilton East
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 18
+    :percent: 0.06
+    :electorate: Hamilton East
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 17
+    :percent: 0.05
+    :electorate: Hamilton East
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#FFFFC0"
+    :name: NMP
+    :short_name: NMP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 2
+    :percent: 0.01
+    :electorate: Hamilton East
+    :year: '2002'
+    :election_type: general

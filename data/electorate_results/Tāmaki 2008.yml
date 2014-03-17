@@ -1,0 +1,267 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Allan Peachey
+    :last_name: Peachey
+    :first_name: Allan
+  :candidacy:
+    :votes: 24863
+    :percent: 65.74
+    :electorate: Tāmaki
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Josephine Bartley
+    :last_name: Bartley
+    :first_name: Josephine
+  :candidacy:
+    :votes: 7843
+    :percent: 20.74
+    :electorate: Tāmaki
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Richard Leckinger
+    :last_name: Leckinger
+    :first_name: Richard
+  :candidacy:
+    :votes: 2216
+    :percent: 5.86
+    :electorate: Tāmaki
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Chris Simmons
+    :last_name: Simmons
+    :first_name: Chris
+  :candidacy:
+    :votes: 1683
+    :percent: 4.45
+    :electorate: Tāmaki
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Doug Nabbs
+    :last_name: Nabbs
+    :first_name: Doug
+  :candidacy:
+    :votes: 639
+    :percent: 1.69
+    :electorate: Tāmaki
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: New Zealand Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: Ralph Taylor
+    :last_name: Taylor
+    :first_name: Ralph
+  :candidacy:
+    :votes: 292
+    :percent: 0.77
+    :electorate: Tāmaki
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future New Zealand
+    :short_name: United Future
+  :candidate:
+    :name: Gregory Graydon
+    :last_name: Graydon
+    :first_name: Gregory
+  :candidacy:
+    :votes: 282
+    :percent: 0.75
+    :electorate: Tāmaki
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 201
+    :percent: 0.52
+    :electorate: Tāmaki
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#186E23"
+    :name: Bill and Ben Party
+    :short_name: Bill and Ben
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 104
+    :percent: 0.27
+    :electorate: Tāmaki
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#531E8A"
+    :name: New Zealand Pacific Party
+    :short_name: Pacific
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 98
+    :percent: 0.25
+    :electorate: Tāmaki
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#363096"
+    :name: The Kiwi Party
+    :short_name: Kiwi
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 79
+    :percent: 0.21
+    :electorate: Tāmaki
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 65
+    :percent: 0.17
+    :electorate: Tāmaki
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FFEB33"
+    :name: The Family Party
+    :short_name: Family Party
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 46
+    :percent: 0.12
+    :electorate: Tāmaki
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 20
+    :percent: 0.05
+    :electorate: Tāmaki
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#467CFA"
+    :name: Residents Action Movement
+    :short_name: RAM
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 19
+    :percent: 0.05
+    :electorate: Tāmaki
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 7
+    :percent: 0.02
+    :electorate: Tāmaki
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 3
+    :percent: 0.01
+    :electorate: Tāmaki
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#84C6C6"
+    :name: The Republic of New Zealand Party
+    :short_name: RONZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 2
+    :percent: 0.01
+    :electorate: Tāmaki
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FF0066"
+    :name: Workers Party of New Zealand
+    :short_name: Workers Party
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 2
+    :percent: 0.01
+    :electorate: Tāmaki
+    :year: '2008'
+    :election_type: general

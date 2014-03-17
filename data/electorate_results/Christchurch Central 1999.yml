@@ -1,0 +1,337 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Tim Barnett
+    :last_name: Barnett
+    :first_name: Tim
+  :candidacy:
+    :votes: 17229
+    :percent: 52.8
+    :electorate: Christchurch Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: John Stringer
+    :last_name: Stringer
+    :first_name: John
+  :candidacy:
+    :votes: 7825
+    :percent: 23.98
+    :electorate: Christchurch Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Liz Gordon
+    :last_name: Gordon
+    :first_name: Liz
+  :candidacy:
+    :votes: 2690
+    :percent: 8.24
+    :electorate: Christchurch Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Diana Pennell
+    :last_name: Pennell
+    :first_name: Diana
+  :candidacy:
+    :votes: 1658
+    :percent: 5.08
+    :electorate: Christchurch Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Katherine Sillars
+    :last_name: Sillars
+    :first_name: Katherine
+  :candidacy:
+    :votes: 951
+    :percent: 2.91
+    :electorate: Christchurch Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage Party of New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: John Bryant
+    :last_name: Bryant
+    :first_name: John
+  :candidacy:
+    :votes: 689
+    :percent: 2.11
+    :electorate: Christchurch Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: John Ballantyne
+    :last_name: Ballantyne
+    :first_name: John
+  :candidacy:
+    :votes: 641
+    :percent: 1.96
+    :electorate: Christchurch Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: Future New Zealand
+    :short_name: Future NZ
+  :candidate:
+    :name: Daryl Gregory
+    :last_name: Gregory
+    :first_name: Daryl
+  :candidacy:
+    :votes: 481
+    :percent: 1.47
+    :electorate: Christchurch Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: McGillicuddy Serious Party
+    :short_name: McGillicuddy Serious
+  :candidate:
+    :name: Cecil Murgatroyd
+    :last_name: Murgatroyd
+    :first_name: Cecil
+  :candidacy:
+    :votes: 232
+    :percent: 0.71
+    :electorate: Christchurch Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: David Ball
+    :last_name: Ball
+    :first_name: David
+  :candidacy:
+    :votes: 132
+    :percent: 0.4
+    :electorate: Christchurch Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#800000"
+    :name: Communist League
+    :short_name: Communist League
+  :candidate:
+    :name: Ruth Gray
+    :last_name: Gray
+    :first_name: Ruth
+  :candidacy:
+    :votes: 51
+    :percent: 0.16
+    :electorate: Christchurch Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#D08913"
+    :name: National Democrats Party
+    :short_name: National Democrats
+  :candidate:
+    :name: Anton Foljambe
+    :last_name: Foljambe
+    :first_name: Anton
+  :candidacy:
+    :votes: 44
+    :percent: 0.13
+    :electorate: Christchurch Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#5ED7B4"
+    :name: Dominion Workers
+    :short_name: Dominion Workers
+  :candidate:
+    :name: Clifford Mundy
+    :last_name: Mundy
+    :first_name: Clifford
+  :candidacy:
+    :votes: 9
+    :percent: 0.03
+    :electorate: Christchurch Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 584
+    :percent: 0.0
+    :electorate: Christchurch Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#663377"
+    :name: United New Zealand
+    :short_name: United NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 154
+    :percent: 0.0
+    :electorate: Christchurch Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 132
+    :percent: 0.0
+    :electorate: Christchurch Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#009900"
+    :name: NZ South Island Party
+    :short_name: South Island
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 69
+    :percent: 0.0
+    :electorate: Christchurch Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Animals First
+    :short_name: Animals First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 58
+    :percent: 0.0
+    :electorate: Christchurch Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#333366"
+    :name: Natural Law Party of New Zealand
+    :short_name: Natural Law
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 17
+    :percent: 0.0
+    :electorate: Christchurch Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#003153"
+    :name: Mauri Pacific
+    :short_name: Mauri Pacific
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 7
+    :percent: 0.0
+    :electorate: Christchurch Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 7
+    :percent: 0.0
+    :electorate: Christchurch Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Republican Party (1995)
+    :short_name: Republican
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 7
+    :percent: 0.0
+    :electorate: Christchurch Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 6
+    :percent: 0.0
+    :electorate: Christchurch Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FFFFC0"
+    :name: NMP
+    :short_name: NMP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 4
+    :percent: 0.0
+    :electorate: Christchurch Central
+    :year: '1999'
+    :election_type: general

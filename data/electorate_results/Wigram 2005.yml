@@ -1,0 +1,295 @@
+---
+- :party:
+    :colour: "#9E9E9E"
+    :name: New Zealand Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: Jim Anderton
+    :last_name: Anderton
+    :first_name: Jim
+  :candidacy:
+    :votes: 15961
+    :percent: 47.62
+    :electorate: Wigram
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Alison Lomax
+    :last_name: Lomax
+    :first_name: Alison
+  :candidacy:
+    :votes: 7413
+    :percent: 22.12
+    :electorate: Wigram
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Paul Chalmers
+    :last_name: Chalmers
+    :first_name: Paul
+  :candidacy:
+    :votes: 6408
+    :percent: 19.12
+    :electorate: Wigram
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Richard Suggate
+    :last_name: Suggate
+    :first_name: Richard
+  :candidacy:
+    :votes: 1455
+    :percent: 4.34
+    :electorate: Wigram
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Vanessa Roberts
+    :last_name: Roberts
+    :first_name: Vanessa
+  :candidacy:
+    :votes: 988
+    :percent: 2.95
+    :electorate: Wigram
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Brian Roswell
+    :last_name: Roswell
+    :first_name: Brian
+  :candidacy:
+    :votes: 912
+    :percent: 2.72
+    :electorate: Wigram
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Tetauru Emile
+    :last_name: Emile
+    :first_name: Tetauru
+  :candidacy:
+    :votes: 203
+    :percent: 0.61
+    :electorate: Wigram
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FF0066"
+    :name: Workers Party of New Zealand
+    :short_name: Anti-Capitalist Alliance
+  :candidate:
+    :name: Sam Kingi
+    :last_name: Kingi
+    :first_name: Sam
+  :candidacy:
+    :votes: 69
+    :percent: 0.21
+    :electorate: Wigram
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Tom Dowie
+    :last_name: Dowie
+    :first_name: Tom
+  :candidacy:
+    :votes: 61
+    :percent: 0.21
+    :electorate: Wigram
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFFFFF"
+    :name: Economic Euthenics
+    :short_name: Economic Euthenics
+  :candidate:
+    :name: Michael Hansen
+    :last_name: Hansen
+    :first_name: Michael
+  :candidacy:
+    :votes: 29
+    :percent: 0.09
+    :electorate: Wigram
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#F28317"
+    :name: Direct Democracy Party of New Zealand
+    :short_name: Direct Democracy
+  :candidate:
+    :name: Anton Foljambe
+    :last_name: Foljambe
+    :first_name: Anton
+  :candidacy:
+    :votes: 20
+    :percent: 0.06
+    :electorate: Wigram
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Destiny New Zealand
+    :short_name: Destiny
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 112
+    :percent: 0.33
+    :electorate: Wigram
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 90
+    :percent: 0.27
+    :electorate: Wigram
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 89
+    :percent: 0.26
+    :electorate: Wigram
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 52
+    :percent: 0.15
+    :electorate: Wigram
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 22
+    :percent: 0.06
+    :electorate: Wigram
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 15
+    :percent: 0.04
+    :electorate: Wigram
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#84C6C6"
+    :name: The Republic of New Zealand Party
+    :short_name: RONZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 8
+    :percent: 0.02
+    :electorate: Wigram
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#65FFF0"
+    :name: New Zealand Family Rights Protection Party
+    :short_name: Family Rights
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 6
+    :percent: 0.02
+    :electorate: Wigram
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 4
+    :percent: 0.01
+    :electorate: Wigram
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: 99 MP Party
+    :short_name: 99 MP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 3
+    :percent: 0.01
+    :electorate: Wigram
+    :year: '2005'
+    :election_type: general

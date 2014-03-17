@@ -1,0 +1,183 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Lindsay Tisch
+    :last_name: Tisch
+    :first_name: Lindsay
+  :candidacy:
+    :votes: 19817
+    :percent: 64.9
+    :electorate: Waikato
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Kate Sutton
+    :last_name: Sutton
+    :first_name: Kate
+  :candidacy:
+    :votes: 5619
+    :percent: 18.4
+    :electorate: Waikato
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Cameron Harper
+    :last_name: Harper
+    :first_name: Cameron
+  :candidacy:
+    :votes: 1970
+    :percent: 6.45
+    :electorate: Waikato
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Barbara Stewart
+    :last_name: Stewart
+    :first_name: Barbara
+  :candidacy:
+    :votes: 1571
+    :percent: 5.15
+    :electorate: Waikato
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: Brian Dobbs
+    :last_name: Dobbs
+    :first_name: Brian
+  :candidacy:
+    :votes: 1142
+    :percent: 3.74
+    :electorate: Waikato
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Robin Boom
+    :last_name: Boom
+    :first_name: Robin
+  :candidacy:
+    :votes: 307
+    :percent: 1.01
+    :electorate: Waikato
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: John Pemberton
+    :last_name: Pemberton
+    :first_name: John
+  :candidacy:
+    :votes: 107
+    :percent: 0.35
+    :electorate: Waikato
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 243
+    :percent: 0.77
+    :electorate: Waikato
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 186
+    :percent: 0.59
+    :electorate: Waikato
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 170
+    :percent: 0.54
+    :electorate: Waikato
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 91
+    :percent: 0.29
+    :electorate: Waikato
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 28
+    :percent: 0.09
+    :electorate: Waikato
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 12
+    :percent: 0.04
+    :electorate: Waikato
+    :year: '2011'
+    :election_type: general

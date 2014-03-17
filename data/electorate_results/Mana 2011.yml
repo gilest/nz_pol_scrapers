@@ -1,0 +1,183 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Kris Faafoi
+    :last_name: Faafoi
+    :first_name: Kris
+  :candidacy:
+    :votes: 16323
+    :percent: 48.61
+    :electorate: Mana
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Hekia Parata
+    :last_name: Parata
+    :first_name: Hekia
+  :candidacy:
+    :votes: 14093
+    :percent: 41.97
+    :electorate: Mana
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Jan Logie
+    :last_name: Logie
+    :first_name: Jan
+  :candidacy:
+    :votes: 2652
+    :percent: 7.9
+    :electorate: Mana
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: Richard Goode
+    :last_name: Goode
+    :first_name: Richard
+  :candidacy:
+    :votes: 332
+    :percent: 0.99
+    :electorate: Mana
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Michael Warren
+    :last_name: Warren
+    :first_name: Michael
+  :candidacy:
+    :votes: 182
+    :percent: 0.54
+    :electorate: Mana
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1667
+    :percent: 4.84
+    :electorate: Mana
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 604
+    :percent: 1.75
+    :electorate: Mana
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future New Zealand
+    :short_name: United Future
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 234
+    :percent: 0.68
+    :electorate: Mana
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 227
+    :percent: 0.66
+    :electorate: Mana
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 165
+    :percent: 0.48
+    :electorate: Mana
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 20
+    :percent: 0.06
+    :electorate: Mana
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 16
+    :percent: 0.05
+    :electorate: Mana
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party for Social Credit
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 10
+    :percent: 0.03
+    :electorate: Mana
+    :year: '2011'
+    :election_type: general

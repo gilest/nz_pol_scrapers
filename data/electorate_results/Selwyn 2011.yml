@@ -1,0 +1,183 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Amy Adams
+    :last_name: Adams
+    :first_name: Amy
+  :candidacy:
+    :votes: 24963
+    :percent: 69.14
+    :electorate: Selwyn
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Jo McLean
+    :last_name: McLean
+    :first_name: Jo
+  :candidacy:
+    :votes: 5512
+    :percent: 15.27
+    :electorate: Selwyn
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Eugenie Meryl Sage
+    :last_name: Sage
+    :first_name: Eugenie Meryl
+  :candidacy:
+    :votes: 3674
+    :percent: 10.18
+    :electorate: Selwyn
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Bill Woods
+    :last_name: Woods
+    :first_name: Bill
+  :candidacy:
+    :votes: 1277
+    :percent: 3.54
+    :electorate: Selwyn
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: Wilton Gray
+    :last_name: Gray
+    :first_name: Wilton
+  :candidacy:
+    :votes: 677
+    :percent: 1.88
+    :electorate: Selwyn
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 336
+    :percent: 0.91
+    :electorate: Selwyn
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 256
+    :percent: 0.69
+    :electorate: Selwyn
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 137
+    :percent: 0.37
+    :electorate: Selwyn
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 123
+    :percent: 0.33
+    :electorate: Selwyn
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 52
+    :percent: 0.14
+    :electorate: Selwyn
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 24
+    :percent: 0.07
+    :electorate: Selwyn
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 13
+    :percent: 0.04
+    :electorate: Selwyn
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 11
+    :percent: 0.03
+    :electorate: Selwyn
+    :year: '2011'
+    :election_type: general

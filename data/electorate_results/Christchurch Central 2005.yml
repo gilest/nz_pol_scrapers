@@ -1,0 +1,295 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Tim Barnett
+    :last_name: Barnett
+    :first_name: Tim
+  :candidacy:
+    :votes: 17685
+    :percent: 52.57
+    :electorate: Christchurch Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Nicky Wagner
+    :last_name: Wagner
+    :first_name: Nicky
+  :candidacy:
+    :votes: 9849
+    :percent: 29.28
+    :electorate: Christchurch Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Natalie Cutler-Welsh
+    :last_name: Cutler-Welsh
+    :first_name: Natalie
+  :candidacy:
+    :votes: 2236
+    :percent: 6.65
+    :electorate: Christchurch Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Kevin Gardener
+    :last_name: Gardener
+    :first_name: Kevin
+  :candidacy:
+    :votes: 1022
+    :percent: 3.04
+    :electorate: Christchurch Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: Jim Anderton's Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: Megan Woods
+    :last_name: Woods
+    :first_name: Megan
+  :candidacy:
+    :votes: 1077
+    :percent: 3.2
+    :electorate: Christchurch Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: John van Buren
+    :last_name: Buren
+    :first_name: John van
+  :candidacy:
+    :votes: 761
+    :percent: 2.26
+    :electorate: Christchurch Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Shirley Marshall
+    :last_name: Marshall
+    :first_name: Shirley
+  :candidacy:
+    :votes: 340
+    :percent: 1.01
+    :electorate: Christchurch Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Destiny New Zealand
+    :short_name: Destiny
+  :candidate:
+    :name: Anita Breach
+    :last_name: Breach
+    :first_name: Anita
+  :candidacy:
+    :votes: 338
+    :percent: 1.01
+    :electorate: Christchurch Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: Darryl Gregory
+    :last_name: Gregory
+    :first_name: Darryl
+  :candidacy:
+    :votes: 188
+    :percent: 0.56
+    :electorate: Christchurch Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FF0066"
+    :name: Workers Party of New Zealand
+    :short_name: Workers Party
+  :candidate:
+    :name: Byron Clark
+    :last_name: Clark
+    :first_name: Byron
+  :candidacy:
+    :votes: 90
+    :percent: 0.27
+    :electorate: Christchurch Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#800000"
+    :name: Communist League
+    :short_name: Communist League
+  :candidate:
+    :name: Annalucia Vermunt
+    :last_name: Vermunt
+    :first_name: Annalucia
+  :candidacy:
+    :votes: 53
+    :percent: 0.16
+    :electorate: Christchurch Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 125
+    :percent: 0.36
+    :electorate: Christchurch Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 40
+    :percent: 0.12
+    :electorate: Christchurch Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 37
+    :percent: 0.11
+    :electorate: Christchurch Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party for Social Credit
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 15
+    :percent: 0.04
+    :electorate: Christchurch Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: 99 MP Party
+    :short_name: 99 MP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 10
+    :percent: 0.03
+    :electorate: Christchurch Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 9
+    :percent: 0.03
+    :electorate: Christchurch Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#F28317"
+    :name: Direct Democracy Party of New Zealand
+    :short_name: Direct Democracy
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 7
+    :percent: 0.02
+    :electorate: Christchurch Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#84C6C6"
+    :name: The Republic of New Zealand Party
+    :short_name: RONZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 5
+    :percent: 0.01
+    :electorate: Christchurch Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#65FFF0"
+    :name: New Zealand Family Rights Protection Party
+    :short_name: Family Rights
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 4
+    :percent: 0.01
+    :electorate: Christchurch Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 2
+    :percent: 0.01
+    :electorate: Christchurch Central
+    :year: '2005'
+    :election_type: general

@@ -1,0 +1,281 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Paula Bennett
+    :last_name: Bennett
+    :first_name: Paula
+  :candidacy:
+    :votes: 13704
+    :percent: 44.9
+    :electorate: Waitakere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Lynne Pillay
+    :last_name: Pillay
+    :first_name: Lynne
+  :candidacy:
+    :votes: 13072
+    :percent: 42.83
+    :electorate: Waitakere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Gary Stewart
+    :last_name: Stewart
+    :first_name: Gary
+  :candidacy:
+    :votes: 1676
+    :percent: 5.49
+    :electorate: Waitakere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Craig McNair
+    :last_name: McNair
+    :first_name: Craig
+  :candidacy:
+    :votes: 597
+    :percent: 1.96
+    :electorate: Waitakere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: John G Riddell
+    :last_name: Riddell
+    :first_name: John G
+  :candidacy:
+    :votes: 482
+    :percent: 1.58
+    :electorate: Waitakere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#531E8A"
+    :name: New Zealand Pacific Party
+    :short_name: Pacific
+  :candidate:
+    :name: Fia Misa Tupou
+    :last_name: Tupou
+    :first_name: Fia Misa
+  :candidacy:
+    :votes: 448
+    :percent: 1.47
+    :electorate: Waitakere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FFEB33"
+    :name: The Family Party
+    :short_name: Family Party
+  :candidate:
+    :name: Michael Kidd
+    :last_name: Kidd
+    :first_name: Michael
+  :candidacy:
+    :votes: 358
+    :percent: 1.17
+    :electorate: Waitakere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Rita Beckmannflay
+    :last_name: Beckmannflay
+    :first_name: Rita
+  :candidacy:
+    :votes: 107
+    :percent: 0.35
+    :electorate: Waitakere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Sandra Ethell
+    :last_name: Ethell
+    :first_name: Sandra
+  :candidacy:
+    :votes: 78
+    :percent: 0.26
+    :electorate: Waitakere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 241
+    :percent: 0.77
+    :electorate: Waitakere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: New Zealand Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 225
+    :percent: 0.72
+    :electorate: Waitakere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future New Zealand
+    :short_name: United Future
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 224
+    :percent: 0.71
+    :electorate: Waitakere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#186E23"
+    :name: Bill and Ben Party
+    :short_name: Bill and Ben
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 168
+    :percent: 0.53
+    :electorate: Waitakere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 166
+    :percent: 0.53
+    :electorate: Waitakere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#363096"
+    :name: The Kiwi Party
+    :short_name: Kiwi
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 106
+    :percent: 0.34
+    :electorate: Waitakere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FF0066"
+    :name: Workers Party of New Zealand
+    :short_name: Workers Party
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 15
+    :percent: 0.05
+    :electorate: Waitakere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 14
+    :percent: 0.04
+    :electorate: Waitakere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#467CFA"
+    :name: Residents Action Movement
+    :short_name: RAM
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 10
+    :percent: 0.03
+    :electorate: Waitakere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 7
+    :percent: 0.02
+    :electorate: Waitakere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#84C6C6"
+    :name: The Republic of New Zealand Party
+    :short_name: RONZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 5
+    :percent: 0.02
+    :electorate: Waitakere
+    :year: '2008'
+    :election_type: general

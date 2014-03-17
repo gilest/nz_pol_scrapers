@@ -1,0 +1,183 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Jonathan Coleman
+    :last_name: Coleman
+    :first_name: Jonathan
+  :candidacy:
+    :votes: 18908
+    :percent: 58.46
+    :electorate: Northcote
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Paula Gillon
+    :last_name: Gillon
+    :first_name: Paula
+  :candidacy:
+    :votes: 9529
+    :percent: 29.46
+    :electorate: Northcote
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Vernon Tava
+    :last_name: Tava
+    :first_name: Vernon
+  :candidacy:
+    :votes: 1890
+    :percent: 5.84
+    :electorate: Northcote
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Dion Clifford Jelley
+    :last_name: Jelley
+    :first_name: Dion Clifford
+  :candidacy:
+    :votes: 732
+    :percent: 2.26
+    :electorate: Northcote
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: Matthew James Webster
+    :last_name: Webster
+    :first_name: Matthew James
+  :candidacy:
+    :votes: 593
+    :percent: 1.83
+    :electorate: Northcote
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: Leo Biggs
+    :last_name: Biggs
+    :first_name: Leo
+  :candidacy:
+    :votes: 289
+    :percent: 0.89
+    :electorate: Northcote
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Tim Kronfeld
+    :last_name: Kronfeld
+    :first_name: Tim
+  :candidacy:
+    :votes: 185
+    :percent: 0.57
+    :electorate: Northcote
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Steven Dromgool
+    :last_name: Dromgool
+    :first_name: Steven
+  :candidacy:
+    :votes: 113
+    :percent: 0.35
+    :electorate: Northcote
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: Peter Linton
+    :last_name: Linton
+    :first_name: Peter
+  :candidacy:
+    :votes: 105
+    :percent: 0.32
+    :electorate: Northcote
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 182
+    :percent: 0.55
+    :electorate: Northcote
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 103
+    :percent: 0.31
+    :electorate: Northcote
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 10
+    :percent: 0.03
+    :electorate: Northcote
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 10
+    :percent: 0.03
+    :electorate: Northcote
+    :year: '2011'
+    :election_type: general

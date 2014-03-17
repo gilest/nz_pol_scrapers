@@ -1,0 +1,281 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Nick Smith
+    :last_name: Smith
+    :first_name: Nick
+  :candidacy:
+    :votes: 15542
+    :percent: 44.78
+    :electorate: Nelson
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Simon Fraser
+    :last_name: Fraser
+    :first_name: Simon
+  :candidacy:
+    :votes: 11021
+    :percent: 31.76
+    :electorate: Nelson
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Mike Ward
+    :last_name: Ward
+    :first_name: Mike
+  :candidacy:
+    :votes: 3516
+    :percent: 10.13
+    :electorate: Nelson
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Mary O'Connor
+    :last_name: O'Connor
+    :first_name: Mary
+  :candidacy:
+    :votes: 2505
+    :percent: 7.22
+    :electorate: Nelson
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage Party of New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: Nick Barber
+    :last_name: Barber
+    :first_name: Nick
+  :candidacy:
+    :votes: 1077
+    :percent: 3.1
+    :electorate: Nelson
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Philip Gully
+    :last_name: Gully
+    :first_name: Philip
+  :candidacy:
+    :votes: 461
+    :percent: 1.33
+    :electorate: Nelson
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Trevor Squires
+    :last_name: Squires
+    :first_name: Trevor
+  :candidacy:
+    :votes: 296
+    :percent: 0.85
+    :electorate: Nelson
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: McGillicuddy Serious Party
+    :short_name: McGillicuddy Serious
+  :candidate:
+    :name: Tim Owens
+    :last_name: Owens
+    :first_name: Tim
+  :candidacy:
+    :votes: 223
+    :percent: 0.64
+    :electorate: Nelson
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FFFFC0"
+    :name: NMP
+    :short_name: NMP
+  :candidate:
+    :name: Suzanne Johnston
+    :last_name: Johnston
+    :first_name: Suzanne
+  :candidacy:
+    :votes: 64
+    :percent: 0.18
+    :electorate: Nelson
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 278
+    :percent: 0.8
+    :electorate: Nelson
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: Future New Zealand
+    :short_name: Future NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 216
+    :percent: 0.62
+    :electorate: Nelson
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#663377"
+    :name: United New Zealand
+    :short_name: United NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 131
+    :percent: 0.38
+    :electorate: Nelson
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 114
+    :percent: 0.33
+    :electorate: Nelson
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#009900"
+    :name: NZ South Island Party
+    :short_name: South Island
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 67
+    :percent: 0.19
+    :electorate: Nelson
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Animals First
+    :short_name: Animals First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 51
+    :percent: 0.15
+    :electorate: Nelson
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 34
+    :percent: 0.1
+    :electorate: Nelson
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#ffe4e1"
+    :name: Natural Law Party
+    :short_name: Natural Law
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 14
+    :percent: 0.04
+    :electorate: Nelson
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 5
+    :percent: 0.01
+    :electorate: Nelson
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#003153"
+    :name: Mauri Pacific
+    :short_name: Mauri Pacific
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 4
+    :percent: 0.01
+    :electorate: Nelson
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Republican Party (1995)
+    :short_name: Republican
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 3
+    :percent: 0.01
+    :electorate: Nelson
+    :year: '1999'
+    :election_type: general

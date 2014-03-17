@@ -1,0 +1,183 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Mark Mitchell
+    :last_name: Mitchell
+    :first_name: Mark
+  :candidacy:
+    :votes: 20253
+    :percent: 53.54
+    :electorate: Rodney
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: Colin Craig
+    :last_name: Craig
+    :first_name: Colin
+  :candidacy:
+    :votes: 8031
+    :percent: 21.23
+    :electorate: Rodney
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Christine Rose
+    :last_name: Rose
+    :first_name: Christine
+  :candidacy:
+    :votes: 5170
+    :percent: 13.67
+    :electorate: Rodney
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Teresa Moore
+    :last_name: Moore
+    :first_name: Teresa
+  :candidacy:
+    :votes: 2694
+    :percent: 7.12
+    :electorate: Rodney
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Tracey Martin
+    :last_name: Martin
+    :first_name: Tracey
+  :candidacy:
+    :votes: 1476
+    :percent: 3.9
+    :electorate: Rodney
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Beth Houlbrooke
+    :last_name: Houlbrooke
+    :first_name: Beth
+  :candidacy:
+    :votes: 204
+    :percent: 0.54
+    :electorate: Rodney
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 154
+    :percent: 0.4
+    :electorate: Rodney
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 151
+    :percent: 0.39
+    :electorate: Rodney
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 140
+    :percent: 0.36
+    :electorate: Rodney
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 58
+    :percent: 0.15
+    :electorate: Rodney
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 18
+    :percent: 0.05
+    :electorate: Rodney
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 13
+    :percent: 0.03
+    :electorate: Rodney
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 12
+    :percent: 0.03
+    :electorate: Rodney
+    :year: '2011'
+    :election_type: general

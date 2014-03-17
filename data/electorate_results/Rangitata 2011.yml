@@ -1,0 +1,183 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Jo Goodhew
+    :last_name: Goodhew
+    :first_name: Jo
+  :candidacy:
+    :votes: 19580
+    :percent: 55.77
+    :electorate: Rangitata
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Julian Blanchard
+    :last_name: Blanchard
+    :first_name: Julian
+  :candidacy:
+    :votes: 13043
+    :percent: 37.15
+    :electorate: Rangitata
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Gerrie Ligtenberg
+    :last_name: Ligtenberg
+    :first_name: Gerrie
+  :candidacy:
+    :votes: 1766
+    :percent: 5.03
+    :electorate: Rangitata
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Andrew McMillan
+    :last_name: McMillan
+    :first_name: Andrew
+  :candidacy:
+    :votes: 418
+    :percent: 1.19
+    :electorate: Rangitata
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Tom Corbett
+    :last_name: Corbett
+    :first_name: Tom
+  :candidacy:
+    :votes: 303
+    :percent: 0.86
+    :electorate: Rangitata
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 2084
+    :percent: 5.8
+    :electorate: Rangitata
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 863
+    :percent: 2.4
+    :electorate: Rangitata
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 229
+    :percent: 0.64
+    :electorate: Rangitata
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 123
+    :percent: 0.34
+    :electorate: Rangitata
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 32
+    :percent: 0.09
+    :electorate: Rangitata
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 24
+    :percent: 0.07
+    :electorate: Rangitata
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 20
+    :percent: 0.06
+    :electorate: Rangitata
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 19
+    :percent: 0.05
+    :electorate: Rangitata
+    :year: '2011'
+    :election_type: general

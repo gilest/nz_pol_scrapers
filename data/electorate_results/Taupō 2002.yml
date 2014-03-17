@@ -1,0 +1,197 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Mark Burton
+    :last_name: Burton
+    :first_name: Mark
+  :candidacy:
+    :votes: 14851
+    :percent: 55.62
+    :electorate: Taupō
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Weston Kirton
+    :last_name: Kirton
+    :first_name: Weston
+  :candidacy:
+    :votes: 7723
+    :percent: 28.92
+    :electorate: Taupō
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Nicholas Fisher
+    :last_name: Fisher
+    :first_name: Nicholas
+  :candidacy:
+    :votes: 1359
+    :percent: 5.09
+    :electorate: Taupō
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Diane Mulcock
+    :last_name: Mulcock
+    :first_name: Diane
+  :candidacy:
+    :votes: 1062
+    :percent: 3.98
+    :electorate: Taupō
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Denis Gilmore
+    :last_name: Gilmore
+    :first_name: Denis
+  :candidacy:
+    :votes: 871
+    :percent: 3.26
+    :electorate: Taupō
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage Party of New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: Donald Wishart
+    :last_name: Wishart
+    :first_name: Donald
+  :candidacy:
+    :votes: 360
+    :percent: 1.35
+    :electorate: Taupō
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: New Zealand Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: Victor Bradley
+    :last_name: Bradley
+    :first_name: Victor
+  :candidacy:
+    :votes: 261
+    :percent: 0.98
+    :electorate: Taupō
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: John Harré
+    :last_name: Harré
+    :first_name: John
+  :candidacy:
+    :votes: 214
+    :percent: 0.8
+    :electorate: Taupō
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 3629
+    :percent: 13.34
+    :electorate: Taupō
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#666666"
+    :name: Outdoor Recreation New Zealand
+    :short_name: ORNZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1072
+    :percent: 3.94
+    :electorate: Taupō
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 137
+    :percent: 0.5
+    :electorate: Taupō
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 19
+    :percent: 0.07
+    :electorate: Taupō
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 13
+    :percent: 0.05
+    :electorate: Taupō
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#FFFFC0"
+    :name: NMP
+    :short_name: NMP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1
+    :percent: 0.0
+    :electorate: Taupō
+    :year: '2002'
+    :election_type: general

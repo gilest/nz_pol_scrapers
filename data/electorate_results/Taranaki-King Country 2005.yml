@@ -1,0 +1,267 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Shane Ardern
+    :last_name: Ardern
+    :first_name: Shane
+  :candidacy:
+    :votes: 20867
+    :percent: 67.62
+    :electorate: Taranaki-King Country
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Maryan Street
+    :last_name: Street
+    :first_name: Maryan
+  :candidacy:
+    :votes: 7749
+    :percent: 25.11
+    :electorate: Taranaki-King Country
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Anne Copeland
+    :last_name: Copeland
+    :first_name: Anne
+  :candidacy:
+    :votes: 568
+    :percent: 1.84
+    :electorate: Taranaki-King Country
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Richard Steele
+    :last_name: Steele
+    :first_name: Richard
+  :candidacy:
+    :votes: 547
+    :percent: 1.77
+    :electorate: Taranaki-King Country
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: New Zealand Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: William Smith
+    :last_name: Smith
+    :first_name: William
+  :candidacy:
+    :votes: 510
+    :percent: 1.65
+    :electorate: Taranaki-King Country
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Destiny New Zealand
+    :short_name: Destiny
+  :candidate:
+    :name: Tony Harrison
+    :last_name: Harrison
+    :first_name: Tony
+  :candidacy:
+    :votes: 425
+    :percent: 1.38
+    :electorate: Taranaki-King Country
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: Mark Jones
+    :last_name: Jones
+    :first_name: Mark
+  :candidacy:
+    :votes: 195
+    :percent: 0.63
+    :electorate: Taranaki-King Country
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 2538
+    :percent: 8.06
+    :electorate: Taranaki-King Country
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 990
+    :percent: 3.15
+    :electorate: Taranaki-King Country
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 191
+    :percent: 0.61
+    :electorate: Taranaki-King Country
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 89
+    :percent: 0.28
+    :electorate: Taranaki-King Country
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 35
+    :percent: 0.11
+    :electorate: Taranaki-King Country
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 20
+    :percent: 0.06
+    :electorate: Taranaki-King Country
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 15
+    :percent: 0.05
+    :electorate: Taranaki-King Country
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 13
+    :percent: 0.04
+    :electorate: Taranaki-King Country
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#F28317"
+    :name: Direct Democracy Party of New Zealand
+    :short_name: Direct Democracy
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 12
+    :percent: 0.04
+    :electorate: Taranaki-King Country
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: 99 MP Party
+    :short_name: 99 MP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 10
+    :percent: 0.03
+    :electorate: Taranaki-King Country
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#65FFF0"
+    :name: New Zealand Family Rights Protection Party
+    :short_name: Family Rights
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 8
+    :percent: 0.03
+    :electorate: Taranaki-King Country
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#84C6C6"
+    :name: The Republic of New Zealand Party
+    :short_name: RONZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 8
+    :percent: 0.03
+    :electorate: Taranaki-King Country
+    :year: '2005'
+    :election_type: general

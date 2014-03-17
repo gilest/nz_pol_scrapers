@@ -1,0 +1,183 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Paula Bennett
+    :last_name: Bennett
+    :first_name: Paula
+  :candidacy:
+    :votes: 13465
+    :percent: 44.74
+    :electorate: Waitakere
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Carmel Sepuloni
+    :last_name: Sepuloni
+    :first_name: Carmel
+  :candidacy:
+    :votes: 13456
+    :percent: 44.71
+    :electorate: Waitakere
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Stephen Tollestrup
+    :last_name: Tollestrup
+    :first_name: Stephen
+  :candidacy:
+    :votes: 1855
+    :percent: 6.16
+    :electorate: Waitakere
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: Danny Mountain
+    :last_name: Mountain
+    :first_name: Danny
+  :candidacy:
+    :votes: 611
+    :percent: 2.03
+    :electorate: Waitakere
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: Jeff Lye
+    :last_name: Lye
+    :first_name: Jeff
+  :candidacy:
+    :votes: 331
+    :percent: 1.1
+    :electorate: Waitakere
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: Sue Bradford
+    :last_name: Bradford
+    :first_name: Sue
+  :candidacy:
+    :votes: 322
+    :percent: 1.06
+    :electorate: Waitakere
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: Peter Osborne
+    :last_name: Osborne
+    :first_name: Peter
+  :candidacy:
+    :votes: 55
+    :percent: 0.18
+    :electorate: Waitakere
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 2011
+    :percent: 6.46
+    :electorate: Waitakere
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 259
+    :percent: 0.83
+    :electorate: Waitakere
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 168
+    :percent: 0.54
+    :electorate: Waitakere
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future New Zealand
+    :short_name: United Future
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 125
+    :percent: 0.4
+    :electorate: Waitakere
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 9
+    :percent: 0.03
+    :electorate: Waitakere
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party for Social Credit
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 4
+    :percent: 0.01
+    :electorate: Waitakere
+    :year: '2011'
+    :election_type: general

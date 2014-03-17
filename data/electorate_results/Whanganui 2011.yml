@@ -1,0 +1,183 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Chester Borrows
+    :last_name: Borrows
+    :first_name: Chester
+  :candidacy:
+    :votes: 16743
+    :percent: 53.69
+    :electorate: Whanganui
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Hamish McDouall
+    :last_name: McDouall
+    :first_name: Hamish
+  :candidacy:
+    :votes: 11697
+    :percent: 37.51
+    :electorate: Whanganui
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: John Milnes
+    :last_name: Milnes
+    :first_name: John
+  :candidacy:
+    :votes: 1444
+    :percent: 4.63
+    :electorate: Whanganui
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Ian Brougham
+    :last_name: Brougham
+    :first_name: Ian
+  :candidacy:
+    :votes: 1043
+    :percent: 3.34
+    :electorate: Whanganui
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Alan Daniel Davidson
+    :last_name: Davidson
+    :first_name: Alan Daniel
+  :candidacy:
+    :votes: 135
+    :percent: 0.43
+    :electorate: Whanganui
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: Heather Marion Smith
+    :last_name: Smith
+    :first_name: Heather Marion
+  :candidacy:
+    :votes: 121
+    :percent: 0.39
+    :electorate: Whanganui
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1030
+    :percent: 3.23
+    :electorate: Whanganui
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 225
+    :percent: 0.71
+    :electorate: Whanganui
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 176
+    :percent: 0.55
+    :electorate: Whanganui
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 143
+    :percent: 0.45
+    :electorate: Whanganui
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 75
+    :percent: 0.24
+    :electorate: Whanganui
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 22
+    :percent: 0.07
+    :electorate: Whanganui
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 21
+    :percent: 0.07
+    :electorate: Whanganui
+    :year: '2011'
+    :election_type: general

@@ -1,0 +1,211 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Mark Gosche
+    :last_name: Gosche
+    :first_name: Mark
+  :candidacy:
+    :votes: 14273
+    :percent: 55.14
+    :electorate: Maungakiekie
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Belinda Vernon
+    :last_name: Vernon
+    :first_name: Belinda
+  :candidacy:
+    :votes: 7670
+    :percent: 29.63
+    :electorate: Maungakiekie
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Don Fairley
+    :last_name: Fairley
+    :first_name: Don
+  :candidacy:
+    :votes: 1114
+    :percent: 4.3
+    :electorate: Maungakiekie
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Robin Roodt
+    :last_name: Roodt
+    :first_name: Robin
+  :candidacy:
+    :votes: 949
+    :percent: 3.67
+    :electorate: Maungakiekie
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Kevin Harper
+    :last_name: Harper
+    :first_name: Kevin
+  :candidacy:
+    :votes: 867
+    :percent: 3.35
+    :electorate: Maungakiekie
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: Jim Anderton's Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: Dawn Patchett
+    :last_name: Patchett
+    :first_name: Dawn
+  :candidacy:
+    :votes: 373
+    :percent: 1.44
+    :electorate: Maungakiekie
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage Party of New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: Barry Pepperell
+    :last_name: Pepperell
+    :first_name: Barry
+  :candidacy:
+    :votes: 346
+    :percent: 1.34
+    :electorate: Maungakiekie
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Joseph Randall
+    :last_name: Randall
+    :first_name: Joseph
+  :candidacy:
+    :votes: 222
+    :percent: 0.86
+    :electorate: Maungakiekie
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: red
+    :name: Communist League
+    :short_name: Communist League
+  :candidate:
+    :name: Janet Roth
+    :last_name: Roth
+    :first_name: Janet
+  :candidacy:
+    :votes: 72
+    :percent: 0.28
+    :electorate: Maungakiekie
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 2044
+    :percent: 7.67
+    :electorate: Maungakiekie
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#666666"
+    :name: Outdoor Recreation New Zealand
+    :short_name: ORNZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 129
+    :percent: 0.48
+    :electorate: Maungakiekie
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 93
+    :percent: 0.35
+    :electorate: Maungakiekie
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 14
+    :percent: 0.05
+    :electorate: Maungakiekie
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 10
+    :percent: 0.04
+    :electorate: Maungakiekie
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#FFFFC0"
+    :name: NMP
+    :short_name: NMP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 3
+    :percent: 0.01
+    :electorate: Maungakiekie
+    :year: '2002'
+    :election_type: general

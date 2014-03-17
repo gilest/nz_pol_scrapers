@@ -1,0 +1,239 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: George Hawkins
+    :last_name: Hawkins
+    :first_name: George
+  :candidacy:
+    :votes: 14015
+    :percent: 55.47
+    :electorate: Manurewa
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Les Marinkovich
+    :last_name: Marinkovich
+    :first_name: Les
+  :candidacy:
+    :votes: 5442
+    :percent: 21.54
+    :electorate: Manurewa
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Roger Mail
+    :last_name: Mail
+    :first_name: Roger
+  :candidacy:
+    :votes: 2240
+    :percent: 8.87
+    :electorate: Manurewa
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Willie Jackson
+    :last_name: Jackson
+    :first_name: Willie
+  :candidacy:
+    :votes: 1492
+    :percent: 5.91
+    :electorate: Manurewa
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Coalition
+    :short_name: Christian Coalition
+  :candidate:
+    :name: Braden Matson
+    :last_name: Matson
+    :first_name: Braden
+  :candidacy:
+    :votes: 781
+    :percent: 3.09
+    :electorate: Manurewa
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: John Thompson
+    :last_name: Thompson
+    :first_name: John
+  :candidacy:
+    :votes: 555
+    :percent: 2.2
+    :electorate: Manurewa
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#663377"
+    :name: United New Zealand
+    :short_name: United NZ
+  :candidate:
+    :name: Malcolm Hood
+    :last_name: Hood
+    :first_name: Malcolm
+  :candidacy:
+    :votes: 378
+    :percent: 1.5
+    :electorate: Manurewa
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: McGillicuddy Serious Party
+    :short_name: McGillicuddy Serious
+  :candidate:
+    :name: Derek Craig
+    :last_name: Craig
+    :first_name: Derek
+  :candidacy:
+    :votes: 151
+    :percent: 0.6
+    :electorate: Manurewa
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#74B249"
+    :name: Green Society
+    :short_name: Green Society
+  :candidate:
+    :name: Colin Amery
+    :last_name: Amery
+    :first_name: Colin
+  :candidacy:
+    :votes: 145
+    :percent: 0.57
+    :electorate: Manurewa
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#333366"
+    :name: Natural Law Party of New Zealand
+    :short_name: Natural Law
+  :candidate:
+    :name: Faye McLaren
+    :last_name: McLaren
+    :first_name: Faye
+  :candidacy:
+    :votes: 67
+    :percent: 0.27
+    :electorate: Manurewa
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 447
+    :percent: 1.76
+    :electorate: Manurewa
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Animals First
+    :short_name: Animals First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 50
+    :percent: 0.2
+    :electorate: Manurewa
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#339999"
+    :name: Progressive Green Party
+    :short_name: Progressive Greens
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 41
+    :percent: 0.16
+    :electorate: Manurewa
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#787878"
+    :name: Superannuitants and Youth Action
+    :short_name: Superannuitants & Youth
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 18
+    :percent: 0.07
+    :electorate: Manurewa
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#0D0DFC"
+    :name: New Zealand Conservative Party
+    :short_name: Conservatives
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 4
+    :percent: 0.02
+    :electorate: Manurewa
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 4
+    :percent: 0.02
+    :electorate: Manurewa
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 3
+    :percent: 0.01
+    :electorate: Manurewa
+    :year: '1996'
+    :election_type: general

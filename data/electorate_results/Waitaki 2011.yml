@@ -1,0 +1,197 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Jacqui Dean
+    :last_name: Dean
+    :first_name: Jacqui
+  :candidacy:
+    :votes: 23219
+    :percent: 61.45
+    :electorate: Waitaki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Barry Monks
+    :last_name: Monks
+    :first_name: Barry
+  :candidacy:
+    :votes: 9076
+    :percent: 24.02
+    :electorate: Waitaki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Sue Coutts
+    :last_name: Coutts
+    :first_name: Sue
+  :candidacy:
+    :votes: 3830
+    :percent: 10.14
+    :electorate: Waitaki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: Jesse Misa
+    :last_name: Misa
+    :first_name: Jesse
+  :candidacy:
+    :votes: 760
+    :percent: 2.01
+    :electorate: Waitaki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: David Ford
+    :last_name: Ford
+    :first_name: David
+  :candidacy:
+    :votes: 531
+    :percent: 1.41
+    :electorate: Waitaki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Colin Nicholls
+    :last_name: Nicholls
+    :first_name: Colin
+  :candidacy:
+    :votes: 198
+    :percent: 0.52
+    :electorate: Waitaki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: Hessel van Wieren
+    :last_name: Wieren
+    :first_name: Hessel van
+  :candidacy:
+    :votes: 172
+    :percent: 0.46
+    :electorate: Waitaki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 2010
+    :percent: 5.22
+    :electorate: Waitaki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 317
+    :percent: 0.82
+    :electorate: Waitaki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 218
+    :percent: 0.57
+    :electorate: Waitaki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 136
+    :percent: 0.35
+    :electorate: Waitaki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 52
+    :percent: 0.13
+    :electorate: Waitaki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 26
+    :percent: 0.07
+    :electorate: Waitaki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 23
+    :percent: 0.06
+    :electorate: Waitaki
+    :year: '2011'
+    :election_type: general

@@ -1,0 +1,267 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Sandra Goudie
+    :last_name: Goudie
+    :first_name: Sandra
+  :candidacy:
+    :votes: 19064
+    :percent: 52.95
+    :electorate: Coromandel
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Max Purnell
+    :last_name: Purnell
+    :first_name: Max
+  :candidacy:
+    :votes: 8486
+    :percent: 23.57
+    :electorate: Coromandel
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Jeanette Fitzsimons
+    :last_name: Fitzsimons
+    :first_name: Jeanette
+  :candidacy:
+    :votes: 5554
+    :percent: 15.42
+    :electorate: Coromandel
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: John Foote
+    :last_name: Foote
+    :first_name: John
+  :candidacy:
+    :votes: 1792
+    :percent: 4.98
+    :electorate: Coromandel
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Lee Robertson
+    :last_name: Robertson
+    :first_name: Lee
+  :candidacy:
+    :votes: 652
+    :percent: 1.81
+    :electorate: Coromandel
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: New Zealand Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: Annette Anderson
+    :last_name: Anderson
+    :first_name: Annette
+  :candidacy:
+    :votes: 280
+    :percent: 0.78
+    :electorate: Coromandel
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Ray Bassett
+    :last_name: Bassett
+    :first_name: Ray
+  :candidacy:
+    :votes: 172
+    :percent: 0.48
+    :electorate: Coromandel
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Destiny New Zealand
+    :short_name: Destiny
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 211
+    :percent: 0.58
+    :electorate: Coromandel
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 165
+    :percent: 0.45
+    :electorate: Coromandel
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 104
+    :percent: 0.29
+    :electorate: Coromandel
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage Party of New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 25
+    :percent: 0.07
+    :electorate: Coromandel
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 24
+    :percent: 0.07
+    :electorate: Coromandel
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 24
+    :percent: 0.07
+    :electorate: Coromandel
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 6
+    :percent: 0.02
+    :electorate: Coromandel
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#84C6C6"
+    :name: The Republic of New Zealand Party
+    :short_name: RONZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 9
+    :percent: 0.02
+    :electorate: Coromandel
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: 99 MP Party
+    :short_name: 99 MP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 8
+    :percent: 0.02
+    :electorate: Coromandel
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#65FFF0"
+    :name: New Zealand Family Rights Protection Party
+    :short_name: Family Rights
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 7
+    :percent: 0.02
+    :electorate: Coromandel
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 6
+    :percent: 0.02
+    :electorate: Coromandel
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#F28317"
+    :name: Direct Democracy Party of New Zealand
+    :short_name: Direct Democracy
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 2
+    :percent: 0.01
+    :electorate: Coromandel
+    :year: '2005'
+    :election_type: general

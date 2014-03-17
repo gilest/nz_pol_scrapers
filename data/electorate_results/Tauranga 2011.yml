@@ -1,0 +1,197 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Simon Bridges
+    :last_name: Bridges
+    :first_name: Simon
+  :candidacy:
+    :votes: 21971
+    :percent: 61.4
+    :electorate: Tauranga
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Deborah Mahuta-Coyle
+    :last_name: Mahuta-Coyle
+    :first_name: Deborah
+  :candidacy:
+    :votes: 4707
+    :percent: 13.15
+    :electorate: Tauranga
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Brendan Horan
+    :last_name: Horan
+    :first_name: Brendan
+  :candidacy:
+    :votes: 4611
+    :percent: 12.88
+    :electorate: Tauranga
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Ian McLean
+    :last_name: McLean
+    :first_name: Ian
+  :candidacy:
+    :votes: 2458
+    :percent: 6.87
+    :electorate: Tauranga
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: Larry Baldock
+    :last_name: Baldock
+    :first_name: Larry
+  :candidacy:
+    :votes: 1512
+    :percent: 4.23
+    :electorate: Tauranga
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Kath McCabe
+    :last_name: McCabe
+    :first_name: Kath
+  :candidacy:
+    :votes: 190
+    :percent: 0.53
+    :electorate: Tauranga
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: Awanui Black
+    :last_name: Black
+    :first_name: Awanui
+  :candidacy:
+    :votes: 123
+    :percent: 0.34
+    :electorate: Tauranga
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: Jayson Gardiner
+    :last_name: Gardiner
+    :first_name: Jayson
+  :candidacy:
+    :votes: 90
+    :percent: 0.25
+    :electorate: Tauranga
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: Katherine Ransom
+    :last_name: Ransom
+    :first_name: Katherine
+  :candidacy:
+    :votes: 63
+    :percent: 0.18
+    :electorate: Tauranga
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Yvette Lamare
+    :last_name: Lamare
+    :first_name: Yvette
+  :candidacy:
+    :votes: 61
+    :percent: 0.17
+    :electorate: Tauranga
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 205
+    :percent: 0.56
+    :electorate: Tauranga
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 184
+    :percent: 0.5
+    :electorate: Tauranga
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 18
+    :percent: 0.05
+    :electorate: Tauranga
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 8
+    :percent: 0.02
+    :electorate: Tauranga
+    :year: '2011'
+    :election_type: general

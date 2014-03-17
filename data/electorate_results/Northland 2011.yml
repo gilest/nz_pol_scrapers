@@ -1,0 +1,183 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Mike Sabin
+    :last_name: Sabin
+    :first_name: Mike
+  :candidacy:
+    :votes: 18188
+    :percent: 57.55
+    :electorate: Northland
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Lynette Stewart
+    :last_name: Stewart
+    :first_name: Lynette
+  :candidacy:
+    :votes: 6826
+    :percent: 21.6
+    :electorate: Northland
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Pauline Evans
+    :last_name: Evans
+    :first_name: Pauline
+  :candidacy:
+    :votes: 3822
+    :percent: 12.09
+    :electorate: Northland
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: Melanie Taylor
+    :last_name: Taylor
+    :first_name: Melanie
+  :candidacy:
+    :votes: 1606
+    :percent: 5.08
+    :electorate: Northland
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: Ngawai Herewini
+    :last_name: Herewini
+    :first_name: Ngawai
+  :candidacy:
+    :votes: 611
+    :percent: 1.93
+    :electorate: Northland
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: Josephine Peita
+    :last_name: Peita
+    :first_name: Josephine
+  :candidacy:
+    :votes: 290
+    :percent: 0.92
+    :electorate: Northland
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Barry Brill
+    :last_name: Brill
+    :first_name: Barry
+  :candidacy:
+    :votes: 261
+    :percent: 0.83
+    :electorate: Northland
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 3330
+    :percent: 10.19
+    :electorate: Northland
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 213
+    :percent: 0.65
+    :electorate: Northland
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 149
+    :percent: 0.46
+    :electorate: Northland
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 35
+    :percent: 0.11
+    :electorate: Northland
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 25
+    :percent: 0.08
+    :electorate: Northland
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 9
+    :percent: 0.03
+    :electorate: Northland
+    :year: '2011'
+    :election_type: general

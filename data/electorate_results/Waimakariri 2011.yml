@@ -1,0 +1,183 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Kate Wilkinson
+    :last_name: Wilkinson
+    :first_name: Kate
+  :candidacy:
+    :votes: 16787
+    :percent: 47.28
+    :electorate: Waimakariri
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Clayton Cosgrove
+    :last_name: Cosgrove
+    :first_name: Clayton
+  :candidacy:
+    :votes: 16145
+    :percent: 45.48
+    :electorate: Waimakariri
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: John Kelcher
+    :last_name: Kelcher
+    :first_name: John
+  :candidacy:
+    :votes: 1197
+    :percent: 3.37
+    :electorate: Waimakariri
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: Tim de Vries
+    :last_name: Vries
+    :first_name: Tim de
+  :candidacy:
+    :votes: 785
+    :percent: 2.21
+    :electorate: Waimakariri
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Richard Prosser
+    :last_name: Prosser
+    :first_name: Richard
+  :candidacy:
+    :votes: 588
+    :percent: 1.66
+    :electorate: Waimakariri
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 208
+    :percent: 0.58
+    :electorate: Waimakariri
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 195
+    :percent: 0.54
+    :electorate: Waimakariri
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 155
+    :percent: 0.43
+    :electorate: Waimakariri
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 93
+    :percent: 0.26
+    :electorate: Waimakariri
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 35
+    :percent: 0.1
+    :electorate: Waimakariri
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 23
+    :percent: 0.06
+    :electorate: Waimakariri
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 17
+    :percent: 0.05
+    :electorate: Waimakariri
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 12
+    :percent: 0.03
+    :electorate: Waimakariri
+    :year: '2011'
+    :election_type: general

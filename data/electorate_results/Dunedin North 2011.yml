@@ -1,0 +1,183 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: David Clark
+    :last_name: Clark
+    :first_name: David
+  :candidacy:
+    :votes: 12976
+    :percent: 44.25
+    :electorate: Dunedin North
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Michael Woodhouse
+    :last_name: Woodhouse
+    :first_name: Michael
+  :candidacy:
+    :votes: 9487
+    :percent: 32.35
+    :electorate: Dunedin North
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Metiria Turei
+    :last_name: Turei
+    :first_name: Metiria
+  :candidacy:
+    :votes: 5721
+    :percent: 19.51
+    :electorate: Dunedin North
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: Julian Crawford
+    :last_name: Crawford
+    :first_name: Julian
+  :candidacy:
+    :votes: 398
+    :percent: 1.36
+    :electorate: Dunedin North
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Victor Billot
+    :last_name: Billot
+    :first_name: Victor
+  :candidacy:
+    :votes: 210
+    :percent: 0.72
+    :electorate: Dunedin North
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party for Social Credit
+    :short_name: Democrats
+  :candidate:
+    :name: Jeremy Noble
+    :last_name: Noble
+    :first_name: Jeremy
+  :candidacy:
+    :votes: 196
+    :percent: 0.67
+    :electorate: Dunedin North
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future New Zealand
+    :short_name: United Future
+  :candidate:
+    :name: Peter George
+    :last_name: George
+    :first_name: Peter
+  :candidacy:
+    :votes: 176
+    :percent: 0.6
+    :electorate: Dunedin North
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Guy McCallum
+    :last_name: McCallum
+    :first_name: Guy
+  :candidacy:
+    :votes: 159
+    :percent: 0.54
+    :electorate: Dunedin North
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1706
+    :percent: 5.69
+    :electorate: Dunedin North
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 405
+    :percent: 1.35
+    :electorate: Dunedin North
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 181
+    :percent: 0.6
+    :electorate: Dunedin North
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 126
+    :percent: 0.42
+    :electorate: Dunedin North
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 18
+    :percent: 0.06
+    :electorate: Dunedin North
+    :year: '2011'
+    :election_type: general

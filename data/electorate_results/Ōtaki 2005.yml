@@ -1,0 +1,267 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Darren Hughes
+    :last_name: Hughes
+    :first_name: Darren
+  :candidacy:
+    :votes: 17556
+    :percent: 45.76
+    :electorate: "Ōtaki"
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Nathan Guy
+    :last_name: Guy
+    :first_name: Nathan
+  :candidacy:
+    :votes: 17174
+    :percent: 44.76
+    :electorate: "Ōtaki"
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Chris Perry
+    :last_name: Perry
+    :first_name: Chris
+  :candidacy:
+    :votes: 1043
+    :percent: 2.72
+    :electorate: "Ōtaki"
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Nick Fisher
+    :last_name: Fisher
+    :first_name: Nick
+  :candidacy:
+    :votes: 1022
+    :percent: 2.66
+    :electorate: "Ōtaki"
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Diane Brown
+    :last_name: Brown
+    :first_name: Diane
+  :candidacy:
+    :votes: 611
+    :percent: 1.59
+    :electorate: "Ōtaki"
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: Richard Orzecki
+    :last_name: Orzecki
+    :first_name: Richard
+  :candidacy:
+    :votes: 353
+    :percent: 0.92
+    :electorate: "Ōtaki"
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: New Zealand Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: Russell Franklin
+    :last_name: Franklin
+    :first_name: Russell
+  :candidacy:
+    :votes: 303
+    :percent: 0.79
+    :electorate: "Ōtaki"
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Simon Ewing-Jarvie
+    :last_name: Ewing-Jarvie
+    :first_name: Simon
+  :candidacy:
+    :votes: 163
+    :percent: 0.42
+    :electorate: "Ōtaki"
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Margaret Jeune
+    :last_name: Jeune
+    :first_name: Margaret
+  :candidacy:
+    :votes: 97
+    :percent: 0.25
+    :electorate: "Ōtaki"
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#F28317"
+    :name: Direct Democracy Party of New Zealand
+    :short_name: Direct Democracy
+  :candidate:
+    :name: Robert Atack
+    :last_name: Atack
+    :first_name: Robert
+  :candidacy:
+    :votes: 47
+    :percent: 0.12
+    :electorate: "Ōtaki"
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Destiny New Zealand
+    :short_name: Destiny
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 154
+    :percent: 0.4
+    :electorate: "Ōtaki"
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 88
+    :percent: 0.23
+    :electorate: "Ōtaki"
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#65FFF0"
+    :name: New Zealand Family Rights Protection Party
+    :short_name: Family Rights
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 54
+    :percent: 0.14
+    :electorate: "Ōtaki"
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 37
+    :percent: 0.1
+    :electorate: "Ōtaki"
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 21
+    :percent: 0.05
+    :electorate: "Ōtaki"
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: 99 MP Party
+    :short_name: 99 MP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 14
+    :percent: 0.04
+    :electorate: "Ōtaki"
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 14
+    :percent: 0.04
+    :electorate: "Ōtaki"
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 9
+    :percent: 0.02
+    :electorate: "Ōtaki"
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#84C6C6"
+    :name: The Republic of New Zealand Party
+    :short_name: RONZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 5
+    :percent: 0.01
+    :electorate: "Ōtaki"
+    :year: '2005'
+    :election_type: general

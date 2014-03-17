@@ -1,0 +1,239 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Bob Simcock
+    :last_name: Simcock
+    :first_name: Bob
+  :candidacy:
+    :votes: 12696
+    :percent: 38.73
+    :electorate: Hamilton West
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Martin Gallagher
+    :last_name: Gallagher
+    :first_name: Martin
+  :candidacy:
+    :votes: 12099
+    :percent: 36.91
+    :electorate: Hamilton West
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Neil Kirton
+    :last_name: Kirton
+    :first_name: Neil
+  :candidacy:
+    :votes: 3861
+    :percent: 11.78
+    :electorate: Hamilton West
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: John Pemberton
+    :last_name: Pemberton
+    :first_name: John
+  :candidacy:
+    :votes: 1738
+    :percent: 5.3
+    :electorate: Hamilton West
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Coalition
+    :short_name: Christian Coalition
+  :candidate:
+    :name: Eleanor Goodall
+    :last_name: Goodall
+    :first_name: Eleanor
+  :candidacy:
+    :votes: 1043
+    :percent: 3.18
+    :electorate: Hamilton West
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Garry Mallett
+    :last_name: Mallett
+    :first_name: Garry
+  :candidacy:
+    :votes: 725
+    :percent: 2.21
+    :electorate: Hamilton West
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: McGillicuddy Serious Party
+    :short_name: McGillicuddy Serious
+  :candidate:
+    :name: Peter Caldwell
+    :last_name: Caldwell
+    :first_name: Peter
+  :candidacy:
+    :votes: 338
+    :percent: 1.03
+    :electorate: Hamilton West
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#339999"
+    :name: Progressive Green Party
+    :short_name: Progressive Greens
+  :candidate:
+    :name: Robert Henderson
+    :last_name: Henderson
+    :first_name: Robert
+  :candidacy:
+    :votes: 208
+    :percent: 0.63
+    :electorate: Hamilton West
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#333366"
+    :name: Natural Law Party of New Zealand
+    :short_name: Natural Law
+  :candidate:
+    :name: Mike Dunn
+    :last_name: Dunn
+    :first_name: Mike
+  :candidacy:
+    :votes: 69
+    :percent: 0.21
+    :electorate: Hamilton West
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 457
+    :percent: 1.39
+    :electorate: Hamilton West
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#663377"
+    :name: United New Zealand
+    :short_name: United NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 183
+    :percent: 0.56
+    :electorate: Hamilton West
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Animals First
+    :short_name: Animals First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 62
+    :percent: 0.19
+    :electorate: Hamilton West
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#787878"
+    :name: Superannuitants and Youth Action
+    :short_name: Superannuitants & Youth
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 37
+    :percent: 0.11
+    :electorate: Hamilton West
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 32
+    :percent: 0.1
+    :electorate: Hamilton West
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#74B249"
+    :name: Green Society
+    :short_name: Green Society
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 17
+    :percent: 0.05
+    :electorate: Hamilton West
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 11
+    :percent: 0.03
+    :electorate: Hamilton West
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#0D0DFC"
+    :name: New Zealand Conservative Party
+    :short_name: Conservatives
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 3
+    :percent: 0.01
+    :electorate: Hamilton West
+    :year: '1996'
+    :election_type: general

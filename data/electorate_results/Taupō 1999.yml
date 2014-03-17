@@ -1,0 +1,281 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Mark Burton
+    :last_name: Burton
+    :first_name: Mark
+  :candidacy:
+    :votes: 13721
+    :percent: 49.42
+    :electorate: Taupō
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Davd Steele
+    :last_name: Steele
+    :first_name: Davd
+  :candidacy:
+    :votes: 10143
+    :percent: 36.53
+    :electorate: Taupō
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Nick Fisher
+    :last_name: Fisher
+    :first_name: Nick
+  :candidacy:
+    :votes: 997
+    :percent: 3.59
+    :electorate: Taupō
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Richard Steele
+    :last_name: Steele
+    :first_name: Richard
+  :candidacy:
+    :votes: 877
+    :percent: 3.16
+    :electorate: Taupō
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Ross Honeyfield
+    :last_name: Honeyfield
+    :first_name: Ross
+  :candidacy:
+    :votes: 718
+    :percent: 2.59
+    :electorate: Taupō
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Wayne Morris
+    :last_name: Morris
+    :first_name: Wayne
+  :candidacy:
+    :votes: 644
+    :percent: 2.32
+    :electorate: Taupō
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage Party of New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: John van der Zee
+    :last_name: Zee
+    :first_name: John van der
+  :candidacy:
+    :votes: 580
+    :percent: 2.09
+    :electorate: Taupō
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#003153"
+    :name: Mauri Pacific
+    :short_name: Mauri Pacific
+  :candidate:
+    :name: Rovina Anderson
+    :last_name: Anderson
+    :first_name: Rovina
+  :candidacy:
+    :votes: 51
+    :percent: 0.18
+    :electorate: Taupō
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Wahine Te Ira Tangata
+    :short_name: Mana Wahine
+  :candidate:
+    :name: Makere Rangitoheriri
+    :last_name: Rangitoheriri
+    :first_name: Makere
+  :candidacy:
+    :votes: 34
+    :percent: 0.12
+    :electorate: Taupō
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 265
+    :percent: 0.95
+    :electorate: Taupō
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 111
+    :percent: 0.4
+    :electorate: Taupō
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#663377"
+    :name: United New Zealand
+    :short_name: United NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 110
+    :percent: 0.39
+    :electorate: Taupō
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: McGillicuddy Serious Party
+    :short_name: McGillicuddy Serious
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 41
+    :percent: 0.15
+    :electorate: Taupō
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Animals First
+    :short_name: Animals First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 36
+    :percent: 0.13
+    :electorate: Taupō
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 17
+    :percent: 0.06
+    :electorate: Taupō
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 16
+    :percent: 0.06
+    :electorate: Taupō
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#333366"
+    :name: Natural Law Party of New Zealand
+    :short_name: Natural Law
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 8
+    :percent: 0.03
+    :electorate: Taupō
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FFFFC0"
+    :name: NMP
+    :short_name: NMP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 8
+    :percent: 0.03
+    :electorate: Taupō
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Republican Party (1995)
+    :short_name: Republican
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 3
+    :percent: 0.01
+    :electorate: Taupō
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#009900"
+    :name: NZ South Island Party
+    :short_name: South Island
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 0
+    :percent: 0.0
+    :electorate: Taupō
+    :year: '1999'
+    :election_type: general

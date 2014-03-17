@@ -1,0 +1,183 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Maggie Barry
+    :last_name: Barry
+    :first_name: Maggie
+  :candidacy:
+    :votes: 22709
+    :percent: 62.44
+    :electorate: North Shore
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Ben Clark
+    :last_name: Clark
+    :first_name: Ben
+  :candidacy:
+    :votes: 7481
+    :percent: 20.57
+    :electorate: North Shore
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Pieter Watson
+    :last_name: Watson
+    :first_name: Pieter
+  :candidacy:
+    :votes: 2802
+    :percent: 7.7
+    :electorate: North Shore
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Don Brash
+    :last_name: Brash
+    :first_name: Don
+  :candidacy:
+    :votes: 1293
+    :percent: 3.56
+    :electorate: North Shore
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: Craig Jensen
+    :last_name: Jensen
+    :first_name: Craig
+  :candidacy:
+    :votes: 904
+    :percent: 2.49
+    :electorate: North Shore
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Andrew Williams
+    :last_name: Williams
+    :first_name: Andrew
+  :candidacy:
+    :votes: 900
+    :percent: 2.47
+    :electorate: North Shore
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Damien Light
+    :last_name: Light
+    :first_name: Damien
+  :candidacy:
+    :votes: 173
+    :percent: 0.48
+    :electorate: North Shore
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: Michael Murphy
+    :last_name: Murphy
+    :first_name: Michael
+  :candidacy:
+    :votes: 108
+    :percent: 0.3
+    :electorate: North Shore
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 223
+    :percent: 0.6
+    :electorate: North Shore
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 123
+    :percent: 0.33
+    :electorate: North Shore
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 62
+    :percent: 0.17
+    :electorate: North Shore
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party for Social Credit
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 12
+    :percent: 0.03
+    :electorate: North Shore
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 8
+    :percent: 0.02
+    :electorate: North Shore
+    :year: '2011'
+    :election_type: general

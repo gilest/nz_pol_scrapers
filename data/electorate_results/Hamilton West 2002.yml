@@ -1,0 +1,211 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Martin Gallagher
+    :last_name: Gallagher
+    :first_name: Martin
+  :candidacy:
+    :votes: 14614
+    :percent: 48.53
+    :electorate: Hamilton West
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Bob Simcock
+    :last_name: Simcock
+    :first_name: Bob
+  :candidacy:
+    :votes: 9040
+    :percent: 30.02
+    :electorate: Hamilton West
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Bill Gudgeon
+    :last_name: Gudgeon
+    :first_name: Bill
+  :candidacy:
+    :votes: 2091
+    :percent: 6.94
+    :electorate: Hamilton West
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Garry Mallett
+    :last_name: Mallett
+    :first_name: Garry
+  :candidacy:
+    :votes: 1304
+    :percent: 4.33
+    :electorate: Hamilton West
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Chris Norton-Brown
+    :last_name: Norton-Brown
+    :first_name: Chris
+  :candidacy:
+    :votes: 1203
+    :percent: 3.99
+    :electorate: Hamilton West
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Martyn Seddon
+    :last_name: Seddon
+    :first_name: Martyn
+  :candidacy:
+    :votes: 932
+    :percent: 3.09
+    :electorate: Hamilton West
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage Party of New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: Eleanor Goodall
+    :last_name: Goodall
+    :first_name: Eleanor
+  :candidacy:
+    :votes: 454
+    :percent: 1.51
+    :electorate: Hamilton West
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: New Zealand Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: Rob Shirley
+    :last_name: Shirley
+    :first_name: Rob
+  :candidacy:
+    :votes: 234
+    :percent: 0.78
+    :electorate: Hamilton West
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Craig A. Wills
+    :last_name: Wills
+    :first_name: Craig A.
+  :candidacy:
+    :votes: 164
+    :percent: 0.54
+    :electorate: Hamilton West
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: Timothy Wikiriwhi
+    :last_name: Wikiriwhi
+    :first_name: Timothy
+  :candidacy:
+    :votes: 79
+    :percent: 0.26
+    :electorate: Hamilton West
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#666666"
+    :name: Outdoor Recreation New Zealand
+    :short_name: ORNZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 298
+    :percent: 0.98
+    :electorate: Hamilton West
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 164
+    :percent: 0.54
+    :electorate: Hamilton West
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 15
+    :percent: 0.05
+    :electorate: Hamilton West
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 14
+    :percent: 0.05
+    :electorate: Hamilton West
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#FFFFC0"
+    :name: NMP
+    :short_name: NMP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 4
+    :percent: 0.01
+    :electorate: Hamilton West
+    :year: '2002'
+    :election_type: general

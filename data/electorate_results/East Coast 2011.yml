@@ -1,0 +1,183 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Anne Tolley
+    :last_name: Tolley
+    :first_name: Anne
+  :candidacy:
+    :votes: 14003
+    :percent: 48.27
+    :electorate: East Coast
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Moana Mackey
+    :last_name: Mackey
+    :first_name: Moana
+  :candidacy:
+    :votes: 9229
+    :percent: 31.82
+    :electorate: East Coast
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Darryl Monteith
+    :last_name: Monteith
+    :first_name: Darryl
+  :candidacy:
+    :votes: 2452
+    :percent: 8.45
+    :electorate: East Coast
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: Kathy Sheldrake
+    :last_name: Sheldrake
+    :first_name: Kathy
+  :candidacy:
+    :votes: 1352
+    :percent: 4.66
+    :electorate: East Coast
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Tamati Reid
+    :last_name: Reid
+    :first_name: Tamati
+  :candidacy:
+    :votes: 1184
+    :percent: 4.08
+    :electorate: East Coast
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future New Zealand
+    :short_name: United Future
+  :candidate:
+    :name: Martin Gibson
+    :last_name: Gibson
+    :first_name: Martin
+  :candidacy:
+    :votes: 392
+    :percent: 1.35
+    :electorate: East Coast
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: Val Irwin
+    :last_name: Irwin
+    :first_name: Val
+  :candidacy:
+    :votes: 256
+    :percent: 0.88
+    :electorate: East Coast
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: John Norvill
+    :last_name: Norvill
+    :first_name: John
+  :candidacy:
+    :votes: 140
+    :percent: 0.48
+    :electorate: East Coast
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 133
+    :percent: 0.45
+    :electorate: East Coast
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 313
+    :percent: 1.05
+    :electorate: East Coast
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 10
+    :percent: 0.03
+    :electorate: East Coast
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party for Social Credit
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 10
+    :percent: 0.03
+    :electorate: East Coast
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 9
+    :percent: 0.03
+    :electorate: East Coast
+    :year: '2011'
+    :election_type: general

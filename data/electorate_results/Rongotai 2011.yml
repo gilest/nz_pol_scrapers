@@ -1,0 +1,197 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Annette King
+    :last_name: King
+    :first_name: Annette
+  :candidacy:
+    :votes: 18179
+    :percent: 50.52
+    :electorate: Rongotai
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Chris Finlayson
+    :last_name: Finlayson
+    :first_name: Chris
+  :candidacy:
+    :votes: 9132
+    :percent: 25.38
+    :electorate: Rongotai
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Russel Norman
+    :last_name: Norman
+    :first_name: Russel
+  :candidacy:
+    :votes: 7262
+    :percent: 20.18
+    :electorate: Rongotai
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Brent Pierson
+    :last_name: Pierson
+    :first_name: Brent
+  :candidacy:
+    :votes: 488
+    :percent: 1.36
+    :electorate: Rongotai
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: Bruce Welsh
+    :last_name: Welsh
+    :first_name: Bruce
+  :candidacy:
+    :votes: 435
+    :percent: 1.21
+    :electorate: Rongotai
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Joel Latimer
+    :last_name: Latimer
+    :first_name: Joel
+  :candidacy:
+    :votes: 168
+    :percent: 0.47
+    :electorate: Rongotai
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: Aroha Rickus
+    :last_name: Rickus
+    :first_name: Aroha
+  :candidacy:
+    :votes: 168
+    :percent: 0.47
+    :electorate: Rongotai
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Don Richards
+    :last_name: Richards
+    :first_name: Don
+  :candidacy:
+    :votes: 152
+    :percent: 0.42
+    :electorate: Rongotai
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 217
+    :percent: 0.59
+    :electorate: Rongotai
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 198
+    :percent: 0.54
+    :electorate: Rongotai
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 167
+    :percent: 0.45
+    :electorate: Rongotai
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 31
+    :percent: 0.08
+    :electorate: Rongotai
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 23
+    :percent: 0.06
+    :electorate: Rongotai
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 11
+    :percent: 0.03
+    :electorate: Rongotai
+    :year: '2011'
+    :election_type: general

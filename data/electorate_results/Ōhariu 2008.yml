@@ -1,0 +1,267 @@
+---
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Peter Dunne
+    :last_name: Dunne
+    :first_name: Peter
+  :candidacy:
+    :votes: 12303
+    :percent: 32.61
+    :electorate: "Ōhariu"
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Charles Chauvel
+    :last_name: Chauvel
+    :first_name: Charles
+  :candidacy:
+    :votes: 11297
+    :percent: 29.95
+    :electorate: "Ōhariu"
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Katrina Shanks
+    :last_name: Shanks
+    :first_name: Katrina
+  :candidacy:
+    :votes: 10009
+    :percent: 26.53
+    :electorate: "Ōhariu"
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Gareth Hughes
+    :last_name: Hughes
+    :first_name: Gareth
+  :candidacy:
+    :votes: 2665
+    :percent: 7.06
+    :electorate: "Ōhariu"
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#363096"
+    :name: The Kiwi Party
+    :short_name: Kiwi
+  :candidate:
+    :name: Joel Sison
+    :last_name: Sison
+    :first_name: Joel
+  :candidacy:
+    :votes: 522
+    :percent: 1.38
+    :electorate: "Ōhariu"
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Colin du Plessis
+    :last_name: Plessis
+    :first_name: Colin du
+  :candidacy:
+    :votes: 487
+    :percent: 1.29
+    :electorate: "Ōhariu"
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: Danyl Strype
+    :last_name: Strype
+    :first_name: Danyl
+  :candidacy:
+    :votes: 330
+    :percent: 0.87
+    :electorate: "Ōhariu"
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Kelly Buchanan
+    :last_name: Buchanan
+    :first_name: Kelly
+  :candidacy:
+    :votes: 111
+    :percent: 0.29
+    :electorate: "Ōhariu"
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 798
+    :percent: 2.09
+    :electorate: "Ōhariu"
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 278
+    :percent: 0.73
+    :electorate: "Ōhariu"
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: New Zealand Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 273
+    :percent: 0.71
+    :electorate: "Ōhariu"
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#186E23"
+    :name: Bill and Ben Party
+    :short_name: Bill and Ben
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 208
+    :percent: 0.54
+    :electorate: "Ōhariu"
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FFEB33"
+    :name: The Family Party
+    :short_name: Family Party
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 65
+    :percent: 0.17
+    :electorate: "Ōhariu"
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#531E8A"
+    :name: New Zealand Pacific Party
+    :short_name: Pacific
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 22
+    :percent: 0.06
+    :electorate: "Ōhariu"
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 20
+    :percent: 0.05
+    :electorate: "Ōhariu"
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FF0066"
+    :name: Workers Party of New Zealand
+    :short_name: Workers Party
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 11
+    :percent: 0.03
+    :electorate: "Ōhariu"
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 9
+    :percent: 0.02
+    :electorate: "Ōhariu"
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#467CFA"
+    :name: Residents Action Movement
+    :short_name: RAM
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 7
+    :percent: 0.02
+    :electorate: "Ōhariu"
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#84C6C6"
+    :name: The Republic of New Zealand Party
+    :short_name: RONZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 7
+    :percent: 0.02
+    :electorate: "Ōhariu"
+    :year: '2008'
+    :election_type: general

@@ -1,0 +1,281 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Maurice Williamson
+    :last_name: Williamson
+    :first_name: Maurice
+  :candidacy:
+    :votes: 19159
+    :percent: 54.03
+    :electorate: Pakuranga
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Michael Wood
+    :last_name: Wood
+    :first_name: Michael
+  :candidacy:
+    :votes: 9577
+    :percent: 27.01
+    :electorate: Pakuranga
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Steve Baron
+    :last_name: Baron
+    :first_name: Steve
+  :candidacy:
+    :votes: 1807
+    :percent: 5.1
+    :electorate: Pakuranga
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Pita Paraone
+    :last_name: Paraone
+    :first_name: Pita
+  :candidacy:
+    :votes: 1398
+    :percent: 3.54
+    :electorate: Pakuranga
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Bronny Jacobson
+    :last_name: Jacobson
+    :first_name: Bronny
+  :candidacy:
+    :votes: 1216
+    :percent: 3.43
+    :electorate: Pakuranga
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Ian McInnes
+    :last_name: McInnes
+    :first_name: Ian
+  :candidacy:
+    :votes: 833
+    :percent: 2.35
+    :electorate: Pakuranga
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: Jim Anderton's Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: Ly Meng
+    :last_name: Meng
+    :first_name: Ly
+  :candidacy:
+    :votes: 560
+    :percent: 1.58
+    :electorate: Pakuranga
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Destiny New Zealand
+    :short_name: Destiny
+  :candidate:
+    :name: David Jesze
+    :last_name: Jesze
+    :first_name: David
+  :candidacy:
+    :votes: 488
+    :percent: 1.38
+    :electorate: Pakuranga
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: Ewen McQueen
+    :last_name: McQueen
+    :first_name: Ewen
+  :candidacy:
+    :votes: 373
+    :percent: 1.05
+    :electorate: Pakuranga
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#F28317"
+    :name: Direct Democracy Party of New Zealand
+    :short_name: Direct Democracy
+  :candidate:
+    :name: Kevin Moore
+    :last_name: Moore
+    :first_name: Kevin
+  :candidacy:
+    :votes: 49
+    :percent: 0.14
+    :electorate: Pakuranga
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 907
+    :percent: 2.52
+    :electorate: Pakuranga
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 73
+    :percent: 0.2
+    :electorate: Pakuranga
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 36
+    :percent: 0.1
+    :electorate: Pakuranga
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 14
+    :percent: 0.04
+    :electorate: Pakuranga
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 13
+    :percent: 0.04
+    :electorate: Pakuranga
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#84C6C6"
+    :name: The Republic of New Zealand Party
+    :short_name: RONZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 7
+    :percent: 0.02
+    :electorate: Pakuranga
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: 99 MP Party
+    :short_name: 99 MP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 6
+    :percent: 0.02
+    :electorate: Pakuranga
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 6
+    :percent: 0.02
+    :electorate: Pakuranga
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#65FFF0"
+    :name: New Zealand Family Rights Protection Party
+    :short_name: Family Rights
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 5
+    :percent: 0.01
+    :electorate: Pakuranga
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party for Social Credit
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 4
+    :percent: 0.01
+    :electorate: Pakuranga
+    :year: '2005'
+    :election_type: general

@@ -1,0 +1,309 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Judith Tizard
+    :last_name: Tizard
+    :first_name: Judith
+  :candidacy:
+    :votes: 12219
+    :percent: 36.57
+    :electorate: Auckland Central
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Sandra Lee-Vercoe
+    :last_name: Lee-Vercoe
+    :first_name: Sandra
+  :candidacy:
+    :votes: 8866
+    :percent: 26.53
+    :electorate: Auckland Central
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Shane Frith
+    :last_name: Frith
+    :first_name: Shane
+  :candidacy:
+    :votes: 7462
+    :percent: 22.33
+    :electorate: Auckland Central
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Rodney Hide
+    :last_name: Hide
+    :first_name: Rodney
+  :candidacy:
+    :votes: 1848
+    :percent: 5.53
+    :electorate: Auckland Central
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Richard Whittaker
+    :last_name: Whittaker
+    :first_name: Richard
+  :candidacy:
+    :votes: 1565
+    :percent: 4.68
+    :electorate: Auckland Central
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Coalition
+    :short_name: Christian Coalition
+  :candidate:
+    :name: Barrie Patterson
+    :last_name: Patterson
+    :first_name: Barrie
+  :candidacy:
+    :votes: 398
+    :percent: 1.19
+    :electorate: Auckland Central
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#399"
+    :name: Progressive Green Party
+    :short_name: Progressive Green
+  :candidate:
+    :name: Laurence Boomert
+    :last_name: Boomert
+    :first_name: Laurence
+  :candidacy:
+    :votes: 326
+    :percent: 0.98
+    :electorate: Auckland Central
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: McGillicuddy Serious Party
+    :short_name: McGillicuddy Serious
+  :candidate:
+    :name: Alistair Ramsden
+    :last_name: Ramsden
+    :first_name: Alistair
+  :candidacy:
+    :votes: 226
+    :percent: 0.68
+    :electorate: Auckland Central
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#366"
+    :name: Green Society
+    :short_name: Green Society
+  :candidate:
+    :name: Simon Reeves
+    :last_name: Reeves
+    :first_name: Simon
+  :candidacy:
+    :votes: 175
+    :percent: 0.52
+    :electorate: Auckland Central
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FC6"
+    :name: Blokes Liberation Front
+    :short_name: Blokes Liberation Front
+  :candidate:
+    :name: Chris Brady
+    :last_name: Brady
+    :first_name: Chris
+  :candidacy:
+    :votes: 139
+    :percent: 0.42
+    :electorate: Auckland Central
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#333366"
+    :name: Natural Law Party of New Zealand
+    :short_name: Natural Law
+  :candidate:
+    :name: Mark Watts
+    :last_name: Watts
+    :first_name: Mark
+  :candidacy:
+    :votes: 108
+    :percent: 0.32
+    :electorate: Auckland Central
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Peter de Jonge
+    :last_name: Jonge
+    :first_name: Peter de
+  :candidacy:
+    :votes: 27
+    :percent: 0.08
+    :electorate: Auckland Central
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#6CF"
+    :name: Citizens Party
+    :short_name: Citizens Party
+  :candidate:
+    :name: Wayne Young
+    :last_name: Young
+    :first_name: Wayne
+  :candidacy:
+    :votes: 18
+    :percent: 0.05
+    :electorate: Auckland Central
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Lynne Robertson
+    :last_name: Robertson
+    :first_name: Lynne
+  :candidacy:
+    :votes: 13
+    :percent: 0.04
+    :electorate: Auckland Central
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Adam Le Lievre
+    :last_name: Lievre
+    :first_name: Adam Le
+  :candidacy:
+    :votes: 10
+    :percent: 0.03
+    :electorate: Auckland Central
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Victor Bryers
+    :last_name: Bryers
+    :first_name: Victor
+  :candidacy:
+    :votes: 7
+    :percent: 0.02
+    :electorate: Auckland Central
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Republican Party (1995)
+    :short_name: Republican
+  :candidate:
+    :name: Duane Sutton
+    :last_name: Sutton
+    :first_name: Duane
+  :candidacy:
+    :votes: 7
+    :percent: 0.02
+    :electorate: Auckland Central
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1003
+    :percent: 2.99
+    :electorate: Auckland Central
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#663377"
+    :name: United New Zealand
+    :short_name: United NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 199
+    :percent: 0.59
+    :electorate: Auckland Central
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Animals First
+    :short_name: Animals First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 90
+    :percent: 0.27
+    :electorate: Auckland Central
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 41
+    :percent: 0.12
+    :electorate: Auckland Central
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 32
+    :percent: 0.1
+    :electorate: Auckland Central
+    :year: '1996'
+    :election_type: general

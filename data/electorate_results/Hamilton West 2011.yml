@@ -1,0 +1,211 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Tim Macindoe
+    :last_name: Macindoe
+    :first_name: Tim
+  :candidacy:
+    :votes: 16587
+    :percent: 53.26
+    :electorate: Hamilton West
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Sue Moroney
+    :last_name: Moroney
+    :first_name: Sue
+  :candidacy:
+    :votes: 12169
+    :percent: 39.07
+    :electorate: Hamilton West
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Bill Gudgeon
+    :last_name: Gudgeon
+    :first_name: Bill
+  :candidacy:
+    :votes: 1294
+    :percent: 4.16
+    :electorate: Hamilton West
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: Pat Gregory
+    :last_name: Gregory
+    :first_name: Pat
+  :candidacy:
+    :votes: 744
+    :percent: 2.39
+    :electorate: Hamilton West
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Robert Curtis
+    :last_name: Curtis
+    :first_name: Robert
+  :candidacy:
+    :votes: 159
+    :percent: 0.51
+    :electorate: Hamilton West
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Tim Wikiriwhi
+    :last_name: Wikiriwhi
+    :first_name: Tim
+  :candidacy:
+    :votes: 115
+    :percent: 0.37
+    :electorate: Hamilton West
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party for Social Credit
+    :short_name: Democrats
+  :candidate:
+    :name: Les Port
+    :last_name: Port
+    :first_name: Les
+  :candidacy:
+    :votes: 75
+    :percent: 0.24
+    :electorate: Hamilton West
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 2834
+    :percent: 8.84
+    :electorate: Hamilton West
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 292
+    :percent: 0.91
+    :electorate: Hamilton West
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 227
+    :percent: 0.71
+    :electorate: Hamilton West
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 188
+    :percent: 0.59
+    :electorate: Hamilton West
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 175
+    :percent: 0.55
+    :electorate: Hamilton West
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 115
+    :percent: 0.36
+    :electorate: Hamilton West
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 31
+    :percent: 0.1
+    :electorate: Hamilton West
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 10
+    :percent: 0.03
+    :electorate: Hamilton West
+    :year: '2011'
+    :election_type: general

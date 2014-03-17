@@ -1,0 +1,323 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Helen Clark
+    :last_name: Clark
+    :first_name: Helen
+  :candidacy:
+    :votes: 20918
+    :percent: 66.55
+    :electorate: Mount Albert
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Ravi Musuku
+    :last_name: Musuku
+    :first_name: Ravi
+  :candidacy:
+    :votes: 6169
+    :percent: 19.63
+    :electorate: Mount Albert
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Jon Carapiet
+    :last_name: Carapiet
+    :first_name: Jon
+  :candidacy:
+    :votes: 1485
+    :percent: 4.72
+    :electorate: Mount Albert
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Julian Batchelor
+    :last_name: Batchelor
+    :first_name: Julian
+  :candidacy:
+    :votes: 746
+    :percent: 2.37
+    :electorate: Mount Albert
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: David Seymour
+    :last_name: Seymour
+    :first_name: David
+  :candidacy:
+    :votes: 746
+    :percent: 2.37
+    :electorate: Mount Albert
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future New Zealand
+    :short_name: United Future
+  :candidate:
+    :name: Tony Gordon
+    :last_name: Gordon
+    :first_name: Tony
+  :candidacy:
+    :votes: 529
+    :percent: 1.68
+    :electorate: Mount Albert
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: New Zealand Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: Jenny Wilson
+    :last_name: Wilson
+    :first_name: Jenny
+  :candidacy:
+    :votes: 407
+    :percent: 1.29
+    :electorate: Mount Albert
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Destiny New Zealand
+    :short_name: Destiny
+  :candidate:
+    :name: Anne Williamson
+    :last_name: Williamson
+    :first_name: Anne
+  :candidacy:
+    :votes: 337
+    :percent: 1.07
+    :electorate: Mount Albert
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#CCC"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: James Bagnall
+    :last_name: Bagnall
+    :first_name: James
+  :candidacy:
+    :votes: 83
+    :percent: 0.26
+    :electorate: Mount Albert
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#CCC"
+    :name: Anti-Capitalist
+    :short_name: Anti-Capitalist
+  :candidate:
+    :name: Daphna Whitmore
+    :last_name: Whitmore
+    :first_name: Daphna
+  :candidacy:
+    :votes: 79
+    :percent: 0.25
+    :electorate: Mount Albert
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#CCC"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Anthony Ravlich
+    :last_name: Ravlich
+    :first_name: Anthony
+  :candidacy:
+    :votes: 47
+    :percent: 0.15
+    :electorate: Mount Albert
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#F28317"
+    :name: Direct Democracy Party of New Zealand
+    :short_name: Direct Democracy
+  :candidate:
+    :name: Howard Ponga
+    :last_name: Ponga
+    :first_name: Howard
+  :candidacy:
+    :votes: 30
+    :percent: 0.1
+    :electorate: Mount Albert
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#CCC"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Erik Taylor
+    :last_name: Taylor
+    :first_name: Erik
+  :candidacy:
+    :votes: 29
+    :percent: 0.09
+    :electorate: Mount Albert
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 168
+    :percent: 0.52
+    :electorate: Mount Albert
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 43
+    :percent: 0.13
+    :electorate: Mount Albert
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 40
+    :percent: 0.12
+    :electorate: Mount Albert
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 22
+    :percent: 0.07
+    :electorate: Mount Albert
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#65FFF0"
+    :name: New Zealand Family Rights Protection Party
+    :short_name: Family Rights
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 20
+    :percent: 0.06
+    :electorate: Mount Albert
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 19
+    :percent: 0.06
+    :electorate: Mount Albert
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#84C6C6"
+    :name: The Republic of New Zealand Party
+    :short_name: RONZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 8
+    :percent: 0.02
+    :electorate: Mount Albert
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: 99 MP Party
+    :short_name: 99 MP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 6
+    :percent: 0.02
+    :electorate: Mount Albert
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 3
+    :percent: 0.01
+    :electorate: Mount Albert
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 0
+    :percent: 0.0
+    :electorate: Mount Albert
+    :year: '2005'
+    :election_type: general

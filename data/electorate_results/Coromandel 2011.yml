@@ -1,0 +1,197 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Scott Simpson
+    :last_name: Simpson
+    :first_name: Scott
+  :candidacy:
+    :votes: 18571
+    :percent: 55.05
+    :electorate: Coromandel
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Hugh Kininmonth
+    :last_name: Kininmonth
+    :first_name: Hugh
+  :candidacy:
+    :votes: 5831
+    :percent: 17.28
+    :electorate: Coromandel
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Catherine Delahunty
+    :last_name: Delahunty
+    :first_name: Catherine
+  :candidacy:
+    :votes: 5660
+    :percent: 16.18
+    :electorate: Coromandel
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Kevin Stone
+    :last_name: Stone
+    :first_name: Kevin
+  :candidacy:
+    :votes: 2118
+    :percent: 6.28
+    :electorate: Coromandel
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: Bruce Rurehe
+    :last_name: Rurehe
+    :first_name: Bruce
+  :candidacy:
+    :votes: 853
+    :percent: 2.53
+    :electorate: Coromandel
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: Jay Fitton
+    :last_name: Fitton
+    :first_name: Jay
+  :candidacy:
+    :votes: 454
+    :percent: 1.35
+    :electorate: Coromandel
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Steve Graf
+    :last_name: Graf
+    :first_name: Steve
+  :candidacy:
+    :votes: 195
+    :percent: 0.58
+    :electorate: Coromandel
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Mapuna Turner
+    :last_name: Turner
+    :first_name: Mapuna
+  :candidacy:
+    :votes: 54
+    :percent: 0.16
+    :electorate: Coromandel
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 473
+    :percent: 1.37
+    :electorate: Coromandel
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 151
+    :percent: 0.44
+    :electorate: Coromandel
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 87
+    :percent: 0.25
+    :electorate: Coromandel
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 24
+    :percent: 0.07
+    :electorate: Coromandel
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party for Social Credit
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 21
+    :percent: 0.06
+    :electorate: Coromandel
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 4
+    :percent: 0.01
+    :electorate: Coromandel
+    :year: '2011'
+    :election_type: general

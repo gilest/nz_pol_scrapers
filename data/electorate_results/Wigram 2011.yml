@@ -1,0 +1,197 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Megan Woods
+    :last_name: Woods
+    :first_name: Megan
+  :candidacy:
+    :votes: 14080
+    :percent: 45.11
+    :electorate: Wigram
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Sam Collins
+    :last_name: Collins
+    :first_name: Sam
+  :candidacy:
+    :votes: 12580
+    :percent: 40.31
+    :electorate: Wigram
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Richard Wesley
+    :last_name: Wesley
+    :first_name: Richard
+  :candidacy:
+    :votes: 2423
+    :percent: 7.76
+    :electorate: Wigram
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Kevin Campbell
+    :last_name: Campbell
+    :first_name: Kevin
+  :candidacy:
+    :votes: 793
+    :percent: 2.54
+    :electorate: Wigram
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: Mark Peters
+    :last_name: Peters
+    :first_name: Mark
+  :candidacy:
+    :votes: 785
+    :percent: 2.52
+    :electorate: Wigram
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: Geoffrey McTague
+    :last_name: McTague
+    :first_name: Geoffrey
+  :candidacy:
+    :votes: 337
+    :percent: 1.08
+    :electorate: Wigram
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Ian Gaskin
+    :last_name: Gaskin
+    :first_name: Ian
+  :candidacy:
+    :votes: 159
+    :percent: 0.51
+    :electorate: Wigram
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AA6"
+    :name: Economic Euthenics
+    :short_name: Economic Euthenics
+  :candidate:
+    :name: Tubby Hansen
+    :last_name: Hansen
+    :first_name: Tubby
+  :candidacy:
+    :votes: 53
+    :percent: 0.17
+    :electorate: Wigram
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1948
+    :percent: 6.04
+    :electorate: Wigram
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 202
+    :percent: 0.63
+    :electorate: Wigram
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 141
+    :percent: 0.44
+    :electorate: Wigram
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 66
+    :percent: 0.2
+    :electorate: Wigram
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 33
+    :percent: 0.1
+    :electorate: Wigram
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party for Social Credit
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 16
+    :percent: 0.05
+    :electorate: Wigram
+    :year: '2011'
+    :election_type: general

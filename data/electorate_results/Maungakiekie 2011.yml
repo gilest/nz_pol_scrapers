@@ -1,0 +1,183 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Pesata Sam Lotu-Iiga
+    :last_name: Lotu-Iiga
+    :first_name: Pesata Sam
+  :candidacy:
+    :votes: 16189
+    :percent: 49.88
+    :electorate: Maungakiekie
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Carol Beaumont
+    :last_name: Beaumont
+    :first_name: Carol
+  :candidacy:
+    :votes: 13168
+    :percent: 40.57
+    :electorate: Maungakiekie
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Tom Land
+    :last_name: Land
+    :first_name: Tom
+  :candidacy:
+    :votes: 1827
+    :percent: 5.63
+    :electorate: Maungakiekie
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Jerry Ho
+    :last_name: Ho
+    :first_name: Jerry
+  :candidacy:
+    :votes: 687
+    :percent: 2.12
+    :electorate: Maungakiekie
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: Grace Haden
+    :last_name: Haden
+    :first_name: Grace
+  :candidacy:
+    :votes: 443
+    :percent: 1.36
+    :electorate: Maungakiekie
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: Barry Tumai
+    :last_name: Tumai
+    :first_name: Barry
+  :candidacy:
+    :votes: 145
+    :percent: 0.45
+    :electorate: Maungakiekie
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 400
+    :percent: 1.18
+    :electorate: Maungakiekie
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 213
+    :percent: 0.63
+    :electorate: Maungakiekie
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 130
+    :percent: 0.38
+    :electorate: Maungakiekie
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 128
+    :percent: 0.38
+    :electorate: Maungakiekie
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 28
+    :percent: 0.08
+    :electorate: Maungakiekie
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 13
+    :percent: 0.04
+    :electorate: Maungakiekie
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party for Social Credit
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 7
+    :percent: 0.02
+    :electorate: Maungakiekie
+    :year: '2011'
+    :election_type: general

@@ -1,0 +1,281 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Chris Carter
+    :last_name: Carter
+    :first_name: Chris
+  :candidacy:
+    :votes: 18087
+    :percent: 59.37
+    :electorate: Te Atatū
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Tau Henare
+    :last_name: Henare
+    :first_name: Tau
+  :candidacy:
+    :votes: 7640
+    :percent: 25.08
+    :electorate: Te Atatū
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Moetu Davis
+    :last_name: Davis
+    :first_name: Moetu
+  :candidacy:
+    :votes: 1016
+    :percent: 11.14
+    :electorate: Te Atatū
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Jo van Kemp
+    :last_name: Kemp
+    :first_name: Jo van
+  :candidacy:
+    :votes: 897
+    :percent: 2.94
+    :electorate: Te Atatū
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Kath Dewar
+    :last_name: Dewar
+    :first_name: Kath
+  :candidacy:
+    :votes: 849
+    :percent: 2.79
+    :electorate: Te Atatū
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: Kelvin Martin
+    :last_name: Martin
+    :first_name: Kelvin
+  :candidacy:
+    :votes: 250
+    :percent: 0.82
+    :electorate: Te Atatū
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: New Zealand Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: Patriva Roy
+    :last_name: Roy
+    :first_name: Patriva
+  :candidacy:
+    :votes: 226
+    :percent: 0.74
+    :electorate: Te Atatū
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: Betty Jenkins
+    :last_name: Jenkins
+    :first_name: Betty
+  :candidacy:
+    :votes: 205
+    :percent: 0.67
+    :electorate: Te Atatū
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Bob van Ruyssevelt
+    :last_name: Ruyssevelt
+    :first_name: Bob van
+  :candidacy:
+    :votes: 104
+    :percent: 0.34
+    :electorate: Te Atatū
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Adele Hughes
+    :last_name: Hughes
+    :first_name: Adele
+  :candidacy:
+    :votes: 86
+    :percent: 0.28
+    :electorate: Te Atatū
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#65FFF0"
+    :name: New Zealand Family Rights Protection Party
+    :short_name: Family Rights
+  :candidate:
+    :name: Stella Te Paeru Brown-Knowles
+    :last_name: Brown-Knowles
+    :first_name: Stella Te Paeru
+  :candidacy:
+    :votes: 77
+    :percent: 0.25
+    :electorate: Te Atatū
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#F28317"
+    :name: Direct Democracy Party of New Zealand
+    :short_name: Direct Democracy
+  :candidate:
+    :name: Gregory Trichon
+    :last_name: Trichon
+    :first_name: Gregory
+  :candidacy:
+    :votes: 56
+    :percent: 0.18
+    :electorate: Te Atatū
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 379
+    :percent: 1.03
+    :electorate: Te Atatū
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Destiny New Zealand
+    :short_name: Destiny
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 107
+    :percent: 0.29
+    :electorate: Te Atatū
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 52
+    :percent: 0.17
+    :electorate: Te Atatū
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 6
+    :percent: 0.02
+    :electorate: Te Atatū
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#84C6C6"
+    :name: The Republic of New Zealand Party
+    :short_name: RONZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 6
+    :percent: 0.02
+    :electorate: Te Atatū
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 5
+    :percent: 0.02
+    :electorate: Te Atatū
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: 99 MP Party
+    :short_name: 99 MP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 4
+    :percent: 0.01
+    :electorate: Te Atatū
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 4
+    :percent: 0.01
+    :electorate: Te Atatū
+    :year: '2005'
+    :election_type: general

@@ -1,0 +1,281 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Martin Gallagher
+    :last_name: Gallagher
+    :first_name: Martin
+  :candidacy:
+    :votes: 15396
+    :percent: 45.92
+    :electorate: Hamilton West
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Tim Macindoe
+    :last_name: Macindoe
+    :first_name: Tim
+  :candidacy:
+    :votes: 14571
+    :percent: 43.46
+    :electorate: Hamilton West
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Bill Gudgeon
+    :last_name: Gudgeon
+    :first_name: Bill
+  :candidacy:
+    :votes: 1847
+    :percent: 5.51
+    :electorate: Hamilton West
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Robyn Jackson
+    :last_name: Jackson
+    :first_name: Robyn
+  :candidacy:
+    :votes: 521
+    :percent: 1.55
+    :electorate: Hamilton West
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: Tureiti Moxon
+    :last_name: Moxon
+    :first_name: Tureiti
+  :candidacy:
+    :votes: 379
+    :percent: 1.13
+    :electorate: Hamilton West
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Stephen Cox
+    :last_name: Cox
+    :first_name: Stephen
+  :candidacy:
+    :votes: 342
+    :percent: 1.02
+    :electorate: Hamilton West
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: New Zealand Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: Sukhdev Bains
+    :last_name: Bains
+    :first_name: Sukhdev
+  :candidacy:
+    :votes: 215
+    :percent: 0.64
+    :electorate: Hamilton West
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Suresh Vatsyayann
+    :last_name: Vatsyayann
+    :first_name: Suresh
+  :candidacy:
+    :votes: 165
+    :percent: 0.49
+    :electorate: Hamilton West
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: Timothy Wikiriwhi
+    :last_name: Wikiriwhi
+    :first_name: Timothy
+  :candidacy:
+    :votes: 50
+    :percent: 0.15
+    :electorate: Hamilton West
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#84C6C6"
+    :name: The Republic of New Zealand Party
+    :short_name: RONZ
+  :candidate:
+    :name: Jack Gielen
+    :last_name: Gielen
+    :first_name: Jack
+  :candidacy:
+    :votes: 43
+    :percent: 0.13
+    :electorate: Hamilton West
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1313
+    :percent: 3.85
+    :electorate: Hamilton West
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Destiny New Zealand
+    :short_name: Destiny
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 159
+    :percent: 0.47
+    :electorate: Hamilton West
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 89
+    :percent: 0.26
+    :electorate: Hamilton West
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage Party of New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 56
+    :percent: 0.16
+    :electorate: Hamilton West
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 24
+    :percent: 0.07
+    :electorate: Hamilton West
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#65FFF0"
+    :name: New Zealand Family Rights Protection Party
+    :short_name: Family Rights
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 14
+    :percent: 0.04
+    :electorate: Hamilton West
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#F28317"
+    :name: Direct Democracy Party of New Zealand
+    :short_name: Direct Democracy
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 11
+    :percent: 0.03
+    :electorate: Hamilton West
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 10
+    :percent: 0.03
+    :electorate: Hamilton West
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 7
+    :percent: 0.02
+    :electorate: Hamilton West
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: 99 MP Party
+    :short_name: 99 MP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 6
+    :percent: 0.02
+    :electorate: Hamilton West
+    :year: '2005'
+    :election_type: general

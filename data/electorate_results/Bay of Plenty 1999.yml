@@ -1,0 +1,295 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Tony Ryall
+    :last_name: Ryall
+    :first_name: Tony
+  :candidacy:
+    :votes: 15781
+    :percent: 46.0
+    :electorate: Bay of Plenty
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Terry Hughes
+    :last_name: Hughes
+    :first_name: Terry
+  :candidacy:
+    :votes: 8679
+    :percent: 25.3
+    :electorate: Bay of Plenty
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Peter Brown
+    :last_name: Brown
+    :first_name: Peter
+  :candidacy:
+    :votes: 4185
+    :percent: 12.2
+    :electorate: Bay of Plenty
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Margaret Collins
+    :last_name: Collins
+    :first_name: Margaret
+  :candidacy:
+    :votes: 1815
+    :percent: 5.29
+    :electorate: Bay of Plenty
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: John Neill
+    :last_name: Neill
+    :first_name: John
+  :candidacy:
+    :votes: 1338
+    :percent: 3.9
+    :electorate: Bay of Plenty
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: Future New Zealand
+    :short_name: Future NZ
+  :candidate:
+    :name: Judy Turner
+    :last_name: Turner
+    :first_name: Judy
+  :candidacy:
+    :votes: 1161
+    :percent: 3.38
+    :electorate: Bay of Plenty
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage Party of New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: Joyce Stevens
+    :last_name: Stevens
+    :first_name: Joyce
+  :candidacy:
+    :votes: 659
+    :percent: 1.92
+    :electorate: Bay of Plenty
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Lynne Cook
+    :last_name: Cook
+    :first_name: Lynne
+  :candidacy:
+    :votes: 520
+    :percent: 1.52
+    :electorate: Bay of Plenty
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#CC9966"
+    :name: Te Tawharau
+    :short_name: Te Tawharau
+  :candidate:
+    :name: Willie Coates
+    :last_name: Coates
+    :first_name: Willie
+  :candidacy:
+    :votes: 100
+    :percent: 0.29
+    :electorate: Bay of Plenty
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#333366"
+    :name: Natural Law Party of New Zealand
+    :short_name: Natural Law
+  :candidate:
+    :name: Meike van Batenburg
+    :last_name: Batenburg
+    :first_name: Meike van
+  :candidacy:
+    :votes: 70
+    :percent: 0.2
+    :electorate: Bay of Plenty
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 255
+    :percent: 0.74
+    :electorate: Bay of Plenty
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#663377"
+    :name: United New Zealand
+    :short_name: United NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 181
+    :percent: 0.52
+    :electorate: Bay of Plenty
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 139
+    :percent: 0.4
+    :electorate: Bay of Plenty
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 72
+    :percent: 0.21
+    :electorate: Bay of Plenty
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 57
+    :percent: 0.17
+    :electorate: Bay of Plenty
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: McGillicuddy Serious Party
+    :short_name: McGillicuddy Serious
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 50
+    :percent: 0.14
+    :electorate: Bay of Plenty
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Animals First
+    :short_name: Animals First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 41
+    :percent: 0.12
+    :electorate: Bay of Plenty
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FFFFC0"
+    :name: NMP
+    :short_name: NMP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 8
+    :percent: 0.02
+    :electorate: Bay of Plenty
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#003153"
+    :name: Mauri Pacific
+    :short_name: Mauri Pacific
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 5
+    :percent: 0.01
+    :electorate: Bay of Plenty
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#009900"
+    :name: NZ South Island Party
+    :short_name: South Island
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 4
+    :percent: 0.01
+    :electorate: Bay of Plenty
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Republican Party (1995)
+    :short_name: Republican
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 3
+    :percent: 0.01
+    :electorate: Bay of Plenty
+    :year: '1999'
+    :election_type: general

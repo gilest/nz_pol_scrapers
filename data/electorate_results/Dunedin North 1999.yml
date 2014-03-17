@@ -1,0 +1,169 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Pete Hodgson
+    :last_name: Hodgson
+    :first_name: Pete
+  :candidacy:
+    :votes: 18856
+    :percent: 60.38
+    :electorate: Dunedin North
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Katherine Rich
+    :last_name: Rich
+    :first_name: Katherine
+  :candidacy:
+    :votes: 6161
+    :percent: 19.73
+    :electorate: Dunedin North
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Quentin Findlay
+    :last_name: Findlay
+    :first_name: Quentin
+  :candidacy:
+    :votes: 1968
+    :percent: 6.3
+    :electorate: Dunedin North
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Michael Tritt
+    :last_name: Tritt
+    :first_name: Michael
+  :candidacy:
+    :votes: 1318
+    :percent: 4.22
+    :electorate: Dunedin North
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Hilary Calvert
+    :last_name: Calvert
+    :first_name: Hilary
+  :candidacy:
+    :votes: 915
+    :percent: 2.93
+    :electorate: Dunedin North
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: Paul John McMullan
+    :last_name: McMullan
+    :first_name: Paul John
+  :candidacy:
+    :votes: 599
+    :percent: 1.92
+    :electorate: Dunedin North
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: David Harris
+    :last_name: Harris
+    :first_name: David
+  :candidacy:
+    :votes: 589
+    :percent: 1.89
+    :electorate: Dunedin North
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#009900"
+    :name: NZ South Island Party
+    :short_name: South Island
+  :candidate:
+    :name: Alan McDonald
+    :last_name: McDonald
+    :first_name: Alan
+  :candidacy:
+    :votes: 404
+    :percent: 1.29
+    :electorate: Dunedin North
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Donna Waipouri-Baxter
+    :last_name: Waipouri-Baxter
+    :first_name: Donna
+  :candidacy:
+    :votes: 224
+    :percent: 0.72
+    :electorate: Dunedin North
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: McGillicuddy Serious Party
+    :short_name: McGillicuddy Serious
+  :candidate:
+    :name: Bernard Smith
+    :last_name: Smith
+    :first_name: Bernard
+  :candidacy:
+    :votes: 152
+    :percent: 0.49
+    :electorate: Dunedin North
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FFFFC0"
+    :name: NMP
+    :short_name: NMP
+  :candidate:
+    :name: Patrick Byrne
+    :last_name: Byrne
+    :first_name: Patrick
+  :candidacy:
+    :votes: 41
+    :percent: 0.13
+    :electorate: Dunedin North
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#663377"
+    :name: United New Zealand
+    :short_name: United NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 151
+    :percent: 0.48
+    :electorate: Dunedin North
+    :year: '1999'
+    :election_type: general

@@ -1,0 +1,295 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Phil Heatley
+    :last_name: Heatley
+    :first_name: Phil
+  :candidacy:
+    :votes: 23056
+    :percent: 64.16
+    :electorate: Whangarei
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Paul Chalmers
+    :last_name: Chalmers
+    :first_name: Paul
+  :candidacy:
+    :votes: 8393
+    :percent: 23.36
+    :electorate: Whangarei
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Paul Doherty
+    :last_name: Doherty
+    :first_name: Paul
+  :candidacy:
+    :votes: 2731
+    :percent: 7.6
+    :electorate: Whangarei
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: New Zealand Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: Viv Shepherd
+    :last_name: Shepherd
+    :first_name: Viv
+  :candidacy:
+    :votes: 636
+    :percent: 1.77
+    :electorate: Whangarei
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Thomas John McClelland
+    :last_name: McClelland
+    :first_name: Thomas John
+  :candidacy:
+    :votes: 304
+    :percent: 0.85
+    :electorate: Whangarei
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#467CFA"
+    :name: Residents Action Movement
+    :short_name: RAM
+  :candidate:
+    :name: Martin Kaipo
+    :last_name: Kaipo
+    :first_name: Martin
+  :candidacy:
+    :votes: 281
+    :percent: 0.78
+    :electorate: Whangarei
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: Edgar Kenneth Goodhue
+    :last_name: Goodhue
+    :first_name: Edgar Kenneth
+  :candidacy:
+    :votes: 179
+    :percent: 0.5
+    :electorate: Whangarei
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Simon Vallings
+    :last_name: Vallings
+    :first_name: Simon
+  :candidacy:
+    :votes: 113
+    :percent: 0.31
+    :electorate: Whangarei
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Maureen Gunston
+    :last_name: Gunston
+    :first_name: Maureen
+  :candidacy:
+    :votes: 107
+    :percent: 0.3
+    :electorate: Whangarei
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Don Hedges
+    :last_name: Hedges
+    :first_name: Don
+  :candidacy:
+    :votes: 74
+    :percent: 0.21
+    :electorate: Whangarei
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: Helen Hughes
+    :last_name: Hughes
+    :first_name: Helen
+  :candidacy:
+    :votes: 61
+    :percent: 0.17
+    :electorate: Whangarei
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 2246
+    :percent: 6.16
+    :electorate: Whangarei
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 333
+    :percent: 0.91
+    :electorate: Whangarei
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#186E23"
+    :name: Bill and Ben Party
+    :short_name: Bill and Ben
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 231
+    :percent: 0.63
+    :electorate: Whangarei
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 169
+    :percent: 0.46
+    :electorate: Whangarei
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#363096"
+    :name: The Kiwi Party
+    :short_name: Kiwi
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 167
+    :percent: 0.46
+    :electorate: Whangarei
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FFEB33"
+    :name: The Family Party
+    :short_name: Family Party
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 128
+    :percent: 0.35
+    :electorate: Whangarei
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 17
+    :percent: 0.05
+    :electorate: Whangarei
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FF0066"
+    :name: Workers Party of New Zealand
+    :short_name: Workers Party
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 13
+    :percent: 0.04
+    :electorate: Whangarei
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#531E8A"
+    :name: New Zealand Pacific Party
+    :short_name: Pacific
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 12
+    :percent: 0.03
+    :electorate: Whangarei
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#84C6C6"
+    :name: The Republic of New Zealand Party
+    :short_name: RONZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 3
+    :percent: 0.01
+    :electorate: Whangarei
+    :year: '2008'
+    :election_type: general

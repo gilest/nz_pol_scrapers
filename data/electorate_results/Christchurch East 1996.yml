@@ -1,0 +1,197 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Larry Sutherland
+    :last_name: Sutherland
+    :first_name: Larry
+  :candidacy:
+    :votes: 11174
+    :percent: 35.17
+    :electorate: Christchurch East
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Sue McKenzie
+    :last_name: McKenzie
+    :first_name: Sue
+  :candidacy:
+    :votes: 8216
+    :percent: 25.86
+    :electorate: Christchurch East
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Marie Venning
+    :last_name: Venning
+    :first_name: Marie
+  :candidacy:
+    :votes: 7305
+    :percent: 22.99
+    :electorate: Christchurch East
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Lem Pearse
+    :last_name: Pearse
+    :first_name: Lem
+  :candidacy:
+    :votes: 2970
+    :percent: 9.35
+    :electorate: Christchurch East
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: Tim Shadbolt
+    :last_name: Shadbolt
+    :first_name: Tim
+  :candidacy:
+    :votes: 1368
+    :percent: 4.31
+    :electorate: Christchurch East
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Jeffrey Buchanan
+    :last_name: Buchanan
+    :first_name: Jeffrey
+  :candidacy:
+    :votes: 569
+    :percent: 1.79
+    :electorate: Christchurch East
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: McGillicuddy Serious Party
+    :short_name: McGillicuddy Serious
+  :candidate:
+    :name: Phil Clayton
+    :last_name: Clayton
+    :first_name: Phil
+  :candidacy:
+    :votes: 105
+    :percent: 0.33
+    :electorate: Christchurch East
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#333366"
+    :name: Natural Law Party of New Zealand
+    :short_name: Natural Law
+  :candidate:
+    :name: Sean O'Connor
+    :last_name: O'Connor
+    :first_name: Sean
+  :candidacy:
+    :votes: 61
+    :percent: 0.19
+    :electorate: Christchurch East
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Coalition
+    :short_name: Christian Coalition
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1494
+    :percent: 4.66
+    :electorate: Christchurch East
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#663377"
+    :name: United New Zealand
+    :short_name: United NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 128
+    :percent: 0.4
+    :electorate: Christchurch East
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Animals First
+    :short_name: Animals First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 59
+    :percent: 0.18
+    :electorate: Christchurch East
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#339999"
+    :name: Progressive Green Party
+    :short_name: Progressive Greens
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 48
+    :percent: 0.15
+    :electorate: Christchurch East
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 4
+    :percent: 0.01
+    :electorate: Christchurch East
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 3
+    :percent: 0.01
+    :electorate: Christchurch East
+    :year: '1996'
+    :election_type: general

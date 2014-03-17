@@ -1,0 +1,281 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Murray McCully
+    :last_name: McCully
+    :first_name: Murray
+  :candidacy:
+    :votes: 17213
+    :percent: 47.02
+    :electorate: East Coast Bays
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Hamish McCracken
+    :last_name: McCracken
+    :first_name: Hamish
+  :candidacy:
+    :votes: 9927
+    :percent: 27.12
+    :electorate: East Coast Bays
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Paul Adams
+    :last_name: Adams
+    :first_name: Paul
+  :candidacy:
+    :votes: 5809
+    :percent: 15.87
+    :electorate: East Coast Bays
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Jeanette Elley
+    :last_name: Elley
+    :first_name: Jeanette
+  :candidacy:
+    :votes: 1287
+    :percent: 3.52
+    :electorate: East Coast Bays
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Anne Martin
+    :last_name: Martin
+    :first_name: Anne
+  :candidacy:
+    :votes: 942
+    :percent: 2.57
+    :electorate: East Coast Bays
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Andrew Stone
+    :last_name: Stone
+    :first_name: Andrew
+  :candidacy:
+    :votes: 537
+    :percent: 1.47
+    :electorate: East Coast Bays
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Steven Dromgool
+    :last_name: Dromgool
+    :first_name: Steven
+  :candidacy:
+    :votes: 405
+    :percent: 1.11
+    :electorate: East Coast Bays
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: New Zealand Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: Fiona Beazley
+    :last_name: Beazley
+    :first_name: Fiona
+  :candidacy:
+    :votes: 253
+    :percent: 0.69
+    :electorate: East Coast Bays
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: Rahuia Kapa
+    :last_name: Kapa
+    :first_name: Rahuia
+  :candidacy:
+    :votes: 119
+    :percent: 0.33
+    :electorate: East Coast Bays
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: Patrick Fahey
+    :last_name: Fahey
+    :first_name: Patrick
+  :candidacy:
+    :votes: 73
+    :percent: 0.2
+    :electorate: East Coast Bays
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Destiny New Zealand
+    :short_name: Destiny
+  :candidate:
+    :name: John Steemson
+    :last_name: Steemson
+    :first_name: John
+  :candidacy:
+    :votes: 39
+    :percent: 0.11
+    :electorate: East Coast Bays
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 74
+    :percent: 0.2
+    :electorate: East Coast Bays
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 44
+    :percent: 0.12
+    :electorate: East Coast Bays
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#F28317"
+    :name: Direct Democracy Party of New Zealand
+    :short_name: Direct Democracy
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 28
+    :percent: 0.08
+    :electorate: East Coast Bays
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 15
+    :percent: 0.04
+    :electorate: East Coast Bays
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 14
+    :percent: 0.04
+    :electorate: East Coast Bays
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#84C6C6"
+    :name: The Republic of New Zealand Party
+    :short_name: RONZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 7
+    :percent: 0.02
+    :electorate: East Coast Bays
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: 99 MP Party
+    :short_name: 99 MP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 6
+    :percent: 0.02
+    :electorate: East Coast Bays
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#65FFF0"
+    :name: New Zealand Family Rights Protection Party
+    :short_name: Family Rights
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 6
+    :percent: 0.02
+    :electorate: East Coast Bays
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 5
+    :percent: 0.01
+    :electorate: East Coast Bays
+    :year: '2005'
+    :election_type: general

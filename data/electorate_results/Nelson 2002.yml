@@ -1,0 +1,211 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Nick Smith
+    :last_name: Smith
+    :first_name: Nick
+  :candidacy:
+    :votes: 15779
+    :percent: 47.27
+    :electorate: Nelson
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: John Kennedy
+    :last_name: Kennedy
+    :first_name: John
+  :candidacy:
+    :votes: 11547
+    :percent: 34.59
+    :electorate: Nelson
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Mike Ward
+    :last_name: Ward
+    :first_name: Mike
+  :candidacy:
+    :votes: 4084
+    :percent: 12.23
+    :electorate: Nelson
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Dennis Wells
+    :last_name: Wells
+    :first_name: Dennis
+  :candidacy:
+    :votes: 762
+    :percent: 2.28
+    :electorate: Nelson
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage Party of New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: Nick Barber
+    :last_name: Barber
+    :first_name: Nick
+  :candidacy:
+    :votes: 635
+    :percent: 1.9
+    :electorate: Nelson
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Mary O'Connor
+    :last_name: O'Connor
+    :first_name: Mary
+  :candidacy:
+    :votes: 364
+    :percent: 1.09
+    :electorate: Nelson
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: New Zealand Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: Adrian Bayly
+    :last_name: Bayly
+    :first_name: Adrian
+  :candidacy:
+    :votes: 211
+    :percent: 0.63
+    :electorate: Nelson
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 2147
+    :percent: 6.37
+    :electorate: Nelson
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#666666"
+    :name: Outdoor Recreation New Zealand
+    :short_name: ORNZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1602
+    :percent: 4.75
+    :electorate: Nelson
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1346
+    :percent: 3.99
+    :electorate: Nelson
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 193
+    :percent: 0.57
+    :electorate: Nelson
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 30
+    :percent: 0.09
+    :electorate: Nelson
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#FFFFC0"
+    :name: NMP
+    :short_name: NMP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 5
+    :percent: 0.01
+    :electorate: Nelson
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#84C6C6"
+    :name: The Republic of New Zealand Party
+    :short_name: RONZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 4
+    :percent: 0.01
+    :electorate: Nelson
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 3
+    :percent: 0.01
+    :electorate: Nelson
+    :year: '2002'
+    :election_type: general

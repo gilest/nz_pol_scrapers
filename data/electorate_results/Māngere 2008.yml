@@ -1,0 +1,281 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Su'a William Sio
+    :last_name: Sio
+    :first_name: Su'a William
+  :candidacy:
+    :votes: 12651
+    :percent: 52.4
+    :electorate: Māngere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#531E8A"
+    :name: New Zealand Pacific Party
+    :short_name: Pacific
+  :candidate:
+    :name: Taito Lemalu Phillip Field
+    :last_name: Field
+    :first_name: Taito Lemalu Phillip
+  :candidacy:
+    :votes: 5525
+    :percent: 22.89
+    :electorate: Māngere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Mita Harris
+    :last_name: Harris
+    :first_name: Mita
+  :candidacy:
+    :votes: 3368
+    :percent: 13.95
+    :electorate: Māngere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FFEB33"
+    :name: The Family Party
+    :short_name: Family Party
+  :candidate:
+    :name: Galumalemana Jerry Filipaina
+    :last_name: Filipaina
+    :first_name: Galumalemana Jerry
+  :candidacy:
+    :votes: 999
+    :percent: 4.14
+    :electorate: Māngere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Muamua Sofi Strickson-Pua
+    :last_name: Strickson-Pua
+    :first_name: Muamua Sofi
+  :candidacy:
+    :votes: 541
+    :percent: 2.24
+    :electorate: Māngere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future New Zealand
+    :short_name: United Future
+  :candidate:
+    :name: Pulotu Selio Solomon
+    :last_name: Solomon
+    :first_name: Pulotu Selio
+  :candidacy:
+    :votes: 443
+    :percent: 1.84
+    :electorate: Māngere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Michael Tabachnik
+    :last_name: Tabachnik
+    :first_name: Michael
+  :candidacy:
+    :votes: 247
+    :percent: 1.02
+    :electorate: Māngere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#467CFA"
+    :name: Residents Action Movement
+    :short_name: RAM
+  :candidate:
+    :name: Roger Fowler
+    :last_name: Fowler
+    :first_name: Roger
+  :candidacy:
+    :votes: 154
+    :percent: 0.64
+    :electorate: Māngere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: New Zealand Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: Tala Po'e
+    :last_name: Po'e
+    :first_name: Tala
+  :candidacy:
+    :votes: 150
+    :percent: 0.62
+    :electorate: Māngere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Lemalu Talia Matatumua
+    :last_name: Matatumua
+    :first_name: Lemalu Talia
+  :candidacy:
+    :votes: 63
+    :percent: 0.26
+    :electorate: Māngere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 830
+    :percent: 3.31
+    :electorate: Māngere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 241
+    :percent: 0.96
+    :electorate: Māngere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 96
+    :percent: 0.38
+    :electorate: Māngere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#186E23"
+    :name: Bill and Ben Party
+    :short_name: Bill and Ben
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 75
+    :percent: 0.3
+    :electorate: Māngere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#363096"
+    :name: The Kiwi Party
+    :short_name: Kiwi
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 65
+    :percent: 0.26
+    :electorate: Māngere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FF0066"
+    :name: Workers Party of New Zealand
+    :short_name: Workers Party
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 16
+    :percent: 0.06
+    :electorate: Māngere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 6
+    :percent: 0.02
+    :electorate: Māngere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 6
+    :percent: 0.02
+    :electorate: Māngere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 2
+    :percent: 0.01
+    :electorate: Māngere
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#84C6C6"
+    :name: The Republic of New Zealand Party
+    :short_name: RONZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1
+    :percent: 0.0
+    :electorate: Māngere
+    :year: '2008'
+    :election_type: general

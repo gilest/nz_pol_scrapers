@@ -1,0 +1,211 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Simon O'Connor
+    :last_name: O'Connor
+    :first_name: Simon
+  :candidacy:
+    :votes: 24837
+    :percent: 67.67
+    :electorate: Tāmaki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Nick Iusitini Bakulich
+    :last_name: Bakulich
+    :first_name: Nick Iusitini
+  :candidacy:
+    :votes: 7051
+    :percent: 19.21
+    :electorate: Tāmaki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Richard Leckinger
+    :last_name: Leckinger
+    :first_name: Richard
+  :candidacy:
+    :votes: 2861
+    :percent: 7.8
+    :electorate: Tāmaki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: John Boscawen
+    :last_name: Boscawen
+    :first_name: John
+  :candidacy:
+    :votes: 887
+    :percent: 2.39
+    :electorate: Tāmaki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: Litia Simpson
+    :last_name: Simpson
+    :first_name: Litia
+  :candidacy:
+    :votes: 567
+    :percent: 1.54
+    :electorate: Tāmaki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Wayne Young
+    :last_name: Young
+    :first_name: Wayne
+  :candidacy:
+    :votes: 358
+    :percent: 0.98
+    :electorate: Tāmaki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Stephan Berry
+    :last_name: Berry
+    :first_name: Stephan
+  :candidacy:
+    :votes: 152
+    :percent: 0.41
+    :electorate: Tāmaki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1421
+    :percent: 3.76
+    :electorate: Tāmaki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 193
+    :percent: 0.51
+    :electorate: Tāmaki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 156
+    :percent: 0.41
+    :electorate: Tāmaki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 107
+    :percent: 0.28
+    :electorate: Tāmaki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 102
+    :percent: 0.27
+    :electorate: Tāmaki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 30
+    :percent: 0.08
+    :electorate: Tāmaki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#333333"
+    :name: Alliance
+    :short_name: NPA/Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 6
+    :percent: 0.02
+    :electorate: Tāmaki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party for Social Credit
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 5
+    :percent: 0.01
+    :electorate: Tāmaki
+    :year: '2011'
+    :election_type: general

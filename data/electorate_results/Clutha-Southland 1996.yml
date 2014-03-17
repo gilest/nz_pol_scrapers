@@ -1,0 +1,197 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Bill English
+    :last_name: English
+    :first_name: Bill
+  :candidacy:
+    :votes: 14764
+    :percent: 47.09
+    :electorate: Clutha-Southland
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Lesley Soper
+    :last_name: Soper
+    :first_name: Lesley
+  :candidacy:
+    :votes: 5721
+    :percent: 18.25
+    :electorate: Clutha-Southland
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Alan Wise
+    :last_name: Wise
+    :first_name: Alan
+  :candidacy:
+    :votes: 5075
+    :percent: 16.19
+    :electorate: Clutha-Southland
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Tracey Hicks
+    :last_name: Hicks
+    :first_name: Tracey
+  :candidacy:
+    :votes: 2326
+    :percent: 7.42
+    :electorate: Clutha-Southland
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Peter Snow
+    :last_name: Snow
+    :first_name: Peter
+  :candidacy:
+    :votes: 2049
+    :percent: 6.54
+    :electorate: Clutha-Southland
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Coalition
+    :short_name: Christian Coalition
+  :candidate:
+    :name: Russell Zwies
+    :last_name: Zwies
+    :first_name: Russell
+  :candidacy:
+    :votes: 1060
+    :percent: 3.38
+    :electorate: Clutha-Southland
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: McGillicuddy Serious Party
+    :short_name: McGillicuddy Serious
+  :candidate:
+    :name: Robyn West
+    :last_name: West
+    :first_name: Robyn
+  :candidacy:
+    :votes: 306
+    :percent: 0.98
+    :electorate: Clutha-Southland
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#333366"
+    :name: Natural Law Party of New Zealand
+    :short_name: Natural Law
+  :candidate:
+    :name: Gilbert Urquhart
+    :last_name: Urquhart
+    :first_name: Gilbert
+  :candidacy:
+    :votes: 50
+    :percent: 0.16
+    :electorate: Clutha-Southland
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 390
+    :percent: 1.24
+    :electorate: Clutha-Southland
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#663377"
+    :name: United New Zealand
+    :short_name: United NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 181
+    :percent: 0.58
+    :electorate: Clutha-Southland
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Animals First
+    :short_name: Animals First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 37
+    :percent: 0.12
+    :electorate: Clutha-Southland
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#339999"
+    :name: Progressive Green Party
+    :short_name: Progressive Greens
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 33
+    :percent: 0.1
+    :electorate: Clutha-Southland
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 10
+    :percent: 0.03
+    :electorate: Clutha-Southland
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 2
+    :percent: 0.01
+    :electorate: Clutha-Southland
+    :year: '1996'
+    :election_type: general

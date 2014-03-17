@@ -1,0 +1,253 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Warren Kyd
+    :last_name: Kyd
+    :first_name: Warren
+  :candidacy:
+    :votes: 11953
+    :percent: 38.93
+    :electorate: Hunua
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#663377"
+    :name: United New Zealand
+    :short_name: United NZ
+  :candidate:
+    :name: John Robertson
+    :last_name: Robertson
+    :first_name: John
+  :candidacy:
+    :votes: 6855
+    :percent: 22.33
+    :electorate: Hunua
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Paul Schofield
+    :last_name: Schofield
+    :first_name: Paul
+  :candidacy:
+    :votes: 5049
+    :percent: 16.44
+    :electorate: Hunua
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Patra de Coudray
+    :last_name: Coudray
+    :first_name: Patra de
+  :candidacy:
+    :votes: 3267
+    :percent: 10.64
+    :electorate: Hunua
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Huia Mitchell
+    :last_name: Mitchell
+    :first_name: Huia
+  :candidacy:
+    :votes: 1682
+    :percent: 5.48
+    :electorate: Hunua
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Coalition
+    :short_name: Christian Coalition
+  :candidate:
+    :name: Enosa Auva'a
+    :last_name: Auva'a
+    :first_name: Enosa
+  :candidacy:
+    :votes: 1017
+    :percent: 3.31
+    :electorate: Hunua
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Simon Harding
+    :last_name: Harding
+    :first_name: Simon
+  :candidacy:
+    :votes: 739
+    :percent: 2.41
+    :electorate: Hunua
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#333366"
+    :name: Natural Law Party of New Zealand
+    :short_name: Natural Law
+  :candidate:
+    :name: Mike Dunn
+    :last_name: Dunn
+    :first_name: Mike
+  :candidacy:
+    :votes: 103
+    :percent: 0.34
+    :electorate: Hunua
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Republican Party (1995)
+    :short_name: Republican
+  :candidate:
+    :name: Sophie James
+    :last_name: James
+    :first_name: Sophie
+  :candidacy:
+    :votes: 40
+    :percent: 0.13
+    :electorate: Hunua
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 492
+    :percent: 1.6
+    :electorate: Hunua
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: McGillicuddy Serious Party
+    :short_name: McGillicuddy Serious
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 86
+    :percent: 0.28
+    :electorate: Hunua
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#339999"
+    :name: Progressive Green Party
+    :short_name: Progressive Greens
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 83
+    :percent: 0.27
+    :electorate: Hunua
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Animals First
+    :short_name: Animals First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 69
+    :percent: 0.22
+    :electorate: Hunua
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#74B249"
+    :name: Green Society
+    :short_name: Green Society
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 18
+    :percent: 0.06
+    :electorate: Hunua
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#787878"
+    :name: Superannuitants and Youth Action
+    :short_name: Superannuitants & Youth
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 15
+    :percent: 0.05
+    :electorate: Hunua
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 15
+    :percent: 0.05
+    :electorate: Hunua
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 6
+    :percent: 0.02
+    :electorate: Hunua
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#0D0DFC"
+    :name: New Zealand Conservative Party
+    :short_name: Conservatives
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 3
+    :percent: 0.01
+    :electorate: Hunua
+    :year: '1996'
+    :election_type: general

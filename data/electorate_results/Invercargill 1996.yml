@@ -1,0 +1,253 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Mark Peck
+    :last_name: Peck
+    :first_name: Mark
+  :candidacy:
+    :votes: 15383
+    :percent: 48.83
+    :electorate: Invercargill
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Eric Roy
+    :last_name: Roy
+    :first_name: Eric
+  :candidacy:
+    :votes: 11148
+    :percent: 35.39
+    :electorate: Invercargill
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Owen Horton
+    :last_name: Horton
+    :first_name: Owen
+  :candidacy:
+    :votes: 2302
+    :percent: 7.31
+    :electorate: Invercargill
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Bruce Stirling
+    :last_name: Stirling
+    :first_name: Bruce
+  :candidacy:
+    :votes: 1536
+    :percent: 4.88
+    :electorate: Invercargill
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Louis Crimp
+    :last_name: Crimp
+    :first_name: Louis
+  :candidacy:
+    :votes: 441
+    :percent: 1.4
+    :electorate: Invercargill
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Philip Jones
+    :last_name: Jones
+    :first_name: Philip
+  :candidacy:
+    :votes: 294
+    :percent: 0.93
+    :electorate: Invercargill
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: McGillicuddy Serious Party
+    :short_name: McGillicuddy Serious
+  :candidate:
+    :name: Anthony Hobbs
+    :last_name: Hobbs
+    :first_name: Anthony
+  :candidacy:
+    :votes: 200
+    :percent: 0.63
+    :electorate: Invercargill
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#663377"
+    :name: United New Zealand
+    :short_name: United NZ
+  :candidate:
+    :name: Stuart Jordan
+    :last_name: Jordan
+    :first_name: Stuart
+  :candidacy:
+    :votes: 111
+    :percent: 0.35
+    :electorate: Invercargill
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#333366"
+    :name: Natural Law Party of New Zealand
+    :short_name: Natural Law
+  :candidate:
+    :name: Jacque Hughes
+    :last_name: Hughes
+    :first_name: Jacque
+  :candidacy:
+    :votes: 87
+    :percent: 0.28
+    :electorate: Invercargill
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Coalition
+    :short_name: Christian Coalition
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1495
+    :percent: 4.73
+    :electorate: Invercargill
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 521
+    :percent: 1.65
+    :electorate: Invercargill
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#339999"
+    :name: Progressive Green Party
+    :short_name: Progressive Greens
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 60
+    :percent: 0.19
+    :electorate: Invercargill
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Animals First
+    :short_name: Animals First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 47
+    :percent: 0.15
+    :electorate: Invercargill
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#74B249"
+    :name: Green Society
+    :short_name: Green Society
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 26
+    :percent: 0.08
+    :electorate: Invercargill
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#0D0DFC"
+    :name: New Zealand Conservative Party
+    :short_name: Conservatives
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 14
+    :percent: 0.04
+    :electorate: Invercargill
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#787878"
+    :name: Superannuitants and Youth Action
+    :short_name: Superannuitants & Youth
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 11
+    :percent: 0.03
+    :electorate: Invercargill
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 8
+    :percent: 0.03
+    :electorate: Invercargill
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 4
+    :percent: 0.01
+    :electorate: Invercargill
+    :year: '1996'
+    :election_type: general

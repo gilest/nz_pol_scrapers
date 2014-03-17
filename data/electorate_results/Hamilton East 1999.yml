@@ -1,0 +1,281 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Tony Steel
+    :last_name: Steel
+    :first_name: Tony
+  :candidacy:
+    :votes: 14329
+    :percent: 44.06
+    :electorate: Hamilton East
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Dianne Yates
+    :last_name: Yates
+    :first_name: Dianne
+  :candidacy:
+    :votes: 13637
+    :percent: 41.93
+    :electorate: Hamilton East
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Peter Jamieson
+    :last_name: Jamieson
+    :first_name: Peter
+  :candidacy:
+    :votes: 1334
+    :percent: 4.1
+    :electorate: Hamilton East
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Doug Woolerton
+    :last_name: Woolerton
+    :first_name: Doug
+  :candidacy:
+    :votes: 1113
+    :percent: 3.42
+    :electorate: Hamilton East
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Gavin Denby
+    :last_name: Denby
+    :first_name: Gavin
+  :candidacy:
+    :votes: 734
+    :percent: 2.26
+    :electorate: Hamilton East
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage Party of New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: Madeleine Flannagan
+    :last_name: Flannagan
+    :first_name: Madeleine
+  :candidacy:
+    :votes: 732
+    :percent: 2.25
+    :electorate: Hamilton East
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: McGillicuddy Serious Party
+    :short_name: McGillicuddy Serious
+  :candidate:
+    :name: Leanee V. Ireland
+    :last_name: Ireland
+    :first_name: Leanee V.
+  :candidacy:
+    :votes: 370
+    :percent: 1.14
+    :electorate: Hamilton East
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#003153"
+    :name: Mauri Pacific
+    :short_name: Mauri Pacific
+  :candidate:
+    :name: Helen Akhtari
+    :last_name: Akhtari
+    :first_name: Helen
+  :candidacy:
+    :votes: 179
+    :percent: 0.55
+    :electorate: Hamilton East
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#333366"
+    :name: Natural Law Party of New Zealand
+    :short_name: Natural Law
+  :candidate:
+    :name: John Cleary
+    :last_name: Cleary
+    :first_name: John
+  :candidacy:
+    :votes: 96
+    :percent: 0.3
+    :electorate: Hamilton East
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1712
+    :percent: 5.22
+    :electorate: Hamilton East
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: Future New Zealand
+    :short_name: Future NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 446
+    :percent: 1.36
+    :electorate: Hamilton East
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 304
+    :percent: 0.93
+    :electorate: Hamilton East
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#663377"
+    :name: United New Zealand
+    :short_name: United NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 163
+    :percent: 0.5
+    :electorate: Hamilton East
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 100
+    :percent: 0.3
+    :electorate: Hamilton East
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Animals First
+    :short_name: Animals First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 50
+    :percent: 0.15
+    :electorate: Hamilton East
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 27
+    :percent: 0.08
+    :electorate: Hamilton East
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 13
+    :percent: 0.04
+    :electorate: Hamilton East
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FFFFC0"
+    :name: NMP
+    :short_name: NMP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 6
+    :percent: 0.02
+    :electorate: Hamilton East
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#009900"
+    :name: NZ South Island Party
+    :short_name: South Island
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 3
+    :percent: 0.01
+    :electorate: Hamilton East
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Republican Party (1995)
+    :short_name: Republican
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 2
+    :percent: 0.01
+    :electorate: Hamilton East
+    :year: '1999'
+    :election_type: general

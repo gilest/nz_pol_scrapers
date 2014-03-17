@@ -1,0 +1,183 @@
+---
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Peter Dunne
+    :last_name: Dunne
+    :first_name: Peter
+  :candidacy:
+    :votes: 14357
+    :percent: 38.58
+    :electorate: "Ōhariu"
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Charles Chauvel
+    :last_name: Chauvel
+    :first_name: Charles
+  :candidacy:
+    :votes: 12965
+    :percent: 34.84
+    :electorate: "Ōhariu"
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Katrina Shanks
+    :last_name: Shanks
+    :first_name: Katrina
+  :candidacy:
+    :votes: 6907
+    :percent: 18.56
+    :electorate: "Ōhariu"
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Gareth Hughes
+    :last_name: Hughes
+    :first_name: Gareth
+  :candidacy:
+    :votes: 2160
+    :percent: 5.8
+    :electorate: "Ōhariu"
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: Stephen Woodnutt
+    :last_name: Woodnutt
+    :first_name: Stephen
+  :candidacy:
+    :votes: 378
+    :percent: 1.02
+    :electorate: "Ōhariu"
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Hugh Barr
+    :last_name: Barr
+    :first_name: Hugh
+  :candidacy:
+    :votes: 339
+    :percent: 0.91
+    :electorate: "Ōhariu"
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: Sean Fitzpatrick
+    :last_name: Fitzpatrick
+    :first_name: Sean
+  :candidacy:
+    :votes: 109
+    :percent: 0.29
+    :electorate: "Ōhariu"
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 286
+    :percent: 0.76
+    :electorate: "Ōhariu"
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 201
+    :percent: 0.53
+    :electorate: "Ōhariu"
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 160
+    :percent: 0.42
+    :electorate: "Ōhariu"
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 73
+    :percent: 0.19
+    :electorate: "Ōhariu"
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 12
+    :percent: 0.03
+    :electorate: "Ōhariu"
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 10
+    :percent: 0.03
+    :electorate: "Ōhariu"
+    :year: '2011'
+    :election_type: general

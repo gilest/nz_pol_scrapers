@@ -1,0 +1,309 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Mark Gosche
+    :last_name: Gosche
+    :first_name: Mark
+  :candidacy:
+    :votes: 12469
+    :percent: 44.49
+    :electorate: Maungakiekie
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Belinda Vernon
+    :last_name: Vernon
+    :first_name: Belinda
+  :candidacy:
+    :votes: 9957
+    :percent: 35.53
+    :electorate: Maungakiekie
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Matt Robson
+    :last_name: Robson
+    :first_name: Matt
+  :candidacy:
+    :votes: 2096
+    :percent: 7.48
+    :electorate: Maungakiekie
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Jon Carapiet
+    :last_name: Carapiet
+    :first_name: Jon
+  :candidacy:
+    :votes: 964
+    :percent: 3.44
+    :electorate: Maungakiekie
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Angus Ogilvie
+    :last_name: Ogilvie
+    :first_name: Angus
+  :candidacy:
+    :votes: 774
+    :percent: 2.76
+    :electorate: Maungakiekie
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Gilbert Myles
+    :last_name: Myles
+    :first_name: Gilbert
+  :candidacy:
+    :votes: 734
+    :percent: 2.62
+    :electorate: Maungakiekie
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: Future New Zealand
+    :short_name: Future NZ
+  :candidate:
+    :name: Jason Keiller
+    :last_name: Keiller
+    :first_name: Jason
+  :candidacy:
+    :votes: 387
+    :percent: 1.38
+    :electorate: Maungakiekie
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage Party of New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: Mary Paki
+    :last_name: Paki
+    :first_name: Mary
+  :candidacy:
+    :votes: 313
+    :percent: 1.12
+    :electorate: Maungakiekie
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Sue Henry
+    :last_name: Henry
+    :first_name: Sue
+  :candidacy:
+    :votes: 152
+    :percent: 0.54
+    :electorate: Maungakiekie
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#333366"
+    :name: Natural Law Party of New Zealand
+    :short_name: Natural Law
+  :candidate:
+    :name: Graeme Lodge
+    :last_name: Lodge
+    :first_name: Graeme
+  :candidacy:
+    :votes: 73
+    :percent: 0.26
+    :electorate: Maungakiekie
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Tony Cranston
+    :last_name: Cranston
+    :first_name: Tony
+  :candidacy:
+    :votes: 67
+    :percent: 0.24
+    :electorate: Maungakiekie
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Republican Party (1995)
+    :short_name: Republican
+  :candidate:
+    :name: Brian Freeth
+    :last_name: Freeth
+    :first_name: Brian
+  :candidacy:
+    :votes: 40
+    :percent: 0.14
+    :electorate: Maungakiekie
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 178
+    :percent: 0.0
+    :electorate: Maungakiekie
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#663377"
+    :name: United New Zealand
+    :short_name: United NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 169
+    :percent: 0.59
+    :electorate: Maungakiekie
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 63
+    :percent: 0.0
+    :electorate: Maungakiekie
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#003153"
+    :name: Mauri Pacific
+    :short_name: Mauri Pacific
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 43
+    :percent: 0.0
+    :electorate: Maungakiekie
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Animals First
+    :short_name: Animals First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 39
+    :percent: 0.0
+    :electorate: Maungakiekie
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: McGillicuddy Serious Party
+    :short_name: McGillicuddy Serious
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 30
+    :percent: 0.0
+    :electorate: Maungakiekie
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FFFFC0"
+    :name: NMP
+    :short_name: NMP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 13
+    :percent: 0.0
+    :electorate: Maungakiekie
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 12
+    :percent: 0.0
+    :electorate: Maungakiekie
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 10
+    :percent: 0.0
+    :electorate: Maungakiekie
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#009900"
+    :name: NZ South Island Party
+    :short_name: South Island
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1
+    :percent: 0.0
+    :electorate: Maungakiekie
+    :year: '1999'
+    :election_type: general

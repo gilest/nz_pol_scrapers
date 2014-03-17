@@ -1,0 +1,309 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Judith Tizard
+    :last_name: Tizard
+    :first_name: Judith
+  :candidacy:
+    :votes: 12645
+    :percent: 38.74
+    :electorate: Auckland Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Martin Poulsen
+    :last_name: Poulsen
+    :first_name: Martin
+  :candidacy:
+    :votes: 7360
+    :percent: 22.55
+    :electorate: Auckland Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Sandra Lee-Vercoe
+    :last_name: Lee-Vercoe
+    :first_name: Sandra
+  :candidacy:
+    :votes: 6129
+    :percent: 18.78
+    :electorate: Auckland Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Nándor Tánczos
+    :last_name: Tánczos
+    :first_name: Nándor
+  :candidacy:
+    :votes: 3057
+    :percent: 9.37
+    :electorate: Auckland Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Donna Awatere Huata
+    :last_name: Huata
+    :first_name: Donna Awatere
+  :candidacy:
+    :votes: 2301
+    :percent: 7.05
+    :electorate: Auckland Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage Party of New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: Dick Holland
+    :last_name: Holland
+    :first_name: Dick
+  :candidacy:
+    :votes: 435
+    :percent: 1.33
+    :electorate: Auckland Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Dilip Rupa
+    :last_name: Rupa
+    :first_name: Dilip
+  :candidacy:
+    :votes: 380
+    :percent: 1.16
+    :electorate: Auckland Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FC6"
+    :name: Blokes Liberation Front
+    :short_name: Blokes Liberation Front
+  :candidate:
+    :name: Pieter de Jonge
+    :last_name: Jonge
+    :first_name: Pieter de
+  :candidacy:
+    :votes: 169
+    :percent: 0.52
+    :electorate: Auckland Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: Tame Iti
+    :last_name: Iti
+    :first_name: Tame
+  :candidacy:
+    :votes: 83
+    :percent: 0.25
+    :electorate: Auckland Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#009900"
+    :name: NZ South Island Party
+    :short_name: South Island
+  :candidate:
+    :name: Gerry Campbell
+    :last_name: Campbell
+    :first_name: Gerry
+  :candidacy:
+    :votes: 43
+    :percent: 0.13
+    :electorate: Auckland Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: red
+    :name: Communist League
+    :short_name: Communist League
+  :candidate:
+    :name: Terence Coggan
+    :last_name: Coggan
+    :first_name: Terence
+  :candidacy:
+    :votes: 38
+    :percent: 0.12
+    :electorate: Auckland Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 296
+    :percent: 0.9
+    :electorate: Auckland Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: Future New Zealand
+    :short_name: Future NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 150
+    :percent: 0.46
+    :electorate: Auckland Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#663377"
+    :name: United New Zealand
+    :short_name: United NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 130
+    :percent: 0.4
+    :electorate: Auckland Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 124
+    :percent: 0.38
+    :electorate: Auckland Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#003153"
+    :name: Mauri Pacific
+    :short_name: Mauri Pacific
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 108
+    :percent: 0.33
+    :electorate: Auckland Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Animals First
+    :short_name: Animals First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 58
+    :percent: 0.18
+    :electorate: Auckland Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: McGillicuddy Serious Party
+    :short_name: McGillicuddy Serious
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 52
+    :percent: 0.16
+    :electorate: Auckland Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#333366"
+    :name: Natural Law Party of New Zealand
+    :short_name: Natural Law
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 27
+    :percent: 0.08
+    :electorate: Auckland Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 17
+    :percent: 0.05
+    :electorate: Auckland Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FFFFC0"
+    :name: NMP
+    :short_name: NMP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 9
+    :percent: 0.03
+    :electorate: Auckland Central
+    :year: '1999'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Republican Party (1995)
+    :short_name: Republican
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1
+    :percent: 0.0
+    :electorate: Auckland Central
+    :year: '1999'
+    :election_type: general

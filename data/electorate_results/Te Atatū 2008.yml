@@ -1,0 +1,267 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Chris Carter
+    :last_name: Carter
+    :first_name: Chris
+  :candidacy:
+    :votes: 16459
+    :percent: 53.44
+    :electorate: Te Atatū
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Tau Henare
+    :last_name: Henare
+    :first_name: Tau
+  :candidacy:
+    :votes: 11161
+    :percent: 36.24
+    :electorate: Te Atatū
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Xavier Goldie
+    :last_name: Goldie
+    :first_name: Xavier
+  :candidacy:
+    :votes: 1003
+    :percent: 3.26
+    :electorate: Te Atatū
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Lech Beltowski
+    :last_name: Beltowski
+    :first_name: Lech
+  :candidacy:
+    :votes: 891
+    :percent: 2.89
+    :electorate: Te Atatū
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#531E8A"
+    :name: New Zealand Pacific Party
+    :short_name: Pacific
+  :candidate:
+    :name: Fiasili Jackueline Ah Tong
+    :last_name: Tong
+    :first_name: Fiasili Jackueline Ah
+  :candidacy:
+    :votes: 435
+    :percent: 1.41
+    :electorate: Te Atatū
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#363096"
+    :name: The Kiwi Party
+    :short_name: Kiwi
+  :candidate:
+    :name: Jo van Kempen
+    :last_name: Kempen
+    :first_name: Jo van
+  :candidacy:
+    :votes: 260
+    :percent: 0.84
+    :electorate: Te Atatū
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Talei Solomon-Mua
+    :last_name: Solomon-Mua
+    :first_name: Talei
+  :candidacy:
+    :votes: 250
+    :percent: 0.81
+    :electorate: Te Atatū
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: New Zealand Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: Pavitra Roy
+    :last_name: Roy
+    :first_name: Pavitra
+  :candidacy:
+    :votes: 244
+    :percent: 0.79
+    :electorate: Te Atatū
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Robert van Ruyssevelt
+    :last_name: Ruyssevelt
+    :first_name: Robert van
+  :candidacy:
+    :votes: 94
+    :percent: 0.31
+    :electorate: Te Atatū
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1328
+    :percent: 4.18
+    :electorate: Te Atatū
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 264
+    :percent: 0.83
+    :electorate: Te Atatū
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#186E23"
+    :name: Bill and Ben Party
+    :short_name: Bill and Ben
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 180
+    :percent: 0.57
+    :electorate: Te Atatū
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FFEB33"
+    :name: The Family Party
+    :short_name: Family Party
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 134
+    :percent: 0.42
+    :electorate: Te Atatū
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 111
+    :percent: 0.35
+    :electorate: Te Atatū
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FF0066"
+    :name: Workers Party of New Zealand
+    :short_name: Workers Party
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 12
+    :percent: 0.04
+    :electorate: Te Atatū
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 8
+    :percent: 0.03
+    :electorate: Te Atatū
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 8
+    :percent: 0.03
+    :electorate: Te Atatū
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#467CFA"
+    :name: Residents Action Movement
+    :short_name: RAM
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 6
+    :percent: 0.02
+    :electorate: Te Atatū
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#84C6C6"
+    :name: The Republic of New Zealand Party
+    :short_name: RONZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 4
+    :percent: 0.01
+    :electorate: Te Atatū
+    :year: '2008'
+    :election_type: general

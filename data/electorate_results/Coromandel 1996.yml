@@ -1,0 +1,239 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Murray McLean
+    :last_name: McLean
+    :first_name: Murray
+  :candidacy:
+    :votes: 12011
+    :percent: 33.64
+    :electorate: Coromandel
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Jeanette Fitzsimons
+    :last_name: Fitzsimons
+    :first_name: Jeanette
+  :candidacy:
+    :votes: 9561
+    :percent: 26.78
+    :electorate: Coromandel
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Robyn McDonald
+    :last_name: McDonald
+    :first_name: Robyn
+  :candidacy:
+    :votes: 7932
+    :percent: 22.22
+    :electorate: Coromandel
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Lesley Soper
+    :last_name: Soper
+    :first_name: Lesley
+  :candidacy:
+    :votes: 4255
+    :percent: 11.92
+    :electorate: Coromandel
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Thomas Howard
+    :last_name: Howard
+    :first_name: Thomas
+  :candidacy:
+    :votes: 833
+    :percent: 2.33
+    :electorate: Coromandel
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#663377"
+    :name: United New Zealand
+    :short_name: United NZ
+  :candidate:
+    :name: Gail McIntosh
+    :last_name: McIntosh
+    :first_name: Gail
+  :candidacy:
+    :votes: 433
+    :percent: 1.21
+    :electorate: Coromandel
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: McGillicuddy Serious Party
+    :short_name: McGillicuddy Serious
+  :candidate:
+    :name: Gary Young
+    :last_name: Young
+    :first_name: Gary
+  :candidacy:
+    :votes: 267
+    :percent: 0.75
+    :electorate: Coromandel
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#787878"
+    :name: Superannuitants and Youth Action
+    :short_name: Superannuitants & Youth
+  :candidate:
+    :name: Vern Byrne
+    :last_name: Byrne
+    :first_name: Vern
+  :candidacy:
+    :votes: 189
+    :percent: 0.53
+    :electorate: Coromandel
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#339999"
+    :name: Progressive Green Party
+    :short_name: Progressive Greens
+  :candidate:
+    :name: Ralph Dell
+    :last_name: Dell
+    :first_name: Ralph
+  :candidacy:
+    :votes: 145
+    :percent: 0.41
+    :electorate: Coromandel
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#333366"
+    :name: Natural Law Party of New Zealand
+    :short_name: Natural Law
+  :candidate:
+    :name: Mimousse Hodgson
+    :last_name: Hodgson
+    :first_name: Mimousse
+  :candidacy:
+    :votes: 76
+    :percent: 0.21
+    :electorate: Coromandel
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Coalition
+    :short_name: Christian Coalition
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1877
+    :percent: 5.22
+    :electorate: Coromandel
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 576
+    :percent: 1.6
+    :electorate: Coromandel
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Animals First
+    :short_name: Animals First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 48
+    :percent: 0.13
+    :electorate: Coromandel
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#74B249"
+    :name: Green Society
+    :short_name: Green Society
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 23
+    :percent: 0.06
+    :electorate: Coromandel
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 20
+    :percent: 0.06
+    :electorate: Coromandel
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#0D0DFC"
+    :name: New Zealand Conservative Party
+    :short_name: Conservatives
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 14
+    :percent: 0.04
+    :electorate: Coromandel
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 5
+    :percent: 0.01
+    :electorate: Coromandel
+    :year: '1996'
+    :election_type: general

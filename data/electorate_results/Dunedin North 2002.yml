@@ -1,0 +1,197 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Pete Hodgson
+    :last_name: Hodgson
+    :first_name: Pete
+  :candidacy:
+    :votes: 17573
+    :percent: 59.5
+    :electorate: Dunedin North
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Katherine Rich
+    :last_name: Rich
+    :first_name: Katherine
+  :candidacy:
+    :votes: 6936
+    :percent: 23.49
+    :electorate: Dunedin North
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Philippa Direen
+    :last_name: Direen
+    :first_name: Philippa
+  :candidacy:
+    :votes: 2028
+    :percent: 6.87
+    :electorate: Dunedin North
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future New Zealand
+    :short_name: United Future
+  :candidate:
+    :name: Todd Whitcombe
+    :last_name: Whitcombe
+    :first_name: Todd
+  :candidacy:
+    :votes: 697
+    :percent: 2.36
+    :electorate: Dunedin North
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: Paul John McMullan
+    :last_name: McMullan
+    :first_name: Paul John
+  :candidacy:
+    :votes: 606
+    :percent: 2.05
+    :electorate: Dunedin North
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Carolyn Payne-Harker
+    :last_name: Payne-Harker
+    :first_name: Carolyn
+  :candidacy:
+    :votes: 586
+    :percent: 1.98
+    :electorate: Dunedin North
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Willie Martin
+    :last_name: Martin
+    :first_name: Willie
+  :candidacy:
+    :votes: 520
+    :percent: 1.76
+    :electorate: Dunedin North
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: Jim Anderton's Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: Frede Jorgensen
+    :last_name: Jorgensen
+    :first_name: Frede
+  :candidacy:
+    :votes: 306
+    :percent: 1.04
+    :electorate: Dunedin North
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: Glenn Peoples
+    :last_name: Peoples
+    :first_name: Glenn
+  :candidacy:
+    :votes: 280
+    :percent: 0.95
+    :electorate: Dunedin North
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1333
+    :percent: 4.46
+    :electorate: Dunedin North
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#666666"
+    :name: Outdoor Recreation New Zealand
+    :short_name: ORNZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 253
+    :percent: 0.85
+    :electorate: Dunedin North
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 15
+    :percent: 0.05
+    :electorate: Dunedin North
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 9
+    :percent: 0.03
+    :electorate: Dunedin North
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#FFFFC0"
+    :name: NMP
+    :short_name: NMP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 6
+    :percent: 0.02
+    :electorate: Dunedin North
+    :year: '2002'
+    :election_type: general

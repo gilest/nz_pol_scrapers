@@ -1,0 +1,211 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Tony Ryall
+    :last_name: Ryall
+    :first_name: Tony
+  :candidacy:
+    :votes: 12975
+    :percent: 0.0
+    :electorate: Bay of Plenty
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Peter Brown
+    :last_name: Brown
+    :first_name: Peter
+  :candidacy:
+    :votes: 7378
+    :percent: 0.0
+    :electorate: Bay of Plenty
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Mei Matere Taare
+    :last_name: Taare
+    :first_name: Mei Matere
+  :candidacy:
+    :votes: 6494
+    :percent: 0.0
+    :electorate: Bay of Plenty
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: John Cassidy
+    :last_name: Cassidy
+    :first_name: John
+  :candidacy:
+    :votes: 1231
+    :percent: 0.0
+    :electorate: Bay of Plenty
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Te Ruruanga Te Keeti
+    :last_name: Keeti
+    :first_name: Te Ruruanga Te
+  :candidacy:
+    :votes: 1098
+    :percent: 0.0
+    :electorate: Bay of Plenty
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage Party of New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: Richard Holland
+    :last_name: Holland
+    :first_name: Richard
+  :candidacy:
+    :votes: 416
+    :percent: 0.0
+    :electorate: Bay of Plenty
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Graham Douglas Steenson
+    :last_name: Steenson
+    :first_name: Graham Douglas
+  :candidacy:
+    :votes: 371
+    :percent: 0.0
+    :electorate: Bay of Plenty
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: Jim Anderton's Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: John Neill
+    :last_name: Neill
+    :first_name: John
+  :candidacy:
+    :votes: 249
+    :percent: 0.0
+    :electorate: Bay of Plenty
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#666666"
+    :name: Outdoor Recreation New Zealand
+    :short_name: ORNZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 569
+    :percent: 0.0
+    :electorate: Bay of Plenty
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage Party of New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 350
+    :percent: 0.0
+    :electorate: Bay of Plenty
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 162
+    :percent: 0.0
+    :electorate: Bay of Plenty
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 122
+    :percent: 0.0
+    :electorate: Bay of Plenty
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 15
+    :percent: 0.0
+    :electorate: Bay of Plenty
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 13
+    :percent: 0.0
+    :electorate: Bay of Plenty
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#FFFFC0"
+    :name: NMP
+    :short_name: NMP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 3
+    :percent: 0.0
+    :electorate: Bay of Plenty
+    :year: '2002'
+    :election_type: general

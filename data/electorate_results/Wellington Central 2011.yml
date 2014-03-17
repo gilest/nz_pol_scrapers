@@ -1,0 +1,225 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Grant Robertson
+    :last_name: Robertson
+    :first_name: Grant
+  :candidacy:
+    :votes: 18836
+    :percent: 49.15
+    :electorate: Wellington Central
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Paul Foster-Bell
+    :last_name: Foster-Bell
+    :first_name: Paul
+  :candidacy:
+    :votes: 12460
+    :percent: 32.51
+    :electorate: Wellington Central
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: James Shaw
+    :last_name: Shaw
+    :first_name: James
+  :candidacy:
+    :votes: 5225
+    :percent: 13.63
+    :electorate: Wellington Central
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Stephen Whittington
+    :last_name: Whittington
+    :first_name: Stephen
+  :candidacy:
+    :votes: 412
+    :percent: 1.07
+    :electorate: Wellington Central
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: Michael Appleby
+    :last_name: Appleby
+    :first_name: Michael
+  :candidacy:
+    :votes: 404
+    :percent: 1.05
+    :electorate: Wellington Central
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Ben Craven
+    :last_name: Craven
+    :first_name: Ben
+  :candidacy:
+    :votes: 279
+    :percent: 0.73
+    :electorate: Wellington Central
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#7F27D6"
+    :name: Pirate Party of New Zealand
+    :short_name: Pirate
+  :candidate:
+    :name: Gynn Rickerby
+    :last_name: Rickerby
+    :first_name: Gynn
+  :candidacy:
+    :votes: 277
+    :percent: 0.72
+    :electorate: Wellington Central
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: Paul Stipkovits
+    :last_name: Stipkovits
+    :first_name: Paul
+  :candidacy:
+    :votes: 236
+    :percent: 0.62
+    :electorate: Wellington Central
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: Reagan Cutting
+    :last_name: Cutting
+    :first_name: Reagan
+  :candidacy:
+    :votes: 69
+    :percent: 0.18
+    :electorate: Wellington Central
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Kelly Buchanan
+    :last_name: Buchanan
+    :first_name: Kelly
+  :candidacy:
+    :votes: 52
+    :percent: 0.14
+    :electorate: Wellington Central
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#8DEAEB"
+    :name: New Economics Party
+    :short_name: New Economics
+  :candidate:
+    :name: Laurence Boomert
+    :last_name: Boomert
+    :first_name: Laurence
+  :candidacy:
+    :votes: 44
+    :percent: 0.11
+    :electorate: Wellington Central
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Puhi Karena
+    :last_name: Karena
+    :first_name: Puhi
+  :candidacy:
+    :votes: 32
+    :percent: 0.08
+    :electorate: Wellington Central
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 278
+    :percent: 0.71
+    :electorate: Wellington Central
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future New Zealand
+    :short_name: United Future
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 256
+    :percent: 0.65
+    :electorate: Wellington Central
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 250
+    :percent: 0.63
+    :electorate: Wellington Central
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party for Social Credit
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 15
+    :percent: 0.04
+    :electorate: Wellington Central
+    :year: '2011'
+    :election_type: general

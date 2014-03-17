@@ -1,0 +1,253 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Michael Cullen
+    :last_name: Cullen
+    :first_name: Michael
+  :candidacy:
+    :votes: 12829
+    :percent: 36.37
+    :electorate: Dunedin South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Leah McBey
+    :last_name: McBey
+    :first_name: Leah
+  :candidacy:
+    :votes: 8553
+    :percent: 24.25
+    :electorate: Dunedin South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Malcolm MacPherson
+    :last_name: MacPherson
+    :first_name: Malcolm
+  :candidacy:
+    :votes: 5859
+    :percent: 16.61
+    :electorate: Dunedin South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#663377"
+    :name: United New Zealand
+    :short_name: United NZ
+  :candidate:
+    :name: Clive Mathewson
+    :last_name: Mathewson
+    :first_name: Clive
+  :candidacy:
+    :votes: 5058
+    :percent: 14.34
+    :electorate: Dunedin South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Noeline McGlynn
+    :last_name: McGlynn
+    :first_name: Noeline
+  :candidacy:
+    :votes: 1782
+    :percent: 5.05
+    :electorate: Dunedin South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Roland Henderson
+    :last_name: Henderson
+    :first_name: Roland
+  :candidacy:
+    :votes: 505
+    :percent: 1.43
+    :electorate: Dunedin South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Alan William McDonald
+    :last_name: McDonald
+    :first_name: Alan William
+  :candidacy:
+    :votes: 410
+    :percent: 1.16
+    :electorate: Dunedin South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#339999"
+    :name: Progressive Green Party
+    :short_name: Progressive Greens
+  :candidate:
+    :name: David Beatty
+    :last_name: Beatty
+    :first_name: David
+  :candidacy:
+    :votes: 215
+    :percent: 0.61
+    :electorate: Dunedin South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#333366"
+    :name: Natural Law Party of New Zealand
+    :short_name: Natural Law
+  :candidate:
+    :name: Inga Schader
+    :last_name: Schader
+    :first_name: Inga
+  :candidacy:
+    :votes: 58
+    :percent: 0.16
+    :electorate: Dunedin South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Coalition
+    :short_name: Christian Coalition
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1150
+    :percent: 3.25
+    :electorate: Dunedin South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 668
+    :percent: 1.89
+    :electorate: Dunedin South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: McGillicuddy Serious Party
+    :short_name: McGillicuddy Serious
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 69
+    :percent: 0.19
+    :electorate: Dunedin South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Animals First
+    :short_name: Animals First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 60
+    :percent: 0.17
+    :electorate: Dunedin South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#74B249"
+    :name: Green Society
+    :short_name: Green Society
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 19
+    :percent: 0.05
+    :electorate: Dunedin South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#787878"
+    :name: Superannuitants and Youth Action
+    :short_name: Superannuitants & Youth
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 12
+    :percent: 0.03
+    :electorate: Dunedin South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 9
+    :percent: 0.03
+    :electorate: Dunedin South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#0D0DFC"
+    :name: New Zealand Conservative Party
+    :short_name: Conservatives
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 8
+    :percent: 0.02
+    :electorate: Dunedin South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 4
+    :percent: 0.01
+    :electorate: Dunedin South
+    :year: '1996'
+    :election_type: general

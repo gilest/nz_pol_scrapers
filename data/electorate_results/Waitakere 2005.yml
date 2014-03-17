@@ -1,0 +1,267 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Lynne Pillay
+    :last_name: Pillay
+    :first_name: Lynne
+  :candidacy:
+    :votes: 15325
+    :percent: 48.81
+    :electorate: Waitakere
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Paula Bennett
+    :last_name: Bennett
+    :first_name: Paula
+  :candidacy:
+    :votes: 10383
+    :percent: 33.07
+    :electorate: Waitakere
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: David Clendon
+    :last_name: Clendon
+    :first_name: David
+  :candidacy:
+    :votes: 1709
+    :percent: 5.44
+    :electorate: Waitakere
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Brendon Stewart
+    :last_name: Stewart
+    :first_name: Brendon
+  :candidacy:
+    :votes: 1354
+    :percent: 4.31
+    :electorate: Waitakere
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Hannah Baral
+    :last_name: Baral
+    :first_name: Hannah
+  :candidacy:
+    :votes: 1035
+    :percent: 3.3
+    :electorate: Waitakere
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: John Riddell
+    :last_name: Riddell
+    :first_name: John
+  :candidacy:
+    :votes: 416
+    :percent: 1.33
+    :electorate: Waitakere
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Destiny New Zealand
+    :short_name: Destiny
+  :candidate:
+    :name: Stan Green
+    :last_name: Green
+    :first_name: Stan
+  :candidacy:
+    :votes: 394
+    :percent: 1.25
+    :electorate: Waitakere
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: Jim Anderton's Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: David Parkyn
+    :last_name: Parkyn
+    :first_name: David
+  :candidacy:
+    :votes: 293
+    :percent: 0.93
+    :electorate: Waitakere
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: Charles Joe
+    :last_name: Joe
+    :first_name: Charles
+  :candidacy:
+    :votes: 272
+    :percent: 0.87
+    :electorate: Waitakere
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#F28317"
+    :name: Direct Democracy Party of New Zealand
+    :short_name: Direct Democracy
+  :candidate:
+    :name: Alona Covich
+    :last_name: Covich
+    :first_name: Alona
+  :candidacy:
+    :votes: 79
+    :percent: 0.25
+    :electorate: Waitakere
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#65FFF0"
+    :name: New Zealand Family Rights Protection Party
+    :short_name: Family Rights
+  :candidate:
+    :name: John Ulberg
+    :last_name: Ulberg
+    :first_name: John
+  :candidacy:
+    :votes: 74
+    :percent: 0.24
+    :electorate: Waitakere
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Sandra Ethell
+    :last_name: Ethell
+    :first_name: Sandra
+  :candidacy:
+    :votes: 62
+    :percent: 0.2
+    :electorate: Waitakere
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 87
+    :percent: 0.27
+    :electorate: Waitakere
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 58
+    :percent: 0.18
+    :electorate: Waitakere
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 8
+    :percent: 0.02
+    :electorate: Waitakere
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: 99 MP Party
+    :short_name: 99 MP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 7
+    :percent: 0.02
+    :electorate: Waitakere
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 6
+    :percent: 0.02
+    :electorate: Waitakere
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 5
+    :percent: 0.02
+    :electorate: Waitakere
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#84C6C6"
+    :name: The Republic of New Zealand Party
+    :short_name: RONZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 5
+    :percent: 0.02
+    :electorate: Waitakere
+    :year: '2005'
+    :election_type: general

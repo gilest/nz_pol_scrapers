@@ -1,0 +1,127 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Tim Barnett
+    :last_name: Barnett
+    :first_name: Tim
+  :candidacy:
+    :votes: 17190
+    :percent: 0.0
+    :electorate: Christchurch Central
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Nicky Wagner
+    :last_name: Wagner
+    :first_name: Nicky
+  :candidacy:
+    :votes: 6837
+    :percent: 0.0
+    :electorate: Christchurch Central
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Liz Gordon
+    :last_name: Gordon
+    :first_name: Liz
+  :candidacy:
+    :votes: 635
+    :percent: 0.0
+    :electorate: Christchurch Central
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#800000"
+    :name: Communist League
+    :short_name: Communist League
+  :candidate:
+    :name: Appu Baskaran
+    :last_name: Baskaran
+    :first_name: Appu
+  :candidacy:
+    :votes: 99
+    :percent: 0.0
+    :electorate: Christchurch Central
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 2106
+    :percent: 0.0
+    :electorate: Christchurch Central
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#666666"
+    :name: Outdoor Recreation New Zealand
+    :short_name: ORNZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 280
+    :percent: 0.0
+    :electorate: Christchurch Central
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 16
+    :percent: 0.0
+    :electorate: Christchurch Central
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 10
+    :percent: 0.0
+    :electorate: Christchurch Central
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#FFFFC0"
+    :name: NMP
+    :short_name: NMP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 3
+    :percent: 0.0
+    :electorate: Christchurch Central
+    :year: '2002'
+    :election_type: general

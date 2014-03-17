@@ -1,0 +1,309 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Nikki Kaye
+    :last_name: Kaye
+    :first_name: Nikki
+  :candidacy:
+    :votes: 14677
+    :percent: 42.91
+    :electorate: Auckland Central
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Judith Tizard
+    :last_name: Tizard
+    :first_name: Judith
+  :candidacy:
+    :votes: 13180
+    :percent: 38.53
+    :electorate: Auckland Central
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Denise Roche
+    :last_name: Roche
+    :first_name: Denise
+  :candidacy:
+    :votes: 4592
+    :percent: 13.43
+    :electorate: Auckland Central
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Scott Uren
+    :last_name: Uren
+    :first_name: Scott
+  :candidacy:
+    :votes: 581
+    :percent: 1.7
+    :electorate: Auckland Central
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: Kevin O'Connell
+    :last_name: O'Connell
+    :first_name: Kevin
+  :candidacy:
+    :votes: 349
+    :percent: 1.02
+    :electorate: Auckland Central
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: Jim Anderton's Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: Justin Robson
+    :last_name: Robson
+    :first_name: Justin
+  :candidacy:
+    :votes: 274
+    :percent: 0.8
+    :electorate: Auckland Central
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#467CFA"
+    :name: Residents Action Movement
+    :short_name: RAM
+  :candidate:
+    :name: Oliver Woods
+    :last_name: Woods
+    :first_name: Oliver
+  :candidacy:
+    :votes: 132
+    :percent: 0.39
+    :electorate: Auckland Central
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Aaron Galey-Young
+    :last_name: Galey-Young
+    :first_name: Aaron
+  :candidacy:
+    :votes: 128
+    :percent: 0.37
+    :electorate: Auckland Central
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Thomas Forde
+    :last_name: Forde
+    :first_name: Thomas
+  :candidacy:
+    :votes: 84
+    :percent: 0.25
+    :electorate: Auckland Central
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Stephen Greenfield
+    :last_name: Greenfield
+    :first_name: Stephen
+  :candidacy:
+    :votes: 68
+    :percent: 0.2
+    :electorate: Auckland Central
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#7F8E89"
+    :name: Human Rights Party
+    :short_name: Human Rights
+  :candidate:
+    :name: Anthony Ravlich
+    :last_name: Ravlich
+    :first_name: Anthony
+  :candidacy:
+    :votes: 67
+    :percent: 0.2
+    :electorate: Auckland Central
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Sarita Divis
+    :last_name: Divis
+    :first_name: Sarita
+  :candidacy:
+    :votes: 39
+    :percent: 0.11
+    :electorate: Auckland Central
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#84C6C6"
+    :name: The Republic of New Zealand Party
+    :short_name: RONZ
+  :candidate:
+    :name: Kerry Bevin
+    :last_name: Bevin
+    :first_name: Kerry
+  :candidacy:
+    :votes: 32
+    :percent: 0.09
+    :electorate: Auckland Central
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 806
+    :percent: 2.29
+    :electorate: Auckland Central
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 328
+    :percent: 0.93
+    :electorate: Auckland Central
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#186E23"
+    :name: Bill and Ben Party
+    :short_name: Bill and Ben
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 132
+    :percent: 0.37
+    :electorate: Auckland Central
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#531E8A"
+    :name: New Zealand Pacific Party
+    :short_name: Pacific
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 73
+    :percent: 0.21
+    :electorate: Auckland Central
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#363096"
+    :name: The Kiwi Party
+    :short_name: Kiwi
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 70
+    :percent: 0.2
+    :electorate: Auckland Central
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FFEB33"
+    :name: The Family Party
+    :short_name: Family Party
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 38
+    :percent: 0.11
+    :electorate: Auckland Central
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 27
+    :percent: 0.08
+    :electorate: Auckland Central
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FF0066"
+    :name: Workers Party of New Zealand
+    :short_name: Workers Party
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 12
+    :percent: 0.03
+    :electorate: Auckland Central
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 10
+    :percent: 0.03
+    :electorate: Auckland Central
+    :year: '2008'
+    :election_type: general

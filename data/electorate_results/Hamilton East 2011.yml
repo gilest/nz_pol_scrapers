@@ -1,0 +1,197 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: David Bennett
+    :last_name: Bennett
+    :first_name: David
+  :candidacy:
+    :votes: 18505
+    :percent: 57.11
+    :electorate: Hamilton East
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Sehai Orgad
+    :last_name: Orgad
+    :first_name: Sehai
+  :candidacy:
+    :votes: 10230
+    :percent: 31.57
+    :electorate: Hamilton East
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Nick Marryatt
+    :last_name: Marryatt
+    :first_name: Nick
+  :candidacy:
+    :votes: 1697
+    :percent: 5.24
+    :electorate: Hamilton East
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Gordon Stewart
+    :last_name: Stewart
+    :first_name: Gordon
+  :candidacy:
+    :votes: 797
+    :percent: 2.46
+    :electorate: Hamilton East
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: Robyn Jackson
+    :last_name: Jackson
+    :first_name: Robyn
+  :candidacy:
+    :votes: 752
+    :percent: 2.32
+    :electorate: Hamilton East
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Garry Mallett
+    :last_name: Mallett
+    :first_name: Garry
+  :candidacy:
+    :votes: 230
+    :percent: 0.71
+    :electorate: Hamilton East
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#7F27D6"
+    :name: Pirate Party of New Zealand
+    :short_name: Pirate
+  :candidate:
+    :name: Bruce Kingsbury
+    :last_name: Kingsbury
+    :first_name: Bruce
+  :candidacy:
+    :votes: 137
+    :percent: 0.42
+    :electorate: Hamilton East
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party for Social Credit
+    :short_name: Democrats
+  :candidate:
+    :name: Carolyn McKenzie
+    :last_name: McKenzie
+    :first_name: Carolyn
+  :candidacy:
+    :votes: 54
+    :percent: 0.17
+    :electorate: Hamilton East
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future New Zealand
+    :short_name: United Future
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 260
+    :percent: 0.78
+    :electorate: Hamilton East
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 195
+    :percent: 0.59
+    :electorate: Hamilton East
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 131
+    :percent: 0.39
+    :electorate: Hamilton East
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 89
+    :percent: 0.27
+    :electorate: Hamilton East
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 25
+    :percent: 0.08
+    :electorate: Hamilton East
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 8
+    :percent: 0.02
+    :electorate: Hamilton East
+    :year: '2011'
+    :election_type: general

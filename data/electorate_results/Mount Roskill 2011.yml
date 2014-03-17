@@ -1,0 +1,197 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Phil Goff
+    :last_name: Goff
+    :first_name: Phil
+  :candidacy:
+    :votes: 17906
+    :percent: 57.15
+    :electorate: Mount Roskill
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Jackie Blue
+    :last_name: Blue
+    :first_name: Jackie
+  :candidacy:
+    :votes: 10635
+    :percent: 33.94
+    :electorate: Mount Roskill
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Julie Anne Genter
+    :last_name: Genter
+    :first_name: Julie Anne
+  :candidacy:
+    :votes: 1258
+    :percent: 4.01
+    :electorate: Mount Roskill
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: Feleti Key
+    :last_name: Key
+    :first_name: Feleti
+  :candidacy:
+    :votes: 550
+    :percent: 1.76
+    :electorate: Mount Roskill
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Mahesh Bindra
+    :last_name: Bindra
+    :first_name: Mahesh
+  :candidacy:
+    :votes: 468
+    :percent: 1.49
+    :electorate: Mount Roskill
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Pratima Nand
+    :last_name: Nand
+    :first_name: Pratima
+  :candidacy:
+    :votes: 240
+    :percent: 0.77
+    :electorate: Mount Roskill
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: Jasmin Hewlett
+    :last_name: Hewlett
+    :first_name: Jasmin
+  :candidacy:
+    :votes: 167
+    :percent: 0.53
+    :electorate: Mount Roskill
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future New Zealand
+    :short_name: United Future
+  :candidate:
+    :name: Bryan Mockridge
+    :last_name: Mockridge
+    :first_name: Bryan
+  :candidacy:
+    :votes: 77
+    :percent: 0.25
+    :electorate: Mount Roskill
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#dd0048"
+    :name: Communist League
+    :short_name: Communist League
+  :candidate:
+    :name: Patrick Brown
+    :last_name: Brown
+    :first_name: Patrick
+  :candidacy:
+    :votes: 32
+    :percent: 0.1
+    :electorate: Mount Roskill
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 124
+    :percent: 0.38
+    :electorate: Mount Roskill
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 65
+    :percent: 0.2
+    :electorate: Mount Roskill
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party for Social Credit
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 11
+    :percent: 0.03
+    :electorate: Mount Roskill
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 11
+    :percent: 0.03
+    :electorate: Mount Roskill
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 10
+    :percent: 0.03
+    :electorate: Mount Roskill
+    :year: '2011'
+    :election_type: general

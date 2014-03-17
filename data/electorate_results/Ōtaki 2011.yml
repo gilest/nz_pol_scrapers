@@ -1,0 +1,197 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Nathan Guy
+    :last_name: Guy
+    :first_name: Nathan
+  :candidacy:
+    :votes: 19151
+    :percent: 51.57
+    :electorate: "Ōtaki"
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Peter Foster
+    :last_name: Foster
+    :first_name: Peter
+  :candidacy:
+    :votes: 13920
+    :percent: 37.48
+    :electorate: "Ōtaki"
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Michael Gilchrist
+    :last_name: Gilchrist
+    :first_name: Michael
+  :candidacy:
+    :votes: 1750
+    :percent: 4.71
+    :electorate: "Ōtaki"
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: David Scott
+    :last_name: Scott
+    :first_name: David
+  :candidacy:
+    :votes: 1122
+    :percent: 3.02
+    :electorate: "Ōtaki"
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: John Stephen Ryersson
+    :last_name: Ryersson
+    :first_name: John Stephen
+  :candidacy:
+    :votes: 644
+    :percent: 1.73
+    :electorate: "Ōtaki"
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: Fred MacDonald
+    :last_name: MacDonald
+    :first_name: Fred
+  :candidacy:
+    :votes: 253
+    :percent: 0.68
+    :electorate: "Ōtaki"
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Peter McCaffrey
+    :last_name: McCaffrey
+    :first_name: Peter
+  :candidacy:
+    :votes: 115
+    :percent: 0.31
+    :electorate: "Ōtaki"
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Diane Brown
+    :last_name: Brown
+    :first_name: Diane
+  :candidacy:
+    :votes: 110
+    :percent: 0.3
+    :electorate: "Ōtaki"
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Philip Dean Taueki
+    :last_name: Taueki
+    :first_name: Philip Dean
+  :candidacy:
+    :votes: 73
+    :percent: 0.2
+    :electorate: "Ōtaki"
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 210
+    :percent: 0.56
+    :electorate: "Ōtaki"
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 80
+    :percent: 0.21
+    :electorate: "Ōtaki"
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 19
+    :percent: 0.05
+    :electorate: "Ōtaki"
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 15
+    :percent: 0.04
+    :electorate: "Ōtaki"
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 11
+    :percent: 0.03
+    :electorate: "Ōtaki"
+    :year: '2011'
+    :election_type: general

@@ -1,0 +1,197 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Murray McCully
+    :last_name: McCully
+    :first_name: Murray
+  :candidacy:
+    :votes: 12134
+    :percent: 39.09
+    :electorate: East Coast Bays
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Hamish McCracken
+    :last_name: McCracken
+    :first_name: Hamish
+  :candidacy:
+    :votes: 10600
+    :percent: 34.15
+    :electorate: East Coast Bays
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Paul Adams
+    :last_name: Adams
+    :first_name: Paul
+  :candidacy:
+    :votes: 2872
+    :percent: 9.25
+    :electorate: East Coast Bays
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Julie Pepper
+    :last_name: Pepper
+    :first_name: Julie
+  :candidacy:
+    :votes: 1993
+    :percent: 6.42
+    :electorate: East Coast Bays
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Jeanette Elley
+    :last_name: Elley
+    :first_name: Jeanette
+  :candidacy:
+    :votes: 1688
+    :percent: 5.44
+    :electorate: East Coast Bays
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: Alan McCulloch
+    :last_name: McCulloch
+    :first_name: Alan
+  :candidacy:
+    :votes: 528
+    :percent: 1.7
+    :electorate: East Coast Bays
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: New Zealand Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: Jill Henry
+    :last_name: Henry
+    :first_name: Jill
+  :candidacy:
+    :votes: 508
+    :percent: 1.64
+    :electorate: East Coast Bays
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: Ian Cummings
+    :last_name: Cummings
+    :first_name: Ian
+  :candidacy:
+    :votes: 399
+    :percent: 1.29
+    :electorate: East Coast Bays
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Fiona McLaren
+    :last_name: McLaren
+    :first_name: Fiona
+  :candidacy:
+    :votes: 316
+    :percent: 1.02
+    :electorate: East Coast Bays
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 3163
+    :percent: 9.97
+    :electorate: East Coast Bays
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#666666"
+    :name: Outdoor Recreation New Zealand
+    :short_name: ORNZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 227
+    :percent: 0.72
+    :electorate: East Coast Bays
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 123
+    :percent: 0.39
+    :electorate: East Coast Bays
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#FFFFC0"
+    :name: NMP
+    :short_name: NMP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 6
+    :percent: 0.02
+    :electorate: East Coast Bays
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 4
+    :percent: 0.01
+    :electorate: East Coast Bays
+    :year: '2002'
+    :election_type: general

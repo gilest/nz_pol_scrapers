@@ -1,0 +1,225 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Judith Tizard
+    :last_name: Tizard
+    :first_name: Judith
+  :candidacy:
+    :votes: 13298
+    :percent: 43.33
+    :electorate: Auckland Central
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Pansy Wong
+    :last_name: Wong
+    :first_name: Pansy
+  :candidacy:
+    :votes: 8093
+    :percent: 26.37
+    :electorate: Auckland Central
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Nandor Tanczos
+    :last_name: Tanczos
+    :first_name: Nandor
+  :candidacy:
+    :votes: 6212
+    :percent: 20.24
+    :electorate: Auckland Central
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Lech Beltowski
+    :last_name: Beltowski
+    :first_name: Lech
+  :candidacy:
+    :votes: 1223
+    :percent: 3.98
+    :electorate: Auckland Central
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future New Zealand
+    :short_name: United Future
+  :candidate:
+    :name: Steve Taylor
+    :last_name: Taylor
+    :first_name: Steve
+  :candidacy:
+    :votes: 770
+    :percent: 2.51
+    :electorate: Auckland Central
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Mike Treen
+    :last_name: Treen
+    :first_name: Mike
+  :candidacy:
+    :votes: 365
+    :percent: 1.19
+    :electorate: Auckland Central
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: New Zealand Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: Vivienne Shepherd
+    :last_name: Shepherd
+    :first_name: Vivienne
+  :candidacy:
+    :votes: 333
+    :percent: 1.08
+    :electorate: Auckland Central
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: Sean Michael Reynolds
+    :last_name: Reynolds
+    :first_name: Sean Michael
+  :candidacy:
+    :votes: 235
+    :percent: 0.77
+    :electorate: Auckland Central
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Neil Head
+    :last_name: Head
+    :first_name: Neil
+  :candidacy:
+    :votes: 97
+    :percent: 0.32
+    :electorate: Auckland Central
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Anthony Van Den Heuvel
+    :last_name: Heuvel
+    :first_name: Anthony Van Den
+  :candidacy:
+    :votes: 66
+    :percent: 0.22
+    :electorate: Auckland Central
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1809
+    :percent: 5.73
+    :electorate: Auckland Central
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 164
+    :percent: 0.52
+    :electorate: Auckland Central
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#666666"
+    :name: Outdoor Recreation New Zealand
+    :short_name: ORNZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 137
+    :percent: 0.43
+    :electorate: Auckland Central
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 20
+    :percent: 0.06
+    :electorate: Auckland Central
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 15
+    :percent: 0.05
+    :electorate: Auckland Central
+    :year: '2002'
+    :election_type: general
+- :party:
+    :colour: "#FFFFC0"
+    :name: NMP
+    :short_name: NMP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 3
+    :percent: 0.01
+    :electorate: Auckland Central
+    :year: '2002'
+    :election_type: general

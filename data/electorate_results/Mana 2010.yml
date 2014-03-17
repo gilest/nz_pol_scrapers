@@ -1,0 +1,113 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Kris Faafoi
+    :last_name: Faafoi
+    :first_name: Kris
+  :candidacy:
+    :votes: 10980
+    :percent: 47.17
+    :electorate: Mana
+    :year: '2010'
+    :election_type: by-election
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Hekia Parata
+    :last_name: Parata
+    :first_name: Hekia
+  :candidacy:
+    :votes: 9574
+    :percent: 41.13
+    :electorate: Mana
+    :year: '2010'
+    :election_type: by-election
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Jan Logie
+    :last_name: Logie
+    :first_name: Jan
+  :candidacy:
+    :votes: 1543
+    :percent: 6.62
+    :electorate: Mana
+    :year: '2010'
+    :election_type: by-election
+- :party:
+    :colour: background-color:#E9E9E9
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Matt McCarten
+    :last_name: McCarten
+    :first_name: Matt
+  :candidacy:
+    :votes: 849
+    :percent: 3.65
+    :electorate: Mana
+    :year: '2010'
+    :election_type: by-election
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Colin du Plessis
+    :last_name: Plessis
+    :first_name: Colin du
+  :candidacy:
+    :votes: 136
+    :percent: 0.58
+    :electorate: Mana
+    :year: '2010'
+    :election_type: by-election
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: Julian Crawford
+    :last_name: Crawford
+    :first_name: Julian
+  :candidacy:
+    :votes: 112
+    :percent: 0.48
+    :electorate: Mana
+    :year: '2010'
+    :election_type: by-election
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: Sean Fitzpatrick
+    :last_name: Fitzpatrick
+    :first_name: Sean
+  :candidacy:
+    :votes: 46
+    :percent: 0.2
+    :electorate: Mana
+    :year: '2010'
+    :election_type: by-election
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Kelly Buchanan
+    :last_name: Buchanan
+    :first_name: Kelly
+  :candidacy:
+    :votes: 37
+    :percent: 0.16
+    :electorate: Mana
+    :year: '2010'
+    :election_type: by-election

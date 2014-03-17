@@ -1,0 +1,295 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Clare Curran
+    :last_name: Curran
+    :first_name: Clare
+  :candidacy:
+    :votes: 19199
+    :percent: 52.29
+    :electorate: Dunedin South
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Conway Powell
+    :last_name: Powell
+    :first_name: Conway
+  :candidacy:
+    :votes: 12750
+    :percent: 34.73
+    :electorate: Dunedin South
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Shane Gallagher
+    :last_name: Gallagher
+    :first_name: Shane
+  :candidacy:
+    :votes: 2511
+    :percent: 6.84
+    :electorate: Dunedin South
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Colin Nicholls
+    :last_name: Nicholls
+    :first_name: Colin
+  :candidacy:
+    :votes: 528
+    :percent: 1.44
+    :electorate: Dunedin South
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: New Zealand Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: J M McAlpine
+    :last_name: McAlpine
+    :first_name: J M
+  :candidacy:
+    :votes: 498
+    :percent: 1.36
+    :electorate: Dunedin South
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future New Zealand
+    :short_name: United Future
+  :candidate:
+    :name: Pauline Moffat
+    :last_name: Moffat
+    :first_name: Pauline
+  :candidacy:
+    :votes: 264
+    :percent: 0.72
+    :electorate: Dunedin South
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#363096"
+    :name: The Kiwi Party
+    :short_name: Kiwi
+  :candidate:
+    :name: Philip Wescombe
+    :last_name: Wescombe
+    :first_name: Philip
+  :candidacy:
+    :votes: 261
+    :percent: 0.71
+    :electorate: Dunedin South
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: David Bernhardt
+    :last_name: Bernhardt
+    :first_name: David
+  :candidacy:
+    :votes: 222
+    :percent: 0.6
+    :electorate: Dunedin South
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Kay Murray
+    :last_name: Murray
+    :first_name: Kay
+  :candidacy:
+    :votes: 199
+    :percent: 0.54
+    :electorate: Dunedin South
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: Dawn McIntosh
+    :last_name: McIntosh
+    :first_name: Dawn
+  :candidacy:
+    :votes: 172
+    :percent: 0.47
+    :electorate: Dunedin South
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#7F8E89"
+    :name: Restore All Things In Christ
+    :short_name: Restore All Things In Christ
+  :candidate:
+    :name: Robert Wansink
+    :last_name: Wansink
+    :first_name: Robert
+  :candidacy:
+    :votes: 113
+    :percent: 0.31
+    :electorate: Dunedin South
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1700
+    :percent: 4.56
+    :electorate: Dunedin South
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#186E23"
+    :name: Bill and Ben Party
+    :short_name: Bill and Ben
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 209
+    :percent: 0.56
+    :electorate: Dunedin South
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 160
+    :percent: 0.43
+    :electorate: Dunedin South
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 144
+    :percent: 0.39
+    :electorate: Dunedin South
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FFEB33"
+    :name: The Family Party
+    :short_name: Family Party
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 58
+    :percent: 0.16
+    :electorate: Dunedin South
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#531E8A"
+    :name: New Zealand Pacific Party
+    :short_name: Pacific
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 17
+    :percent: 0.05
+    :electorate: Dunedin South
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 15
+    :percent: 0.04
+    :electorate: Dunedin South
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#FF0066"
+    :name: Workers Party of New Zealand
+    :short_name: Workers Party
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 14
+    :percent: 0.04
+    :electorate: Dunedin South
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#84C6C6"
+    :name: The Republic of New Zealand Party
+    :short_name: RONZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 7
+    :percent: 0.02
+    :electorate: Dunedin South
+    :year: '2008'
+    :election_type: general
+- :party:
+    :colour: "#467CFA"
+    :name: Residents Action Movement
+    :short_name: RAM
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 3
+    :percent: 0.01
+    :electorate: Dunedin South
+    :year: '2008'
+    :election_type: general

@@ -1,0 +1,281 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Judith Tizard
+    :last_name: Tizard
+    :first_name: Judith
+  :candidacy:
+    :votes: 15794
+    :percent: 43.89
+    :electorate: Auckland Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Pansy Wong
+    :last_name: Wong
+    :first_name: Pansy
+  :candidacy:
+    :votes: 11910
+    :percent: 33.1
+    :electorate: Auckland Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Nandor Tanczos
+    :last_name: Tanczos
+    :first_name: Nandor
+  :candidacy:
+    :votes: 5327
+    :percent: 14.8
+    :electorate: Auckland Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Susan Baragwanath
+    :last_name: Baragwanath
+    :first_name: Susan
+  :candidacy:
+    :votes: 996
+    :percent: 2.77
+    :electorate: Auckland Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Helen Simpson
+    :last_name: Simpson
+    :first_name: Helen
+  :candidacy:
+    :votes: 559
+    :percent: 1.55
+    :electorate: Auckland Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future New Zealand
+    :short_name: United Future
+  :candidate:
+    :name: Steve Taylor
+    :last_name: Taylor
+    :first_name: Steve
+  :candidacy:
+    :votes: 461
+    :percent: 1.28
+    :electorate: Auckland Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: Bronwyn Yates
+    :last_name: Yates
+    :first_name: Bronwyn
+  :candidacy:
+    :votes: 330
+    :percent: 0.92
+    :electorate: Auckland Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: New Zealand Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: Petronella Townsend
+    :last_name: Townsend
+    :first_name: Petronella
+  :candidacy:
+    :votes: 266
+    :percent: 0.74
+    :electorate: Auckland Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Destiny New Zealand
+    :short_name: Destiny
+  :candidate:
+    :name: Maureen Vincent
+    :last_name: Vincent
+    :first_name: Maureen
+  :candidacy:
+    :votes: 150
+    :percent: 0.42
+    :electorate: Auckland Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Thomas Forde
+    :last_name: Forde
+    :first_name: Thomas
+  :candidacy:
+    :votes: 91
+    :percent: 0.25
+    :electorate: Auckland Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#F28317"
+    :name: Direct Democracy Party of New Zealand
+    :short_name: Direct Democracy
+  :candidate:
+    :name: Dilip Rupa
+    :last_name: Rupa
+    :first_name: Dilip
+  :candidacy:
+    :votes: 69
+    :percent: 0.19
+    :electorate: Auckland Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#84C6C6"
+    :name: The Republic of New Zealand Party
+    :short_name: RONZ
+  :candidate:
+    :name: Alan Candy
+    :last_name: Candy
+    :first_name: Alan
+  :candidacy:
+    :votes: 32
+    :percent: 0.09
+    :electorate: Auckland Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 61
+    :percent: 0.17
+    :electorate: Auckland Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 29
+    :percent: 0.08
+    :electorate: Auckland Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 25
+    :percent: 0.07
+    :electorate: Auckland Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 19
+    :percent: 0.05
+    :electorate: Auckland Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#65FFF0"
+    :name: New Zealand Family Rights Protection Party
+    :short_name: Family Rights
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 13
+    :percent: 0.04
+    :electorate: Auckland Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 10
+    :percent: 0.03
+    :electorate: Auckland Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: 99 MP Party
+    :short_name: 99 MP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 5
+    :percent: 0.01
+    :electorate: Auckland Central
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 5
+    :percent: 0.01
+    :electorate: Auckland Central
+    :year: '2005'
+    :election_type: general

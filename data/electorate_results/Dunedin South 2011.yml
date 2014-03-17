@@ -1,0 +1,197 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Clare Curran
+    :last_name: Curran
+    :first_name: Clare
+  :candidacy:
+    :votes: 16844
+    :percent: 48.89
+    :electorate: Dunedin South
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Joanna Hayes
+    :last_name: Hayes
+    :first_name: Joanna
+  :candidacy:
+    :votes: 12669
+    :percent: 36.77
+    :electorate: Dunedin South
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Shane Gallagher
+    :last_name: Gallagher
+    :first_name: Shane
+  :candidacy:
+    :votes: 3197
+    :percent: 9.28
+    :electorate: Dunedin South
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party for Social Credit
+    :short_name: Democrats
+  :candidate:
+    :name: Warren Voight
+    :last_name: Voight
+    :first_name: Warren
+  :candidacy:
+    :votes: 238
+    :percent: 0.69
+    :electorate: Dunedin South
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Kimberly Hannah
+    :last_name: Hannah
+    :first_name: Kimberly
+  :candidacy:
+    :votes: 215
+    :percent: 0.62
+    :electorate: Dunedin South
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Kay Murray
+    :last_name: Murray
+    :first_name: Kay
+  :candidacy:
+    :votes: 142
+    :percent: 0.41
+    :electorate: Dunedin South
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Randall Ratana
+    :last_name: Ratana
+    :first_name: Randall
+  :candidacy:
+    :votes: 979
+    :percent: 2.84
+    :electorate: Dunedin South
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#7F8E89"
+    :name: Restore All Things In Christ
+    :short_name: Restore All Things In Christ
+  :candidate:
+    :name: Robert Wansink
+    :last_name: Wansink
+    :first_name: Robert
+  :candidacy:
+    :votes: 167
+    :percent: 0.48
+    :electorate: Dunedin South
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 520
+    :percent: 1.48
+    :electorate: Dunedin South
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future New Zealand
+    :short_name: United Future
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 186
+    :percent: 0.53
+    :electorate: Dunedin South
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 157
+    :percent: 0.45
+    :electorate: Dunedin South
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 107
+    :percent: 0.3
+    :electorate: Dunedin South
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 62
+    :percent: 0.18
+    :electorate: Dunedin South
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 16
+    :percent: 0.05
+    :electorate: Dunedin South
+    :year: '2011'
+    :election_type: general

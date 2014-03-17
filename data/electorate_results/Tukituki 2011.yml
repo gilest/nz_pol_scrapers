@@ -1,0 +1,183 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Craig Foss
+    :last_name: Foss
+    :first_name: Craig
+  :candidacy:
+    :votes: 19378
+    :percent: 58.42
+    :electorate: Tukituki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Julia Haydon-Carr
+    :last_name: Haydon-Carr
+    :first_name: Julia
+  :candidacy:
+    :votes: 9718
+    :percent: 29.3
+    :electorate: Tukituki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Jim MacDonald
+    :last_name: MacDonald
+    :first_name: Jim
+  :candidacy:
+    :votes: 2319
+    :percent: 6.99
+    :electorate: Tukituki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: Stephen Jenkinson
+    :last_name: Jenkinson
+    :first_name: Stephen
+  :candidacy:
+    :votes: 1078
+    :percent: 3.25
+    :electorate: Tukituki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: Romana (Marnz) Manning
+    :last_name: Manning
+    :first_name: Romana (Marnz)
+  :candidacy:
+    :votes: 352
+    :percent: 1.06
+    :electorate: Tukituki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Robert Burnside
+    :last_name: Burnside
+    :first_name: Robert
+  :candidacy:
+    :votes: 252
+    :percent: 0.76
+    :electorate: Tukituki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: Barry Pulford
+    :last_name: Pulford
+    :first_name: Barry
+  :candidacy:
+    :votes: 74
+    :percent: 0.22
+    :electorate: Tukituki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1995
+    :percent: 5.85
+    :electorate: Tukituki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 263
+    :percent: 0.77
+    :electorate: Tukituki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 220
+    :percent: 0.65
+    :electorate: Tukituki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 117
+    :percent: 0.34
+    :electorate: Tukituki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 19
+    :percent: 0.06
+    :electorate: Tukituki
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 17
+    :percent: 0.05
+    :electorate: Tukituki
+    :year: '2011'
+    :election_type: general

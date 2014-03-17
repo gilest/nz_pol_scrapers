@@ -1,0 +1,281 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Lianne Dalziel
+    :last_name: Dalziel
+    :first_name: Lianne
+  :candidacy:
+    :votes: 20969
+    :percent: 60.31
+    :electorate: Christchurch East
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: David Round
+    :last_name: Round
+    :first_name: David
+  :candidacy:
+    :votes: 8996
+    :percent: 25.88
+    :electorate: Christchurch East
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Mary McCammon
+    :last_name: McCammon
+    :first_name: Mary
+  :candidacy:
+    :votes: 1698
+    :percent: 4.88
+    :electorate: Christchurch East
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future
+    :short_name: United Future
+  :candidate:
+    :name: Dianne Wilson
+    :last_name: Wilson
+    :first_name: Dianne
+  :candidacy:
+    :votes: 1205
+    :percent: 3.47
+    :electorate: Christchurch East
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: New Zealand Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: Karen Silcock
+    :last_name: Silcock
+    :first_name: Karen
+  :candidacy:
+    :votes: 926
+    :percent: 2.66
+    :electorate: Christchurch East
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: John Peters
+    :last_name: Peters
+    :first_name: John
+  :candidacy:
+    :votes: 401
+    :percent: 1.15
+    :electorate: Christchurch East
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: Kevin O'Connell
+    :last_name: O'Connell
+    :first_name: Kevin
+  :candidacy:
+    :votes: 299
+    :percent: 0.86
+    :electorate: Christchurch East
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Lynda Boyd
+    :last_name: Boyd
+    :first_name: Lynda
+  :candidacy:
+    :votes: 167
+    :percent: 0.48
+    :electorate: Christchurch East
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#F28317"
+    :name: Direct Democracy Party of New Zealand
+    :short_name: Direct Democracy
+  :candidate:
+    :name: Kyle Chapman
+    :last_name: Chapman
+    :first_name: Kyle
+  :candidacy:
+    :votes: 63
+    :percent: 0.18
+    :electorate: Christchurch East
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FF0066"
+    :name: Workers Party of New Zealand
+    :short_name: Anti-Capitalist Alliance
+  :candidate:
+    :name: Paul Hopkinson
+    :last_name: Hopkinson
+    :first_name: Paul
+  :candidacy:
+    :votes: 43
+    :percent: 0.12
+    :electorate: Christchurch East
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1694
+    :percent: 4.77
+    :electorate: Christchurch East
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Destiny New Zealand
+    :short_name: Destiny
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 170
+    :percent: 0.48
+    :electorate: Christchurch East
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 97
+    :percent: 0.27
+    :electorate: Christchurch East
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage Party of New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 54
+    :percent: 0.15
+    :electorate: Christchurch East
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party for Social Credit
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 18
+    :percent: 0.05
+    :electorate: Christchurch East
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 13
+    :percent: 0.04
+    :electorate: Christchurch East
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#65FFF0"
+    :name: New Zealand Family Rights Protection Party
+    :short_name: Family Rights
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 7
+    :percent: 0.02
+    :electorate: Christchurch East
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: 99 MP Party
+    :short_name: 99 MP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 6
+    :percent: 0.02
+    :electorate: Christchurch East
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#84C6C6"
+    :name: The Republic of New Zealand Party
+    :short_name: RONZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 6
+    :percent: 0.02
+    :electorate: Christchurch East
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 5
+    :percent: 0.01
+    :electorate: Christchurch East
+    :year: '2005'
+    :election_type: general

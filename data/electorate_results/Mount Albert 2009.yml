@@ -1,0 +1,211 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: David Shearer
+    :last_name: Shearer
+    :first_name: David
+  :candidacy:
+    :votes: 13260
+    :percent: 63.49
+    :electorate: Mount Albert
+    :year: '2009'
+    :election_type: by-election
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Melissa Lee
+    :last_name: Lee
+    :first_name: Melissa
+  :candidacy:
+    :votes: 3542
+    :percent: 16.96
+    :electorate: Mount Albert
+    :year: '2009'
+    :election_type: by-election
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Russel Norman
+    :last_name: Norman
+    :first_name: Russel
+  :candidacy:
+    :votes: 2567
+    :percent: 12.29
+    :electorate: Mount Albert
+    :year: '2009'
+    :election_type: by-election
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: John Boscawen
+    :last_name: Boscawen
+    :first_name: John
+  :candidacy:
+    :votes: 968
+    :percent: 4.63
+    :electorate: Mount Albert
+    :year: '2009'
+    :election_type: by-election
+- :party:
+    :colour: "#186E23"
+    :name: Bill and Ben Party
+    :short_name: Bill and Ben
+  :candidate:
+    :name: Ben Boyce
+    :last_name: Boyce
+    :first_name: Ben
+  :candidacy:
+    :votes: 158
+    :percent: 0.76
+    :electorate: Mount Albert
+    :year: '2009'
+    :election_type: by-election
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: Dakta Green
+    :last_name: Green
+    :first_name: Dakta
+  :candidacy:
+    :votes: 92
+    :percent: 0.44
+    :electorate: Mount Albert
+    :year: '2009'
+    :election_type: by-election
+- :party:
+    :colour: "#363096"
+    :name: The Kiwi Party
+    :short_name: Kiwi
+  :candidate:
+    :name: Simonne Dyer
+    :last_name: Dyer
+    :first_name: Simonne
+  :candidacy:
+    :votes: 91
+    :percent: 0.44
+    :electorate: Mount Albert
+    :year: '2009'
+    :election_type: by-election
+- :party:
+    :colour: "#501557"
+    :name: United Future New Zealand
+    :short_name: United Future
+  :candidate:
+    :name: Judy Turner
+    :last_name: Turner
+    :first_name: Judy
+  :candidacy:
+    :votes: 89
+    :percent: 0.43
+    :electorate: Mount Albert
+    :year: '2009'
+    :election_type: by-election
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: Julian Pistorius
+    :last_name: Pistorius
+    :first_name: Julian
+  :candidacy:
+    :votes: 39
+    :percent: 0.19
+    :electorate: Mount Albert
+    :year: '2009'
+    :election_type: by-election
+- :party:
+    :colour: background-color:#E9E9E9
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Jim Bagnell
+    :last_name: Bagnell
+    :first_name: Jim
+  :candidacy:
+    :votes: 24
+    :percent: 0.11
+    :electorate: Mount Albert
+    :year: '2009'
+    :election_type: by-election
+- :party:
+    :colour: background-color:#E9E9E9
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Ari Baker
+    :last_name: Baker
+    :first_name: Ari
+  :candidacy:
+    :votes: 15
+    :percent: 0.07
+    :electorate: Mount Albert
+    :year: '2009'
+    :election_type: by-election
+- :party:
+    :colour: background-color:#E9E9E9
+    :name: Human Rights Party
+    :short_name: Human Rights
+  :candidate:
+    :name: Anthony Van den Heuvel
+    :last_name: Heuvel
+    :first_name: Anthony Van den
+  :candidacy:
+    :votes: 13
+    :percent: 0.06
+    :electorate: Mount Albert
+    :year: '2009'
+    :election_type: by-election
+- :party:
+    :colour: background-color:#E9E9E9
+    :name: People Before Profit
+    :short_name: People Before Profit
+  :candidate:
+    :name: Malcom France
+    :last_name: France
+    :first_name: Malcom
+  :candidacy:
+    :votes: 13
+    :percent: 0.06
+    :electorate: Mount Albert
+    :year: '2009'
+    :election_type: by-election
+- :party:
+    :colour: background-color:#E9E9E9
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Jackson James Wood
+    :last_name: Wood
+    :first_name: Jackson James
+  :candidacy:
+    :votes: 9
+    :percent: 0.04
+    :electorate: Mount Albert
+    :year: '2009'
+    :election_type: by-election
+- :party:
+    :colour: background-color:#E9E9E9
+    :name: People's Choice Party
+    :short_name: People's Choice
+  :candidate:
+    :name: Rusty Kane
+    :last_name: Kane
+    :first_name: Rusty
+  :candidacy:
+    :votes: 5
+    :percent: 0.02
+    :electorate: Mount Albert
+    :year: '2009'
+    :election_type: by-election

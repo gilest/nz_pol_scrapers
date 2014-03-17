@@ -1,0 +1,183 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Colin King
+    :last_name: King
+    :first_name: Colin
+  :candidacy:
+    :votes: 19961
+    :percent: 60.25
+    :electorate: Kaikōura
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Liz Collyns
+    :last_name: Collyns
+    :first_name: Liz
+  :candidacy:
+    :votes: 8516
+    :percent: 25.7
+    :electorate: Kaikōura
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Steffan Browning
+    :last_name: Browning
+    :first_name: Steffan
+  :candidacy:
+    :votes: 3784
+    :percent: 11.42
+    :electorate: Kaikōura
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Richard Evans
+    :last_name: Evans
+    :first_name: Richard
+  :candidacy:
+    :votes: 457
+    :percent: 1.38
+    :electorate: Kaikōura
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party for Social Credit
+    :short_name: Democrats
+  :candidate:
+    :name: John McCaskey
+    :last_name: McCaskey
+    :first_name: John
+  :candidacy:
+    :votes: 283
+    :percent: 0.85
+    :electorate: Kaikōura
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: Ian Hayes
+    :last_name: Hayes
+    :first_name: Ian
+  :candidacy:
+    :votes: 131
+    :percent: 0.4
+    :electorate: Kaikōura
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 2236
+    :percent: 6.55
+    :electorate: Kaikōura
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1296
+    :percent: 3.8
+    :electorate: Kaikōura
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future New Zealand
+    :short_name: United Future
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 306
+    :percent: 0.9
+    :electorate: Kaikōura
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 165
+    :percent: 0.48
+    :electorate: Kaikōura
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 147
+    :percent: 0.43
+    :electorate: Kaikōura
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 45
+    :percent: 0.13
+    :electorate: Kaikōura
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 19
+    :percent: 0.06
+    :electorate: Kaikōura
+    :year: '2011'
+    :election_type: general

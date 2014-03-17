@@ -1,0 +1,141 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Poto Williams
+    :last_name: Williams
+    :first_name: Poto
+  :candidacy:
+    :votes: 8414
+    :percent: 61.29
+    :electorate: Christchurch East
+    :year: '2013'
+    :election_type: by-election
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Matthew Doocey
+    :last_name: Doocey
+    :first_name: Matthew
+  :candidacy:
+    :votes: 3577
+    :percent: 26.06
+    :electorate: Christchurch East
+    :year: '2013'
+    :election_type: by-election
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: David Moorhouse
+    :last_name: Moorhouse
+    :first_name: David
+  :candidacy:
+    :votes: 954
+    :percent: 6.95
+    :electorate: Christchurch East
+    :year: '2013'
+    :election_type: by-election
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: Leighton Baker
+    :last_name: Baker
+    :first_name: Leighton
+  :candidacy:
+    :votes: 494
+    :percent: 3.6
+    :electorate: Christchurch East
+    :year: '2013'
+    :election_type: by-election
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Sam Park
+    :last_name: Park
+    :first_name: Sam
+  :candidacy:
+    :votes: 78
+    :percent: 0.57
+    :electorate: Christchurch East
+    :year: '2013'
+    :election_type: by-election
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: Paula Lambert
+    :last_name: Lambert
+    :first_name: Paula
+  :candidacy:
+    :votes: 59
+    :percent: 0.43
+    :electorate: Christchurch East
+    :year: '2013'
+    :election_type: by-election
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Gareth Veale
+    :last_name: Veale
+    :first_name: Gareth
+  :candidacy:
+    :votes: 58
+    :percent: 0.42
+    :electorate: Christchurch East
+    :year: '2013'
+    :election_type: by-election
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Adam Holland
+    :last_name: Holland
+    :first_name: Adam
+  :candidacy:
+    :votes: 31
+    :percent: 0.23
+    :electorate: Christchurch East
+    :year: '2013'
+    :election_type: by-election
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Ian Gaskin
+    :last_name: Gaskin
+    :first_name: Ian
+  :candidacy:
+    :votes: 20
+    :percent: 0.15
+    :electorate: Christchurch East
+    :year: '2013'
+    :election_type: by-election
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party for Social Credit
+    :short_name: Democrats
+  :candidate:
+    :name: Jenner Lichtwark
+    :last_name: Lichtwark
+    :first_name: Jenner
+  :candidacy:
+    :votes: 20
+    :percent: 0.15
+    :electorate: Christchurch East
+    :year: '2013'
+    :election_type: by-election

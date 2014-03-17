@@ -1,0 +1,239 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Christine Fletcher
+    :last_name: Fletcher
+    :first_name: Christine
+  :candidacy:
+    :votes: 25217
+    :percent: 69.95
+    :electorate: Epsom
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Helen Duncan
+    :last_name: Duncan
+    :first_name: Helen
+  :candidacy:
+    :votes: 4575
+    :percent: 12.69
+    :electorate: Epsom
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Mary Tierney
+    :last_name: Tierney
+    :first_name: Mary
+  :candidacy:
+    :votes: 1787
+    :percent: 4.96
+    :electorate: Epsom
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Gavin Logan
+    :last_name: Logan
+    :first_name: Gavin
+  :candidacy:
+    :votes: 1342
+    :percent: 3.72
+    :electorate: Epsom
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: John Boscawen
+    :last_name: Boscawen
+    :first_name: John
+  :candidacy:
+    :votes: 1134
+    :percent: 3.15
+    :electorate: Epsom
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Coalition
+    :short_name: Christian Coalition
+  :candidate:
+    :name: Ewen McQueen
+    :last_name: McQueen
+    :first_name: Ewen
+  :candidacy:
+    :votes: 577
+    :percent: 1.6
+    :electorate: Epsom
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: Lindsay Perigo
+    :last_name: Perigo
+    :first_name: Lindsay
+  :candidacy:
+    :votes: 534
+    :percent: 1.48
+    :electorate: Epsom
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#339999"
+    :name: Progressive Green Party
+    :short_name: Progressive Greens
+  :candidate:
+    :name: Rob Fenwick
+    :last_name: Fenwick
+    :first_name: Rob
+  :candidacy:
+    :votes: 360
+    :percent: 1.0
+    :electorate: Epsom
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: McGillicuddy Serious Party
+    :short_name: McGillicuddy Serious
+  :candidate:
+    :name: Kerry Hoole
+    :last_name: Hoole
+    :first_name: Kerry
+  :candidacy:
+    :votes: 247
+    :percent: 0.69
+    :electorate: Epsom
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#74B249"
+    :name: Green Society
+    :short_name: Green Society
+  :candidate:
+    :name: Sam Cunningham
+    :last_name: Cunningham
+    :first_name: Sam
+  :candidacy:
+    :votes: 112
+    :percent: 0.31
+    :electorate: Epsom
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#333366"
+    :name: Natural Law Party of New Zealand
+    :short_name: Natural Law
+  :candidate:
+    :name: Bryan Lee
+    :last_name: Lee
+    :first_name: Bryan
+  :candidacy:
+    :votes: 89
+    :percent: 0.25
+    :electorate: Epsom
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#663377"
+    :name: United New Zealand
+    :short_name: United NZ
+  :candidate:
+    :name: Bryan Mockridge
+    :last_name: Mockridge
+    :first_name: Bryan
+  :candidacy:
+    :votes: 78
+    :percent: 0.22
+    :electorate: Epsom
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 427
+    :percent: 1.18
+    :electorate: Epsom
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Animals First
+    :short_name: Animals First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 53
+    :percent: 0.15
+    :electorate: Epsom
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#787878"
+    :name: Superannuitants and Youth Action
+    :short_name: Superannuitants & Youth
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 15
+    :percent: 0.04
+    :electorate: Epsom
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 11
+    :percent: 0.03
+    :electorate: Epsom
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#0D0DFC"
+    :name: New Zealand Conservative Party
+    :short_name: Conservatives
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 8
+    :percent: 0.02
+    :electorate: Epsom
+    :year: '1996'
+    :election_type: general

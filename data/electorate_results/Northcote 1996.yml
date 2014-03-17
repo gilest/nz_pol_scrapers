@@ -1,0 +1,253 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Ian Revell
+    :last_name: Revell
+    :first_name: Ian
+  :candidacy:
+    :votes: 13779
+    :percent: 41.01
+    :electorate: Northcote
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Ann Hartley
+    :last_name: Hartley
+    :first_name: Ann
+  :candidacy:
+    :votes: 9216
+    :percent: 27.43
+    :electorate: Northcote
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Grant Gillon
+    :last_name: Gillon
+    :first_name: Grant
+  :candidacy:
+    :votes: 3923
+    :percent: 11.68
+    :electorate: Northcote
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Janie Phillips
+    :last_name: Phillips
+    :first_name: Janie
+  :candidacy:
+    :votes: 2875
+    :percent: 8.56
+    :electorate: Northcote
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#663377"
+    :name: United New Zealand
+    :short_name: United NZ
+  :candidate:
+    :name: Peter Hilt
+    :last_name: Hilt
+    :first_name: Peter
+  :candidacy:
+    :votes: 1955
+    :percent: 5.82
+    :electorate: Northcote
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Kieran Bird
+    :last_name: Bird
+    :first_name: Kieran
+  :candidacy:
+    :votes: 1235
+    :percent: 3.68
+    :electorate: Northcote
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: McGillicuddy Serious Party
+    :short_name: McGillicuddy Serious
+  :candidate:
+    :name: Bernard Smith
+    :last_name: Smith
+    :first_name: Bernard
+  :candidacy:
+    :votes: 235
+    :percent: 0.7
+    :electorate: Northcote
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#339999"
+    :name: Progressive Green Party
+    :short_name: Progressive Greens
+  :candidate:
+    :name: Peter Lee
+    :last_name: Lee
+    :first_name: Peter
+  :candidacy:
+    :votes: 213
+    :percent: 0.63
+    :electorate: Northcote
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#74B249"
+    :name: Green Society
+    :short_name: Green Society
+  :candidate:
+    :name: Merete Molving
+    :last_name: Molving
+    :first_name: Merete
+  :candidacy:
+    :votes: 100
+    :percent: 0.3
+    :electorate: Northcote
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#333366"
+    :name: Natural Law Party of New Zealand
+    :short_name: Natural Law
+  :candidate:
+    :name: Kevin O'Brien
+    :last_name: O'Brien
+    :first_name: Kevin
+  :candidacy:
+    :votes: 52
+    :percent: 0.15
+    :electorate: Northcote
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Republican Party (1995)
+    :short_name: Republican
+  :candidate:
+    :name: Pamera Warner
+    :last_name: Warner
+    :first_name: Pamera
+  :candidacy:
+    :votes: 15
+    :percent: 0.04
+    :electorate: Northcote
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Coalition
+    :short_name: Christian Coalition
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1318
+    :percent: 3.9
+    :electorate: Northcote
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 451
+    :percent: 1.34
+    :electorate: Northcote
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Animals First
+    :short_name: Animals First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 54
+    :percent: 0.16
+    :electorate: Northcote
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#787878"
+    :name: Superannuitants and Youth Action
+    :short_name: Superannuitants & Youth
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 26
+    :percent: 0.08
+    :electorate: Northcote
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 19
+    :percent: 0.06
+    :electorate: Northcote
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#0D0DFC"
+    :name: New Zealand Conservative Party
+    :short_name: Conservatives
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 7
+    :percent: 0.02
+    :electorate: Northcote
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 5
+    :percent: 0.01
+    :electorate: Northcote
+    :year: '1996'
+    :election_type: general

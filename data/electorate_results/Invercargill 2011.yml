@@ -1,0 +1,183 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Eric Roy
+    :last_name: Roy
+    :first_name: Eric
+  :candidacy:
+    :votes: 17275
+    :percent: 54.58
+    :electorate: Invercargill
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Lesley Soper
+    :last_name: Soper
+    :first_name: Lesley
+  :candidacy:
+    :votes: 11012
+    :percent: 34.79
+    :electorate: Invercargill
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: David Kennedy
+    :last_name: Kennedy
+    :first_name: David
+  :candidacy:
+    :votes: 2433
+    :percent: 7.69
+    :electorate: Invercargill
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party for Social Credit
+    :short_name: Democrats
+  :candidate:
+    :name: Stephnie de Ruyter
+    :last_name: Ruyter
+    :first_name: Stephnie de
+  :candidacy:
+    :votes: 521
+    :percent: 1.65
+    :electorate: Invercargill
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Ian Carline
+    :last_name: Carline
+    :first_name: Ian
+  :candidacy:
+    :votes: 276
+    :percent: 0.87
+    :electorate: Invercargill
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: Shane Pleasance
+    :last_name: Pleasance
+    :first_name: Shane
+  :candidacy:
+    :votes: 133
+    :percent: 0.42
+    :electorate: Invercargill
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 2213
+    :percent: 6.84
+    :electorate: Invercargill
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#00AEEF"
+    :name: Conservative Party of New Zealand
+    :short_name: Conservative
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 643
+    :percent: 1.99
+    :electorate: Invercargill
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future New Zealand
+    :short_name: United Future
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 264
+    :percent: 0.82
+    :electorate: Invercargill
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 257
+    :percent: 0.79
+    :electorate: Invercargill
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 162
+    :percent: 0.5
+    :electorate: Invercargill
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#770808"
+    :name: Mana Party
+    :short_name: Mana
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 63
+    :percent: 0.19
+    :electorate: Invercargill
+    :year: '2011'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 34
+    :percent: 0.11
+    :electorate: Invercargill
+    :year: '2011'
+    :election_type: general

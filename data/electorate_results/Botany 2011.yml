@@ -1,0 +1,141 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Jami-Lee Ross
+    :last_name: Ross
+    :first_name: Jami-Lee
+  :candidacy:
+    :votes: 8352
+    :percent: 54.25
+    :electorate: Botany
+    :year: '2011'
+    :election_type: by-election
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Michael Wood
+    :last_name: Wood
+    :first_name: Michael
+  :candidacy:
+    :votes: 4380
+    :percent: 28.45
+    :electorate: Botany
+    :year: '2011'
+    :election_type: by-election
+- :party:
+    :colour: "#D0BA42"
+    :name: New Citizen Party
+    :short_name: New Citizen
+  :candidate:
+    :name: Paul Young
+    :last_name: Young
+    :first_name: Paul
+  :candidacy:
+    :votes: 1626
+    :percent: 10.56
+    :electorate: Botany
+    :year: '2011'
+    :election_type: by-election
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Lyn Murphy
+    :last_name: Murphy
+    :first_name: Lyn
+  :candidacy:
+    :votes: 687
+    :percent: 4.46
+    :electorate: Botany
+    :year: '2011'
+    :election_type: by-election
+- :party:
+    :colour: background-color:#E9E9E9
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Penny Bright
+    :last_name: Bright
+    :first_name: Penny
+  :candidacy:
+    :votes: 128
+    :percent: 0.83
+    :electorate: Botany
+    :year: '2011'
+    :election_type: by-election
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: Leo Biggs
+    :last_name: Biggs
+    :first_name: Leo
+  :candidacy:
+    :votes: 61
+    :percent: 0.4
+    :electorate: Botany
+    :year: '2011'
+    :election_type: by-election
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Wayne Young
+    :last_name: Young
+    :first_name: Wayne
+  :candidacy:
+    :votes: 54
+    :percent: 0.35
+    :electorate: Botany
+    :year: '2011'
+    :election_type: by-election
+- :party:
+    :colour: "#E7901F"
+    :name: Join Australia Movement Party
+    :short_name: Join Australia
+  :candidate:
+    :name: Robin Caithness
+    :last_name: Caithness
+    :first_name: Robin
+  :candidacy:
+    :votes: 45
+    :percent: 0.29
+    :electorate: Botany
+    :year: '2011'
+    :election_type: by-election
+- :party:
+    :colour: "#7F27D6"
+    :name: Pirate Party of New Zealand
+    :short_name: Pirate
+  :candidate:
+    :name: Hussain Al-saady
+    :last_name: Al-saady
+    :first_name: Hussain
+  :candidacy:
+    :votes: 32
+    :percent: 0.21
+    :electorate: Botany
+    :year: '2011'
+    :election_type: by-election
+- :party:
+    :colour: background-color:#E9E9E9
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Robert Goh
+    :last_name: Goh
+    :first_name: Robert
+  :candidacy:
+    :votes: 31
+    :percent: 0.2
+    :electorate: Botany
+    :year: '2011'
+    :election_type: by-election

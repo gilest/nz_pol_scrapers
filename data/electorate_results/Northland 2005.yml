@@ -1,0 +1,281 @@
+---
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: John Carter
+    :last_name: Carter
+    :first_name: John
+  :candidacy:
+    :votes: 16577
+    :percent: 54.12
+    :electorate: Northland
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Shane Jones
+    :last_name: Jones
+    :first_name: Shane
+  :candidacy:
+    :votes: 7302
+    :percent: 23.84
+    :electorate: Northland
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#098137"
+    :name: Green Party of Aotearoa New Zealand
+    :short_name: Green
+  :candidate:
+    :name: Sue Bradford
+    :last_name: Bradford
+    :first_name: Sue
+  :candidacy:
+    :votes: 2764
+    :percent: 9.02
+    :electorate: Northland
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Jim Peters
+    :last_name: Peters
+    :first_name: Jim
+  :candidacy:
+    :votes: 2547
+    :percent: 8.32
+    :electorate: Northland
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#EF4A42"
+    :name: Māori Party
+    :short_name: Māori
+  :candidate:
+    :name: Malcolm Peri
+    :last_name: Peri
+    :first_name: Malcolm
+  :candidacy:
+    :votes: 550
+    :percent: 1.8
+    :electorate: Northland
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#501557"
+    :name: United Future New Zealand
+    :short_name: United Future
+  :candidate:
+    :name: Phil Johnson
+    :last_name: Johnson
+    :first_name: Phil
+  :candidacy:
+    :votes: 315
+    :percent: 1.03
+    :electorate: Northland
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Destiny New Zealand
+    :short_name: Destiny
+  :candidate:
+    :name: David Isaachsen
+    :last_name: Isaachsen
+    :first_name: David
+  :candidacy:
+    :votes: 278
+    :percent: 0.91
+    :electorate: Northland
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Tom McClelland
+    :last_name: McClelland
+    :first_name: Tom
+  :candidacy:
+    :votes: 216
+    :percent: 0.71
+    :electorate: Northland
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: Julian Pistorius
+    :last_name: Pistorius
+    :first_name: Julian
+  :candidacy:
+    :votes: 51
+    :percent: 0.17
+    :electorate: Northland
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Gray Phillips
+    :last_name: Phillips
+    :first_name: Gray
+  :candidacy:
+    :votes: 18
+    :percent: 0.06
+    :electorate: Northland
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#F28317"
+    :name: Direct Democracy Party of New Zealand
+    :short_name: Direct Democracy
+  :candidate:
+    :name: Mel Whaanga
+    :last_name: Whaanga
+    :first_name: Mel
+  :candidacy:
+    :votes: 10
+    :percent: 0.03
+    :electorate: Northland
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#9E9E9E"
+    :name: New Zealand Progressive Party
+    :short_name: Progressive
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 272
+    :percent: 0.88
+    :electorate: Northland
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 94
+    :percent: 0.3
+    :electorate: Northland
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#339966"
+    :name: New Zealand Democratic Party
+    :short_name: Democrats
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 48
+    :percent: 0.015
+    :electorate: Northland
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Heritage New Zealand
+    :short_name: Christian Heritage
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 37
+    :percent: 0.12
+    :electorate: Northland
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 27
+    :percent: 0.09
+    :electorate: Northland
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: 99 MP Party
+    :short_name: 99 MP
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 11
+    :percent: 0.04
+    :electorate: Northland
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#65FFF0"
+    :name: New Zealand Family Rights Protection Party
+    :short_name: Family Rights
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 6
+    :percent: 0.02
+    :electorate: Northland
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#800080"
+    :name: One New Zealand Party
+    :short_name: One NZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 6
+    :percent: 0.02
+    :electorate: Northland
+    :year: '2005'
+    :election_type: general
+- :party:
+    :colour: "#84C6C6"
+    :name: The Republic of New Zealand Party
+    :short_name: RONZ
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 6
+    :percent: 0.02
+    :electorate: Northland
+    :year: '2005'
+    :election_type: general

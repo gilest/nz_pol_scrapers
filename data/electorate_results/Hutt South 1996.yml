@@ -1,0 +1,253 @@
+---
+- :party:
+    :colour: "#FF0000"
+    :name: New Zealand Labour Party
+    :short_name: Labour
+  :candidate:
+    :name: Trevor Mallard
+    :last_name: Mallard
+    :first_name: Trevor
+  :candidacy:
+    :votes: 14023
+    :percent: 44.99
+    :electorate: Hutt South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#00529F"
+    :name: New Zealand National Party
+    :short_name: National
+  :candidate:
+    :name: Joy McLauchlan
+    :last_name: McLauchlan
+    :first_name: Joy
+  :candidacy:
+    :votes: 11567
+    :percent: 37.11
+    :electorate: Hutt South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#AB0616"
+    :name: Alliance
+    :short_name: Alliance
+  :candidate:
+    :name: Peter Love
+    :last_name: Love
+    :first_name: Peter
+  :candidacy:
+    :votes: 2125
+    :percent: 6.82
+    :electorate: Hutt South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#000000"
+    :name: New Zealand First
+    :short_name: NZ First
+  :candidate:
+    :name: Deborah Morris
+    :last_name: Morris
+    :first_name: Deborah
+  :candidacy:
+    :votes: 2042
+    :percent: 6.55
+    :electorate: Hutt South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FDE401"
+    :name: ACT New Zealand
+    :short_name: ACT
+  :candidate:
+    :name: Chistopher Milne
+    :last_name: Milne
+    :first_name: Chistopher
+  :candidacy:
+    :votes: 684
+    :percent: 2.19
+    :electorate: Hutt South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FFC0CB"
+    :name: McGillicuddy Serious Party
+    :short_name: McGillicuddy Serious
+  :candidate:
+    :name: Alastair McGlinchy
+    :last_name: McGlinchy
+    :first_name: Alastair
+  :candidacy:
+    :votes: 228
+    :percent: 0.73
+    :electorate: Hutt South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#663377"
+    :name: United New Zealand
+    :short_name: United NZ
+  :candidate:
+    :name: Frank Owen
+    :last_name: Owen
+    :first_name: Frank
+  :candidacy:
+    :votes: 222
+    :percent: 0.71
+    :electorate: Hutt South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#787878"
+    :name: Superannuitants and Youth Action
+    :short_name: Superannuitants & Youth
+  :candidate:
+    :name: Jack Powell
+    :last_name: Powell
+    :first_name: Jack
+  :candidacy:
+    :votes: 163
+    :percent: 0.52
+    :electorate: Hutt South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#333366"
+    :name: Natural Law Party of New Zealand
+    :short_name: Natural Law
+  :candidate:
+    :name: Angela Slade
+    :last_name: Slade
+    :first_name: Angela
+  :candidacy:
+    :votes: 65
+    :percent: 0.21
+    :electorate: Hutt South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#DDDDDD"
+    :name: Independent
+    :short_name: Independent
+  :candidate:
+    :name: Brian Russell
+    :last_name: Russell
+    :first_name: Brian
+  :candidacy:
+    :votes: 53
+    :percent: 0.17
+    :electorate: Hutt South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#878FB8"
+    :name: Christian Coalition
+    :short_name: Christian Coalition
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 1443
+    :percent: 4.6
+    :electorate: Hutt South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#33CC33"
+    :name: Aotearoa Legalise Cannabis Party
+    :short_name: Legalise Cannabis
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 382
+    :percent: 1.22
+    :electorate: Hutt South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#FFFF00"
+    :name: Animals First
+    :short_name: Animals First
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 61
+    :percent: 0.19
+    :electorate: Hutt South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#339999"
+    :name: Progressive Green Party
+    :short_name: Progressive Greens
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 47
+    :percent: 0.15
+    :electorate: Hutt South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#74B249"
+    :name: Green Society
+    :short_name: Green Society
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 15
+    :percent: 0.05
+    :electorate: Hutt South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#09296B"
+    :name: Libertarianz
+    :short_name: Libertarianz
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 10
+    :percent: 0.03
+    :electorate: Hutt South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#964B00"
+    :name: Mana Māori Movement
+    :short_name: Mana Māori
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 9
+    :percent: 0.03
+    :electorate: Hutt South
+    :year: '1996'
+    :election_type: general
+- :party:
+    :colour: "#0D0DFC"
+    :name: New Zealand Conservative Party
+    :short_name: Conservatives
+  :candidate:
+    :name: " "
+    :last_name: " "
+    :first_name: ''
+  :candidacy:
+    :votes: 4
+    :percent: 0.01
+    :electorate: Hutt South
+    :year: '1996'
+    :election_type: general
