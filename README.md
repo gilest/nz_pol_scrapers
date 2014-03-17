@@ -25,7 +25,7 @@ Included is a data point for each 'candidacy' (an instance of a candidate seekin
     { 
       party: { name: 'Green Party of Aotearoa New Zealand', short_name: 'Green'. colour: '#098137' },
       candidate: { name: 'Nándor Tánczos', first_name: 'Nándor', last_name: 'Tánczos' },
-      candidacy: { votes: 3057, percent: 9.37, electorate: 'Auckland Central', year: 1999 }
+      candidacy: { votes: 3057, percent: 9.37, electorate: 'Auckland Central', year: 1999, election_type: 'general' }
     }
 
 #### scrape_to_files
@@ -78,5 +78,5 @@ Scrapes and returns an array of hashes with two keys, `:name` and `:url` which r
 
 Scrapes and returns a hash. The array is probably easier to use in most cases.
 
-    NZPolScrapers::ElectorateScraper.scrape_to_array
+    NZPolScrapers::ElectorateScraper.scrape_to_hash
      => {:"Auckland Central"=>{:name=>"Auckland Central", :url=>"http://en.wikipedia.org/wiki/Auckland_Central...
