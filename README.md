@@ -2,6 +2,8 @@
 
 Wikipedia scrapers which parse information about NZ politics.
 
+Just want the data? Check the data directory of this repository.
+
 ## Installation
 
 Add this line to your application's Gemfile:
