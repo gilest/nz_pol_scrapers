@@ -13,6 +13,7 @@ module NZPolScrapers
         file.puts parsed_rows.to_yaml
         file.close
       end
+      return
     end
 
     def self.scrape_to_hash
@@ -36,7 +37,6 @@ module NZPolScrapers
           yield parsed_rows, electorate
         end
       end
-      # and we're done :)
     end
 
     def self.election_result_tables_for(electorate)
