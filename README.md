@@ -22,18 +22,22 @@ This scraper retrieves electorate election results from Wikipedia.
 
 Included is a data point for each 'candidacy' (an instance of a candidate seeking election in an electorate) formatted as follows.
 
-    { 
-      party: { name: 'Green Party of Aotearoa New Zealand', short_name: 'Green'. colour: '#098137' },
-      candidate: { name: 'Nándor Tánczos', first_name: 'Nándor', last_name: 'Tánczos' },
-      candidacy: { votes: 3057, percent: 9.37, electorate: 'Auckland Central', year: 1999, election_type: 'general' }
-    }
+```ruby
+{ 
+  party: { name: 'Green Party of Aotearoa New Zealand', short_name: 'Green'. colour: '#098137' },
+  candidate: { name: 'Nándor Tánczos', first_name: 'Nándor', last_name: 'Tánczos' },
+  candidacy: { votes: 3057, percent: 9.37, electorate: 'Auckland Central', year: 1999, election_type: 'general' }
+}
+```
 
 #### scrape_to_files
 
 Scrapes and saves data in a file in the specified directory.
-	
-	directory = '/Users/giles/scrape/electorate_results/'
-    NZPolScrapers::ElectorateResultsScraper.scrape_to_files(directory)
+
+```ruby	
+directory = '/Users/giles/scrape/electorate_results/'
+NZPolScrapers::ElectorateResultsScraper.scrape_to_files(directory)
+```
     
 Running this will result in:
 
@@ -48,8 +52,10 @@ Running this will result in:
 
 Scrapes and returns a hash.
 
-    NZPolScrapers::ElectorateResultsScraper.scrape_to_hash
-     => {:party=>{:colour=>"#098137", :name=>"Green Party of Aotearoa New Zealand", :short_name=>"Green"}...
+```ruby
+NZPolScrapers::ElectorateResultsScraper.scrape_to_hash
+=> {:party=>{:colour=>"#098137", :name=>"Green Party of Aotearoa New Zealand", :short_name=>"Green"}...
+```
 
 ### NZPolScrapers::ElectorateScraper
 
@@ -58,9 +64,11 @@ This scraper retrieves the names of all electorates in New Zealand from Wikipedi
 #### scrape_to_files
 
 Scrapes and saves data in a file in the specified directory.
-	
-	directory = '/Users/giles/scrape/electorates/'
-    NZPolScrapers::ElectorateScraper.scrape_to_files(directory)
+
+```ruby	
+directory = '/Users/giles/scrape/electorates/'
+NZPolScrapers::ElectorateScraper.scrape_to_files(directory)
+```
     
 Running this will result in:
 
@@ -71,12 +79,16 @@ Running this will result in:
 
 Scrapes and returns an array of hashes with two keys, `:name` and `:url` which respectively contain the name and wikipedia url of the electorate.
 
-    NZPolScrapers::ElectorateScraper.scrape_to_array
-    => [{:name=>"Auckland Central", :url=>"http://en.wikipedia.org/wiki/Auckland_Central_(New_Zealand_electorate)"}...
+```ruby
+NZPolScrapers::ElectorateScraper.scrape_to_array
+=> [{:name=>"Auckland Central", :url=>"http://en.wikipedia.org/wiki/Auckland_Central_(New_Zealand_electorate)"}...
+```
 
 #### scrape_to_hash
 
 Scrapes and returns a hash. The array is probably easier to use in most cases.
 
-    NZPolScrapers::ElectorateScraper.scrape_to_hash
-     => {:"Auckland Central"=>{:name=>"Auckland Central", :url=>"http://en.wikipedia.org/wiki/Auckland_Central...
+```ruby
+NZPolScrapers::ElectorateScraper.scrape_to_hash
+ => {:"Auckland Central"=>{:name=>"Auckland Central", :url=>"http://en.wikipedia.org/wiki/Auckland_Central...
+```
